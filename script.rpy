@@ -418,7 +418,7 @@ translate jp finalbattlestart_19d839a4:
 translate jp finalbattlestart_21a0d318:
 
     # y "what will you do? how will you fight against TRAGEDY itself? i'd love to see it."
-    y "あなたならどうしますか？「悲劇」そのものと戦うのか。気になりますね。"
+    y "あなたならどうしますか？「悲劇」そのものと戦うのか？気になりますね。"
 
 # game/script.rpy:465
 translate jp yourmove_8cda8f2b:
@@ -466,229 +466,229 @@ translate jp mymove_61e7a1d6:
 translate jp mymove_e35dbfa7:
 
     # t "\"I COMMEND YOUR THOROUGHNESS. SURELY THESE CHARACTERS HAVE A SPECIAL PLACE IN YOUR HEART!\""
-    t ""
+    t "\"あなたの執着の信念を認めよう。彼らはあなたにとってきっと特別な絆があるでしょう！\""
 
 # game/script.rpy:506
 translate jp mymove_6e8b8dc4:
 
     # y "you've witnessed [persistent.endings_seen] of my painstakingly crafted endings. your heart does indeed ache for these characters..."
-    y ""
+    y "あなたはもう私が丁寧に作られた[persistent.endings_seen]個悲劇を見た。確かに君はこれらのドールを気に入った。"
 
 # game/script.rpy:507
 translate jp mymove_45159723:
 
     # t "\"HOW COULD YOU WANT TO PUT AN END TO ALL THIS? DO YOU TRULY CARE FOR THEM THAT MUCH?\""
-    t ""
+    t "どうしたら全てを終わらせようと思うのか、そんなにドールたちが気になるもんですか？"
 
 # game/script.rpy:508
 translate jp mymove_13558c37:
 
     # t "\"THEY'RE STILL SUFFERING BACKSTAGE, YOU KNOW. IT'S A SHAME THEY COULDN'T MAKE IT HERE, TO THE END OF THE WORLD...\""
-    t ""
+    t "\"彼らはまだバックステージで苦しんでいますよ。この世界の果てまで来られなかったのはとっても残念です。。。\""
 
 # game/script.rpy:509
 translate jp mymove_7c12957f:
 
     # y "that's right... you came here to save them."
-    y ""
+    y "そうです、君は彼らを救うためにここに来たんだ。"
 
 # game/script.rpy:511
 translate jp mymove_a9fdd7c0:
 
     # y "you can't do this alone."
-    y ""
+    y "一人だけではきない。"
 
 # game/script.rpy:546
 translate jp savehero_d9dbde9b:
 
     # y "you find the hero in his home, hunched over a sewing table."
-    y ""
+    y "あなたは勇者が自宅で裁縫机に向かっている座っている姿を見つけた。"
 
 # game/script.rpy:547
 translate jp savehero_c1f2467d:
 
     # y "your sudden intrusion scares the hell outta the poor guy."
-    y ""
+    y "あなたの突然の侵入が、かわいそうな彼をびっくりさせられた。"
 
 # game/script.rpy:549
 translate jp savehero_847687fc:
 
     # h "\"a-are you some kind of demon?!\""
-    h ""
+    h "\"君は何かの悪魔ですか？\""
 
 # game/script.rpy:550
 translate jp savehero_d37d36d0:
 
     # y "you explain that no, you're not a demon. you're... how can you explain it in a way the hero can understand?"
-    y ""
+    y "あなたは「自分が悪魔ではありません」と説明したが、どうやって、彼をこの状況を理解させるのか？"
 
 # game/script.rpy:551
 translate jp savehero_1a415829:
 
     # y "instead, you ask what he's sewing."
-    y ""
+    y "まず「何を縫っているのか」と聞こう。"
 
 # game/script.rpy:553
 translate jp savehero_e7ce68f3:
 
     # h "\"oh, this? i craft all my own hero gear.\""
-    h ""
+    h "\"これが？これは私が作った私だけの装備だ。\""
 
 # game/script.rpy:554
 translate jp savehero_225064e6:
 
     # y "you sense his pride in his hobby. you wonder if the costumes are what attracted him to the role of \"hero\"..."
-    y ""
+    y "彼の趣味に対する誇りを感じることを気ついた。まさか、衣装のおかげで勇者になりたいと思ったのかなとあなたはそう思う。"
 
 # game/script.rpy:556
 translate jp savehero_cd04e6ff:
 
     # h "\"would you like some clothes? you don't seem to be wearing any...\""
-    h ""
+    h "服を希望ですか？あなたは何も着ていないようですが。。。"
 
 # game/script.rpy:557
 translate jp savehero_a9029503:
 
     # y "you remember the state of your body and decide that yes, some clothes from the hero would be nice."
-    y ""
+    y "あなたは自分の状態を思い出し、「もちろん」と答えた。勇者の作る衣装は必ず間違いがない。"
 
 # game/script.rpy:559
 translate jp savehero_52e0c86f:
 
     # y "he is overjoyed by your answer. apparently his outfits are too gaudy for the other townsfolk, so no one else wants them."
-    y ""
+    y "彼はとても喜んでいました。なぜなら、彼が作った衣装は町の人にとって派手すぎて、誰も欲しくないからのです。"
 
 # game/script.rpy:560
 translate jp savehero_e054fe94:
 
     # y "the true end for the hero suddenly becomes clear..."
-    y ""
+    y "勇者のトゥルーエンド明らかになったそうです。。。"
 
 # game/script.rpy:561
 translate jp savehero_ffa1f6d3:
 
     # y "you offer to change his fate."
-    y ""
+    y "君は彼の運命を変えたいと示した。"
 
 # game/script.rpy:563
 translate jp savehero_9cd3d8fb:
 
     # h "\"i could make a living as a tailor, rather than a hero...? please, tell me what i can do to reach that dream!\""
-    h ""
+    h "勇者ではなく、仕立て屋として生計を立てることができるのか? その夢を叶える方法を教えてください。"
 
 # game/script.rpy:566
 translate jp savehero_6e630763:
 
     # y "the hero will now fight alongside you."
-    y ""
+    y "勇者がチームに入った。"
 
 # game/script.rpy:574
 translate jp savehero_f407d661:
 
     # h "\"i agreed to follow you, but... i didn't expect to face something like this!\""
-    h ""
+    h "\"ついて行くとを約束しましたが、こんなものと相手をするなんて思わなかった！\""
 
 # game/script.rpy:575
 translate jp savehero_fe03e2d5:
 
     # t "\"THE HERO HAS ARRIVED! WE REALLY COULDN'T HAVE A FINAL BOSS BATTLE WITHOUT HIM.\""
-    t ""
+    t "\"勇者は来た！彼がいないと最終BOSSと戦うのは無理。\""
 
 # game/script.rpy:576
 translate jp savehero_61ce132c:
 
     # h "\"you're the one who's been killing us... murderer! i can't truly call myself a hero until i see you defeated!\""
-    h ""
+    h "\"今まで私たちを殺していたのはあなたですね...殺人者！あなたが倒れる前に、私は勇者と名乗るのはいけません。\""
 
 # game/script.rpy:577
 translate jp savehero_11df1f4c:
 
     # t "\"WE'LL SEE ABOUT THAT...\""
-    t ""
+    t "\"それはどうかな。。。\""
 
 # game/script.rpy:578
 translate jp savehero_193b8187:
 
     # y "TRAGEDY attacks with a terrible fate!"
-    y ""
+    y "「悲劇」は恐ろしい運命で攻撃しました。"
 
 # game/script.rpy:591
 translate jp savemaiden_8419d776:
 
     # y "you happen to find the maiden as she exits the church, her heart set on meeting a demon."
-    y ""
+    y "あなたは、悪魔に会いたいと心に決めたの少女が教会を出たところを偶然見つけました。"
 
 # game/script.rpy:592
 translate jp savemaiden_7d299d8d:
 
     # y "perfect timing! she approaches you, having already taken notice of your odd form."
-    y ""
+    y "絶好のタイミング！彼女はあなたの異様な姿に気付いて近づいてきました。"
 
 # game/script.rpy:594
 translate jp savemaiden_df6a5227:
 
     # m "\"excuse me, are you a traveler? i've never seen anyone like you before.\""
-    m ""
+    m "\"失礼ですが、あなたは旅行者ですか？あなたのような人は初めて見ました。\""
 
 # game/script.rpy:595
 translate jp savemaiden_06836861:
 
     # y "you explain that no, you're not a traveler. well, maybe you are, in a sense. you've come all this way..."
-    y ""
+    y "あなたは、自分は旅行者ではないと説明します。まあ、ある意味では旅行者なのかもしれません。"
 
 # game/script.rpy:596
 translate jp savemaiden_e69927e7:
 
     # y "the maiden regards you with excited curiosity."
-    y ""
+    y "乙女は興奮した好奇心であなたを見つめている。"
 
 # game/script.rpy:598
 translate jp savemaiden_d0824d52:
 
     # m "\"then perhaps you might be a demon? i was hoping i would meet one today!\""
-    m ""
+    m "もしかしたら、あなたは悪魔ですか？今日は会えると思っていたんだ～"
 
 # game/script.rpy:599
 translate jp savemaiden_669075ea:
 
     # y "you think of all the terrible fates that hope would bring about. she is the catalyst of this story after all."
-    y ""
+    y "あなたは少女のその「願い」がどれほどの悲劇をもたらすのを思い出す。結局のところ，彼女はこの物語の触媒です。"
 
 # game/script.rpy:601
 translate jp savemaiden_baecda2c:
 
     # m "\"my role as a maiden is to be captured by the overlord. but you see, i've grown so tired of waiting...\""
-    m ""
+    m "\"私は少女としての役割は、悪魔にとらえられることはずだが、ご覧の通り私は待つのをもう草臥れた。。。\""
 
 # game/script.rpy:602
 translate jp savemaiden_5ca1150c:
 
     # y "you remember this part. she wanted to understand her role better, and so..."
-    y ""
+    y "あなたはこの部分のエピソードは覚えています。彼女は自分のキャラクターをもっと理解したいと思っていたので、そして。。。"
 
 # game/script.rpy:603
 translate jp savemaiden_572722f8:
 
     # y "you ask what it is that she's really hoping to gain from this."
-    y ""
+    y "「何か得たいものがあるのですか？」あなたはそう聞いた。"
 
 # game/script.rpy:605
 translate jp savemaiden_4487a056:
 
     # y "the maiden is confused by your question. perhaps it was as simple as wanting to reach the place she felt like she belonged."
-    y ""
+    y "少女はあなたの質問に混乱されています。それは、「自分の居場所がある場所に行きたい」というシンプルな答えかもしれません。"
 
 # game/script.rpy:606
 translate jp savemaiden_70878cfe:
 
     # y "the true end for this maiden suddenly becomes clear..."
-    y ""
+    y "少女のトゥルーエンド明らかになったそうです。。。"
 
 # game/script.rpy:607
 translate jp savemaiden_f6e014bc:
 
     # y "you offer to change her fate."
-    y ""
+    y "君は彼女の運命を変えたいと示した。"
 
 # game/script.rpy:609
 translate jp savemaiden_0ce66c52:
@@ -802,7 +802,7 @@ translate jp saveunderling_4fca388c:
 translate jp saveunderling_b1539427:
 
     # y "you offer to change their fate."
-    y ""
+    y "君は彼らの運命を変えたいと示した。"
 
 # game/script.rpy:653
 translate jp saveunderling_5acce490:
@@ -922,7 +922,7 @@ translate jp saveoverlord_c6b209ef:
 translate jp saveoverlord_f6e014bc:
 
     # y "you offer to change her fate."
-    y ""
+    y "君は彼女の運命を変えたいと示した。"
 
 # game/script.rpy:700
 translate jp saveoverlord_b99077b3:
