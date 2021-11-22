@@ -250,7 +250,7 @@ translate jp underlingpart2_0a9675f3:
 translate jp underlingpart2_b33bcd9f:
 
     # u performer4 "he takes you out in one swift blow. you're just a demon underling after all."
-    u performer4 "彼は一撃であなたを倒しました。あなたは所詮はチンピラでした。"
+    u performer4 "彼は一撃であなたを倒しました。あなたは所詮は悪魔でした。"
 
 # game/script-underling.rpy:107
 translate jp underlingpart2_94c33b44:
@@ -280,7 +280,7 @@ translate jp underlingpart2_37ef9e18:
 translate jp underlingpart2_5c78b05d:
 
     # u "also, they might fight back. that probably wouldn't end well... you're just one little underling after all."
-    u "また、彼らに反撃されるかもしれません。それは良い結果にはならない。。。所詮あなたは、一人の小さなチンピラに過ぎません。"
+    u "また、彼らに反撃されるかもしれません。それは良い結果にはならない。。。所詮あなたは、一人の小さな悪魔に過ぎません。"
 
 # game/script-underling.rpy:126
 translate jp underlingpart2_59d16f55:
@@ -418,7 +418,7 @@ translate jp underlingpart4_e6db85a0:
 translate jp underlingpart4_be009fe0:
 
     # "VICTORIOUS UNDERLING END"
-    "エンド：チンピラの勝利"
+    "エンド：悪魔の勝利"
 
 # game/script-underling.rpy:189
 translate jp underlingpart4_f22924cc:

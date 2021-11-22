@@ -268,7 +268,7 @@ translate jp youstart_3887ec62:
 translate jp youstart_d818d3d1:
 
     # y start4 "the hero, maiden, underling, and overlord have been staring at you too."
-    y start4 "勇者、少女、チンピラ、魔王もあなたに見ています。"
+    y start4 "勇者、少女、悪魔、魔王もあなたに見ています。"
 
 # game/script.rpy:393
 translate jp youstart_d590fe11:
@@ -736,13 +736,13 @@ translate jp savemaiden_193b8187:
 translate jp saveunderling_2706b4ff:
 
     # y "you approach the gates of the overlord's castle. the underling is on guard duty, as you expected."
-    y "あなたは、魔王の城の門に近づく。思った通り、チンピラが見張りをしている。"
+    y "あなたは、魔王の城の門に近づく。思った通り、悪魔が見張りをしている。"
 
 # game/script.rpy:638
 translate jp saveunderling_94455a01:
 
     # y "they call out to you. the other demon guard is sound asleep."
-    y "チンピラが声をかけてくれた。もう一人の魔物の番人は熟睡している。"
+    y "悪魔が声をかけてくれた。もう一人の魔物の番人は熟睡している。"
 
 # game/script.rpy:640
 translate jp saveunderling_dab1f87d:
@@ -772,7 +772,7 @@ translate jp saveunderling_7daaa0b8:
 translate jp saveunderling_e8c2e2bd:
 
     # y "the underling snickers. you ask what kind of job they'd rather have."
-    y "チンピラが笑う。あなたは「どのような仕事をしたいのですか？」と聞いた。"
+    y "悪魔が笑う。あなたは「どのような仕事をしたいのですか？」と聞いた。"
 
 # game/script.rpy:647
 translate jp saveunderling_76a986d2:
@@ -784,7 +784,7 @@ translate jp saveunderling_76a986d2:
 translate jp saveunderling_f7ff70fd:
 
     # y "you think of the underling's friends, who had bullied them into an assassination plot only to betray them in the end."
-    y "チンピラを暗殺計画に参加させ、最後には裏切れたチンピラの仲間たちしたことを思い出した。"
+    y "悪魔を暗殺計画に参加させ、最後には裏切れた悪魔の仲間たちしたことを思い出した。"
 
 # game/script.rpy:649
 translate jp saveunderling_b2d2e3a9:
@@ -796,7 +796,7 @@ translate jp saveunderling_b2d2e3a9:
 translate jp saveunderling_4fca388c:
 
     # y "the true end for the underling suddenly becomes clear..."
-    y "チンピラのトゥルーエンド明らかになったそうです。。。"
+    y "悪魔のトゥルーエンド明らかになったそうです。。。"
 
 # game/script.rpy:651
 translate jp saveunderling_b1539427:
@@ -814,7 +814,7 @@ translate jp saveunderling_5acce490:
 translate jp saveunderling_d54f0008:
 
     # y "the underling will now fight alongside you."
-    y "チンピラがチームに入った。"
+    y "悪魔がチームに入った。"
 
 # game/script.rpy:664
 translate jp saveunderling_ec162d71:
@@ -826,7 +826,7 @@ translate jp saveunderling_ec162d71:
 translate jp saveunderling_651a382b:
 
     # t "\"THE UNDERLING, HM? YOU MUST BE DESPERATE TO CALL ON SUCH AN UNRELIABLE ALLY.\""
-    t "\"チンピラ？そんな頼りにならない味方に頼るなんて、よっぽど人手が足りないようですね。\""
+    t "\"悪魔？そんな頼りにならない味方に頼るなんて、よっぽど人手が足りないようですね。\""
 
 # game/script.rpy:666
 translate jp saveunderling_fe1f82e7:
@@ -1018,7 +1018,7 @@ translate jp maidenturn_66e373d7:
 translate jp underlingturn_4b80d190:
 
     # y "the underling tries to evade TRAGEDY through mischievous means!"
-    y "チンピラは悪戯で悲劇を逃れようとする！"
+    y "悪魔は悪戯で悲劇を逃れようとする！"
 
 # game/script.rpy:786
 translate jp underlingturn_1b987e87:
@@ -1036,7 +1036,7 @@ translate jp underlingturn_3f859475:
 translate jp underlingturn_94d2ea3a:
 
     # y "the underling uses their tenacity to overcome TRAGEDY!"
-    y "チンピラは不屈の精神で悲劇を勝った。"
+    y "悪魔は不屈の精神で悲劇を勝った。"
 
 # game/script.rpy:804
 translate jp overlordturn_96d22115:
@@ -1156,7 +1156,7 @@ translate jp tragedydefeated_985383e5:
 translate jp tragedydefeated_f9400a8e:
 
     # t "\"THANK YOU, UNDERLING!\""
-    t "\"ありがとう、チンピラ！\""
+    t "\"ありがとう、悪魔！\""
 
 # game/script.rpy:1135
 translate jp tragedydefeated_6ce4062f:
