@@ -574,493 +574,493 @@ translate jp faithfulunderling_a77c5150:
 translate jp underlingplot_dfcc2d2a:
 
     # u plot "you follow your friends outside the castle to talk more about the plan. you're curious if they have any idea how they wanna go about this."
-    u plot ""
+    u plot "あなたは仲間たちと城の外に出て、具体的な計画を話し合う。あなたはどうやって魔王を殺すのか知りたいです。"
 
 # game/script-underling.rpy:259
 translate jp underlingplot_1cb4f98d:
 
     # u plot2 "they figured they'd just lock her in a room and set it on fire. what a stupid plan! that could go wrong in so many ways!"
-    u plot2 ""
+    u plot2 "彼らは彼女を部屋に閉じ込め、火をつけようとした。何て愚かな計画なんだあなたはそう思う。"
 
 # game/script-underling.rpy:260
 translate jp underlingplot_5248b12b:
 
     # u plot3 "you realize your friends are just a bunch of directionless thugs, useless without someone's guidance. YOUR guidance!"
-    u plot3 ""
+    u plot3 "彼らは指導者の指導がなければ、寄り集まっただけで、規律も統制もない群衆のことを気ついた。そして、彼らは君をその指導者になりたい。"
 
 # game/script-underling.rpy:261
 translate jp underlingplot_3b0a7c32:
 
     # u plot4 "there'd probably be casualties if you fought her head on, and while showy deaths make a revolution a heck of a lot more fun, it's probably the wrong way to go."
-    u plot4 ""
+    u plot4 "正面と戦うの革命はより面白い、死傷が出るかもしれないが、きっと他の方法があるはずだ。例えば暗殺とか。"
 
 # game/script-underling.rpy:262
 translate jp underlingplot_5da970e5:
 
     # u "your friends agree, and suggest that you play the assassin. you really didn't want it to come down to this."
-    u ""
+    u "彼らは君の意見を同意し、そして君が暗殺者役をやってもらおうと提案した。あなたはこんなことになるとは思ってもみなかった。"
 
 # game/script-underling.rpy:263
 translate jp underlingplot_45b25585:
 
     # u plot5 "but you can't back down now... you'll have to be the one to assassinate the overlord. besides, no one has any better ideas."
-    u plot5 ""
+    u plot5 "しかし、ここで引き下がるわけにはいかない。。。今のあなたは魔王を暗殺しなければならない。他のいいアイデアが持っていないからだ。"
 
 # game/script-underling.rpy:282
 translate jp underlingplot_f5903795:
 
     # u possessive "you sneak up to the overlord's room, but there's a couple of humans in there! you watch the scene unfold..."
-    u possessive ""
+    u possessive "あなたは魔王の部屋に忍び込むと、二人の人間がいます！あなたは静かに観察します。。。"
 
 # game/script-underling.rpy:283
 translate jp underlingplot_1fcfee28:
 
     # u possessive2 "you aren't sure why, but the overlord suddenly cuts down the hero."
-    u possessive2 ""
+    u possessive2 "魔王が勇者を斬った、理由も知らず。"
 
 # game/script-underling.rpy:284
 translate jp underlingplot_05038f1d:
 
     # u possessive3 "she approaches the maiden you brought to her earlier."
-    u possessive3 ""
+    u possessive3 "魔王はあなたが持ち帰ったの少女を近つく。"
 
 # game/script-underling.rpy:285
 translate jp underlingplot_ab01e3d7:
 
     # u possessive4 "with the overlord distracted, you figure this is as good a chance as any! you launch a sneak attack, getting her right in the back."
-    u possessive4 ""
+    u possessive4 "魔王の気を取られているようので、あなたは今がチャンスだと思い、彼女の背後を突く。"
 
 # game/script-underling.rpy:286
 translate jp underlingplot_bb3bb384:
 
     # u possessive5 "she flinches, giving you enough advantage to take her down. you rip the overlord apart until she stops moving."
-    u possessive5 ""
+    u possessive5 "彼女はたじろぎ、彼女を倒すの十分なチャンスを得た。あなたは魔王が息を止めるまで彼女の肉体を引き裂いていた。"
 
 # game/script-underling.rpy:288
 translate jp underlingplot_7f445839:
 
     # u possessive6 "that was messier than you would've liked. the maiden mutters something from the corner."
-    u possessive6 ""
+    u possessive6 "この場面は暴力すぎて、少女が隅っこで何かつぶやいています。"
 
 # game/script-underling.rpy:290
 translate jp underlingplot_376d0d09:
 
     # m "\"th-thank you... for saving me...\""
-    m ""
+    m "\"助けてくれて。。。ありがとう。。。\""
 
 # game/script-underling.rpy:294
 translate jp underlingplot_a46ee946:
 
     # u possessive8 "it wasn't your intention, but it sounds like you did something heroic."
-    u possessive8 ""
+    u possessive8 "これはあなたの本意ではないだが、何か英雄的なことをしたようです。"
 
 # game/script-underling.rpy:295
 translate jp underlingplot_c46a9a76:
 
     # u "you tell the maiden to go home. this place is dangerous."
-    u ""
+    u "あなたは少女に「ここは危ないで、早く帰って」を言う。"
 
 # game/script-underling.rpy:296
 translate jp underlingplot_f521cd14:
 
     # u possessive9 "she follows your advice and leaves the castle... YOUR castle."
-    u possessive9 ""
+    u possessive9 "彼女はあなたの意見を従い、城から出ました。。。あなたの城から。"
 
 # game/script-underling.rpy:298
 translate jp underlingplot_4c4e7185:
 
     # u "you are the new overlord."
-    u ""
+    u "あなたは新しい魔王。"
 
 # game/script-underling.rpy:306
 translate jp underlingplot_8c9b8508:
 
     # "HEROIC UNDERLING END"
-    ""
+    "エンド：英雄"
 
 # game/script-underling.rpy:318
 translate jp underlingpart6_d6517d57:
 
     # u climax "you and your friends turn to notice a pair of humans have overheard your entire conversation!"
-    u climax ""
+    u climax "あなたたちは二人の人類が君たちの会話を聞かれていたことを気ついた。"
 
 # game/script-underling.rpy:319
 translate jp underlingpart6_b6d7f0f1:
 
     # u climax2 "they take off into the castle. are they headed to the overlord's room? fuck!!"
-    u climax2 ""
+    u climax2 "人間は城に入り込んだ。魔王の部屋が狙いか？クソ！"
 
 # game/script-underling.rpy:320
 translate jp underlingpart6_e340f330:
 
     # u climax3 "the overlord will kill you for sure if she found out you were conspiring to take her out! you dash into the castle after the humans."
-    u climax3 ""
+    u climax3 "魔王を殺しの計画がバレたら、必ず殺される！あなたは人間を追ってダッシュうで城に入った。"
 
 # game/script-underling.rpy:321
 translate jp underlingpart6_40fc31a4:
 
     # u climax4 "sure enough, the maiden's already frantically telling the overlord everything."
-    u climax4 ""
+    u climax4 "案の定、少女は慌てて魔王に全てを伝えていた。"
 
 # game/script-underling.rpy:322
 translate jp underlingpart6_59798737:
 
     # u climax5 "you shout that the humans are liars."
-    u climax5 ""
+    u climax5 "あなたは\"「あの二人は嘘つきだ」\"と叫ぶ。"
 
 # game/script-underling.rpy:323
 translate jp underlingpart6_1c9cd930:
 
     # u climax6 "your friends soon arrive to back you up... except they don't. instead, they blame the whole thing on you!"
-    u climax6 ""
+    u climax6 "仲間たちがすぐに応援に駆けつけてくれますが。。。そうではないみたい、逆に彼らは全てをあなたのせいにしてしまうそだ。"
 
 # game/script-underling.rpy:324
 translate jp underlingpart6_7b338159:
 
     # u "they cry that it was all your idea, and that they were just going with the flow, too scared to refuse your crazy plan."
-    u ""
+    u "彼らは「すべてはあなたのアイデアだった」、「あなたのクレイジーな計画を断るのが怖くて、流れのままに同意されただけだ」と言います。"
 
 # game/script-underling.rpy:325
 translate jp underlingpart6_03948976:
 
     # u climax7 "you can't believe they'd tell the overlord such a blatant lie..."
-    u climax7 ""
+    u climax7 "あなたは彼らは魔王の前でそんな薄情な言葉を言うことを信じられない。。。"
 
 # game/script-underling.rpy:326
 translate jp underlingpart6_ecf6904c:
 
     # u "you always knew better than to trust them. you're the one who didn't have a choice here."
-    u ""
+    u "断らないのはあなたの方です。あなたは彼らのことを信用できないことは前からわかっていたはず。"
 
 # game/script-underling.rpy:327
 translate jp underlingpart6_df4eb59d:
 
     # u climax8 "you all shout at each other until the overlord demands silence."
-    u climax8 ""
+    u climax8 "魔王が沈黙を要求するまで、あなたは彼らと叱り合い。"
 
 # game/script-underling.rpy:329
 translate jp underlingpart6_e5bd5ea6:
 
     # o "\"regardless of who led this conspiracy, i have no choice but to punish everyone to keep you all in your place: crushed beneath my heel!\""
-    o ""
+    o "\"誰がこの事件の陰謀を主導したかに関わらず、私は全員を罰する以外に選択肢はない。君たちは私に踏みつけられる蟻にすぎません。"
 
 # game/script-underling.rpy:330
 translate jp underlingpart6_97cd08af:
 
     # u climax10 "she sounds tough, but lately all she does is sleep. you doubt her strength."
-    u climax10 ""
+    u climax10 "彼女は本気で言ったそだ。あなたは彼女はずっと眠ってから、あまり力がないのではないかと疑っています。"
 
 # game/script-underling.rpy:331
 translate jp underlingpart6_a19e6be1:
 
     # u climax11 "you hear your traitorous \"friends\" mutter something about going back to \"plan a\" and suddenly, the door slams shut."
-    u climax11 ""
+    u climax11 "あなたあの裏切り者である\"仲間たち\"が、「プランA」に執行するとを聞いて、突然、ドアが閉まる。"
 
 # game/script-underling.rpy:332
 translate jp underlingpart6_f5c8b7c2:
 
     # u climax12 "you're trapped in here with the overlord and the two humans."
-    u climax12 ""
+    u climax12 "あなたは魔王と2人の人間と一緒にここに閉じ込められています。"
 
 # game/script-underling.rpy:333
 translate jp underlingpart6_6be0bab4:
 
     # u climax13 "and then the room bursts into flames."
-    u climax13 ""
+    u climax13 "そして、部屋は燃やされている。"
 
 # game/script-underling.rpy:334
 translate jp underlingpart6_5bad9fa6:
 
     # u climax14 "you pound on the door, screaming curses at those who betrayed you."
-    u climax14 ""
+    u climax14 "あなた自分を裏切った者に罵声を浴びせながら。ドアを叩き。"
 
 # game/script-underling.rpy:335
 translate jp underlingpart6_9e64a3a0:
 
     # u climax15 "the hero joins you, vowing to slay the lot of them. you wish he'd get that chance."
-    u climax15 ""
+    u climax15 "勇者も君のように、奴らを殺すことを誓う。君たちはそのチャンスをあればいいなぁと思う。"
 
 # game/script-underling.rpy:336
 translate jp underlingpart6_1b1ee02d:
 
     # u climax16 "the overlord grabs you by the throat. you cry for mercy."
-    u climax16 ""
+    u climax16 "魔王はあなたの首を絞めています。あなたは彼女に許しを請う。"
 
 # game/script-underling.rpy:337
 translate jp underlingpart6_66f38378:
 
     # u climax17 "you were forced into this mess. you're sure now that they would've killed you if you'd sided with her."
-    u climax17 ""
+    u climax17 "あなたは強制的にこの愚かの企画に参加されたのです。もしあの時拒絶するなら、とっくに殺されていたとあなた心の中で思っている。"
 
 # game/script-underling.rpy:339
 translate jp underlingpart6_1d7f93bf:
 
     # u merciful "to your surprise, the overlord spares you."
-    u merciful ""
+    u merciful "驚いたことは、魔王はあなたを許した。"
 
 # game/script-underling.rpy:340
 translate jp underlingpart6_8b4bd7c6:
 
     # u "or maybe she'd rather see you suffer instead. looking around, you've just gone from one dead end to another."
-    u ""
+    u "もしかして、彼女はあなたが火に焼かれるところを見たいだけなのかもしれません。どうせここは逃げられないから。"
 
 # game/script-underling.rpy:341
 translate jp underlingpart6_101e0537:
 
     # u merciful2 "the maiden is crying. the hero is silent."
-    u merciful2 ""
+    u merciful2 "少女は泣いて、勇者は黙って。"
 
 # game/script-underling.rpy:342
 translate jp underlingpart6_6dce3227:
 
     # u merciful3 "you'll all burn together."
-    u merciful3 ""
+    u merciful3 "あなたたちは一緒に焼かれ死にました。"
 
 # game/script-underling.rpy:354
 translate jp underlingpart6_ece31dec:
 
     # "UNDERLING'S TRUE END"
-    ""
+    "トゥルーエンド：悪魔"
 
 # game/script-underling.rpy:358
 translate jp underlingpart6_8b49b47a:
 
     # u retribution "but the overlord doesn't hear your pleas. she drives her claws into your chest."
-    u retribution ""
+    u retribution "魔王は君の弁解を聞かず、爪であなたの胸を貫く。"
 
 # game/script-underling.rpy:359
 translate jp underlingpart6_b0a0b208:
 
     # u retribution2 "at least she made it quick."
-    u retribution2 ""
+    u retribution2 "せめて、苦痛はなかった。"
 
 # game/script-underling.rpy:372
 translate jp underlingpart6_559eb664:
 
     # "TRAITOR UNDERLING END"
-    ""
+    "エンド：裏切り者"
 
 # game/script-underling.rpy:376
 translate jp underlingoverlord_f3b00e5e:
 
     # u sneak "you sneak into the overlord's room. she's taking a nap, like usual."
-    u sneak ""
+    u sneak "あなたは魔王の部屋に忍び込んで、彼女はいつものように寝ている。"
 
 # game/script-underling.rpy:377
 translate jp underlingoverlord_846ba283:
 
     # u sneak2 "this is almost too easy. you silently approach your master."
-    u sneak2 ""
+    u sneak2 "簡単すぎる、あなたはこっそり魔王に近つき。"
 
 # game/script-underling.rpy:378
 translate jp underlingoverlord_c8b1e49b:
 
     # u sneak3 "she looks so peaceful..."
-    u sneak3 ""
+    u sneak3 "彼女は穏やかな表情をしています。。。"
 
 # game/script-underling.rpy:384
 translate jp underlingoverlord_77681a00:
 
     # u murder "you figure the cleanest way to do this would be to dig your claws into her throat... so you do just that."
-    u murder ""
+    u murder "あなたは一番はやいのやり方は爪を使って彼女の喉を破る。。。そしてあなたはそうした。"
 
 # game/script-underling.rpy:385
 translate jp underlingoverlord_c57dce8d:
 
     # u murder2 "she wakes, but not in time to stop you. you watch as she chokes on her blood, cursing you, before finally expiring."
-    u murder2 ""
+    u murder2 "彼女は目覚めたが、止めるのを遅い。あなたは彼女が自分の血で窒息し、罵りながら、最後に息絶えるのを見ています。"
 
 # game/script-underling.rpy:386
 translate jp underlingoverlord_cec3a995:
 
     # u murder3 "that felt terrible."
-    u murder3 ""
+    u murder3 "君はひどい気持ちがする。"
 
 # game/script-underling.rpy:387
 translate jp underlingoverlord_6835924a:
 
     # u "you remind yourself it was either her or you. and you weren't about to let yourself get killed by anyone."
-    u ""
+    u "彼女を殺さないなら殺されるのは自分だと。あなたは他人に殺されたくない。"
 
 # game/script-underling.rpy:388
 translate jp underlingoverlord_0debe161:
 
     # u murder4 "you leave the room to find your friends waiting just outside."
-    u murder4 ""
+    u murder4 "魔王の部屋を出ると、友達が外であなたを待っていた。"
 
 # game/script-underling.rpy:389
 translate jp underlingoverlord_f8711f3f:
 
     # u "they look pleased... only now do you realize they must've planned to use you like this from the beginning."
-    u ""
+    u "彼らは嬉しそうに。。。最初からこのようにあなたを利用するつもりだったことを今になって気ついた。"
 
 # game/script-underling.rpy:397
 translate jp underlingoverlord_66febc19:
 
     # u coward "you don't want to kill her. you can't go through with it."
-    u coward ""
+    u coward "あなたは彼女を殺したくない。あなたはそれ以上のことはできません。"
 
 # game/script-underling.rpy:398
 translate jp underlingoverlord_773be1c2:
 
     # u coward2 "you turn to leave the room, but you find your friends blocking the exit. in a panicked whisper, you ask them to let you out."
-    u coward2 ""
+    u coward2 "あなたは部屋を出ようと思うだが、彼らは扉の前で塞いでいました。あなたは「私を出させてください」と慌てて願ったが。"
 
 # game/script-underling.rpy:399
 translate jp underlingoverlord_3de5f613:
 
     # u coward3 "this seems to have been their way of testing your loyalty. you tell them this is pretty fucked up, and ask again to be let out."
-    u coward3 ""
+    u coward3 "これが彼らがあなたがの忠誠心を試すための試練だったと。バカのことを言わないで、お願いから，私を出させて。"
 
 # game/script-underling.rpy:400
 translate jp underlingoverlord_f25b7dbf:
 
     # u coward4 "the overlord stirs in her bed. while your head is turned, the demons shut the door."
-    u coward4 ""
+    u coward4 "魔王は目覚めたそだ、あなたは振り返ると、彼らは既に扉を閉められった。"
 
 # game/script-underling.rpy:401
 translate jp underlingoverlord_2285a8cb:
 
     # u coward5 "you scramble into the overlord's closet to hide before she wakes up and sees you. there's nothing you could possibly say to explain this and survive."
-    u coward5 ""
+    u coward5 "あなたは魔王が目覚める前に隠す、そしてあなたはワードローブに隠れ込んだ。この状況では、何を言っても無駄だと思う。"
 
 # game/script-underling.rpy:402
 translate jp underlingoverlord_5fd8f74c:
 
     # u coward6 "you're trembling. you can't believe those assholes would bully you like this! you feel like crying."
-    u coward6 ""
+    u coward6 "あなたの体が震えている。自分がこのように裏切られたことを信じられない、あなたはもう泣きそうだ。"
 
 # game/script-underling.rpy:403
 translate jp underlingoverlord_a5b8c25c:
 
     # u coward7 "light flickers at your feet. it doesn't take you long to realize they've set the room on fire."
-    u coward7 ""
+    u coward7 "床の温度が徐々に上昇しています。あなたは彼らが部屋を燃やされたことを気ついた。"
 
 # game/script-underling.rpy:404
 translate jp underlingoverlord_b1db46ef:
 
     # u coward8 "you hear the overlord trying to get the door open to no avail. you're both trapped."
-    u coward8 ""
+    u coward8 "あなたは魔王がドアを開けようの音を聞いたが。でも無駄だ、君たちはもう閉じ込められている。"
 
 # game/script-underling.rpy:405
 translate jp underlingoverlord_8b5eefba:
 
     # u "too afraid to move, you resign yourself to your fate..."
-    u ""
+    u "あなたは怖すぎて動かない、運命に身を任せるにしかない。。。"
 
 # game/script-underling.rpy:408
 translate jp underlingoverlord_268aeb6d:
 
     # u "you and the overlord burn together."
-    u ""
+    u "あなたと魔王ともに焼死しました。"
 
 # game/script-underling.rpy:418
 translate jp underlingoverlord_0e985f8f:
 
     # "COWARDLY UNDERLING END"
-    ""
+    "エンド：怯え者"
 
 # game/script-underling.rpy:425
 translate jp underlingandmaiden_f9f49776:
 
     # u um "you and your friends turn to notice the maiden from earlier has overheard your entire conversation!"
-    u um ""
+    u um "あなた達は体を振り向くと、少女は全部の計画を聞いていたことを知った。"
 
 # game/script-underling.rpy:426
 translate jp underlingandmaiden_777bb5bf:
 
     # u "it'd be bad for you if the overlord found out about this..."
-    u ""
+    u "もし魔王が君たちの計画を知ったら、何が起こるのかわからない。。。"
 
 # game/script-underling.rpy:430
 translate jp underlingandmaiden_bd6968f7:
 
     # u slaughtered "\"this is just the way it has to be!\" you declare..."
-    u slaughtered ""
+    u slaughtered "\"これは運命の導きだ！\"あなたはそう宣言した。。。"
 
 # game/script-underling.rpy:431
 translate jp underlingandmaiden_4b7c57ff:
 
     # u slaughtered2 "...before jumping her and clawing her guts out."
-    u slaughtered2 ""
+    u slaughtered2 "。。。そしてあなたは彼女に飛びかかり、あなたの鋭い爪で彼女の内臓を引き出す。"
 
 # game/script-underling.rpy:432
 translate jp underlingandmaiden_1d71219f:
 
     # u slaughtered3 "it turns out you're already an expert at ending lives! your friends call you a show off."
-    u slaughtered3 ""
+    u slaughtered3 "なんだ、あなたは既に殺すを慣れたか。友達はあなたがしたことを見せびらかしているだけだと言ています。"
 
 # game/script-underling.rpy:433
 translate jp underlingandmaiden_ad8dff8c:
 
     # u slaughtered4 "you go back into the castle to wash off all the icky human blood."
-    u slaughtered4 ""
+    u slaughtered4 "あなたは城に戻って、気持ち悪いの人間血を洗い流します。"
 
 # game/script-underling.rpy:436
 translate jp underlingandmaiden_994dde60:
 
     # u slaughtered5 "as you're finishing up, you hear the sounds of battle outside."
-    u slaughtered5 ""
+    u slaughtered5 "終わったと思うったら、外で戦いの音を聞こえた。"
 
 # game/script-underling.rpy:437
 translate jp underlingandmaiden_92728e7f:
 
     # u slaughtered6 "a hero has come. seeing the dead maiden must've made him pretty angry."
-    u slaughtered6 ""
+    u slaughtered6 "勇者が来た。死んだ少女の姿を見て、彼はきっと怒っていたのでしょう。"
 
 # game/script-underling.rpy:443
 translate jp underlingandmaiden_2db9a789:
 
     # u captor "you and your friends seize the maiden, and bring her to the dungeon under the castle."
-    u captor ""
+    u captor "君たちはが少女を掴んで、地下の牢獄に連れて行った。"
 
 # game/script-underling.rpy:444
 translate jp underlingandmaiden_12ffdd75:
 
     # u "it's empty, save for the decorative skulls. they're only there to make it feel more spooky."
-    u ""
+    u "牢獄には空っぽで。装飾用の骨髑髏以外は何もありません。その髑髏もより不気味さを演出するための道具だ。"
 
 # game/script-underling.rpy:445
 translate jp underlingandmaiden_c7744ad0:
 
     # u captor2 "the maiden is very upset. you leave her in the cell to continue scheming with your friends..."
-    u captor2 ""
+    u captor2 "少女はとても悲しんでいる。あなたは少女を牢獄に残し、友達と政策の話を討論し続ける。。。"
 
 # game/script-underling.rpy:446
 translate jp underlingandmaiden_517bbd11:
 
     # u captor3 "but now a hero has arrived at the front gates."
-    u captor3 ""
+    u captor3 "でも勇者は既に扉の前に立っている。"
 
 # game/script-underling.rpy:447
 translate jp underlingandmaiden_567086eb:
 
     # u "he's asking about a maiden... perhaps the very one you just locked up!"
-    u ""
+    u "彼は少女のことを訊ねている。。。先頃あなたに閉じめられていたの少女のことかもしれない。"
 
 # game/script-underling.rpy:448
 translate jp underlingandmaiden_36347306:
 
     # u captor4 "the gatekeeper, who must've seen everything, tells the hero exactly what happened."
-    u captor4 ""
+    u captor4 "門番は自分が見た少女のことを全て勇者に教えた。"
 
 # game/script-underling.rpy:449
 translate jp underlingandmaiden_e8cedf23:
 
     # u "what an idiot, you think. why give the hero an excuse to start slaughtering us?"
-    u ""
+    u "何でバカのことが。なぜ勇者に我々を殺す理由を彼に与えるのか？"
 
 # game/script-underling.rpy:452
 translate jp underlingandmaiden_ec5517d9:
 
     # u captor5 "the hero yells \"prepare to face justice!\" and other such cliche hero lines, before driving his sword into the gatekeeper's torso."
-    u captor5 ""
+    u captor5 "勇者は「運命に従え」など古い映画の決まり文句を呼びながら、門番の体を剣に突き刺した。"
 
 # game/script-underling.rpy:453
 translate jp underlingandmaiden_3c17427f:
 
     # u captor6 "you're small compared to a lot of your friends, so you're able to slip away without getting cut up by that sword."
-    u captor6 ""
+    u captor6 "あなたの体型は他の人に低いから、剣の刺さられないのことで、逃げることができる。"
 
 # game/script-underling.rpy:457
 translate jp schemingunderling_3e645ebf:
@@ -1144,7 +1144,7 @@ translate jp lordunderling_a01dfdab:
 translate jp lordunderling_212a06d4:
 
     # "LORD UNDERLING END B"
-    ""
+    "エンド："
 
 translate jp strings:
 
