@@ -424,151 +424,151 @@ translate jp underlingpart4_be009fe0:
 translate jp underlingpart4_f22924cc:
 
     # u deserter "you look around at the lifeless forms of those you've known as far back as you can remember. you feel glad to not be in their shoes."
-    u deserter ""
+    u deserter "あなたは、子供の頃から知っていた、今は命を失った悪魔たちを見回します。自分が彼らのチームに入ってないことを良かったと思う。"
 
 # game/script-underling.rpy:190
 translate jp underlingpart4_ca28a32c:
 
     # u deserter2 "you also feel guilty to be thinking that as you flee the castle... until you remember your role, not as an underling, but as a demon."
-    u deserter2 ""
+    u deserter2 "あなたはお城から脱出しようと思っても罪悪感がある。。。だが自分が魔王ではないく、ただの悪魔だけだ。"
 
 # game/script-underling.rpy:191
 translate jp underlingpart4_8707b575:
 
     # u "this kind of thing is expected of you."
-    u ""
+    u "このようなことがあなたが期待されているのです。"
 
 # game/script-underling.rpy:194
 translate jp underlingpart4_91850f17:
 
     # u "maybe you'll start a new life, far away from any humans or demons..."
-    u ""
+    u "あなたは人間と悪魔から離れて、新しい生活を始めるかもしれません。。。"
 
 # game/script-underling.rpy:195
 translate jp underlingpart4_42b6f81c:
 
     # u "where you'll live peacefully, alone, in some deep dark forest somewhere."
-    u ""
+    u "どこかの深くて暗い森の中で、一人で静かに暮らすのです。"
 
 # game/script-underling.rpy:204
 translate jp underlingpart4_b9066777:
 
     # "DESERTER UNDERLING END"
-    ""
+    "エンド：脱走の悪魔"
 
 # game/script-underling.rpy:210
 translate jp underlingpart5_2ddf78ed:
 
     # u friends "you don't get to sleep long. your friends wake you up... rude."
-    u friends ""
+    u friends "あなたの睡眠時間はまだ足りないのに、友達に起こされました。失礼ですね。"
 
 # game/script-underling.rpy:212
 translate jp underlingpart5_f01a37da:
 
     # u friends3 "they're very eager to talk to you about the whole \"kill the overlord\" plan."
-    u friends3 ""
+    u friends3 "彼らは「魔王を殺す」企画について、あなたと話したいことがあるそうです。"
 
 # game/script-underling.rpy:213
 translate jp underlingpart5_55731b7d:
 
     # u friends4b "you admit you hadn't given it much thought and only just now remembered it was a thing."
-    u friends4b ""
+    u friends4b "あなたは、これまであまり気にしていなかったことを認め、今になってそのことを思い出しました。"
 
 # game/script-underling.rpy:215
 translate jp underlingpart5_21e6cbb4:
 
     # u friends2 "one of them is stepping on you pretty hard. you ask them what their deal is."
-    u friends2 ""
+    u friends2 "そのうちの一人の悪魔があなたを激しく踏みつけている、あなたは彼は何をしているのか尋ねた。"
 
 # game/script-underling.rpy:216
 translate jp underlingpart5_ec0bd532:
 
     # u friends3 "they say they're planning a whole revolution. they're gonna get rid of the current overlord and put a new ruler in place."
-    u friends3 ""
+    u friends3 "彼らは革命を計画していると言っています。現在の魔王を排除して、新しい魔王を交代するつもりそうです。"
 
 # game/script-underling.rpy:217
 translate jp underlingpart5_50a6b27d:
 
     # u "they want to hear if you're in or out. and being a pretty lazy underling, you of course reply with..."
-    u ""
+    u "彼らは、あなたは参加するかしないかを聞きたいのです。怠けなあなたは、「もちろん」と答えた。"
 
 # game/script-underling.rpy:218
 translate jp underlingpart5_eee2c37c:
 
     # u friends4 "\"that sounds like a lot of trouble. how 'bout we just skip it instead?\""
-    u friends4 ""
+    u friends4 "面倒くさいから、この部分をスキップしてましょう。"
 
 # game/script-underling.rpy:220
 translate jp underlingpart5_d67933ca:
 
     # u friends5 "your friends question your loyalty to their cause."
-    u friends5 ""
+    u friends5 "あなたの友達は、あなたの忠誠心を疑っています。"
 
 # game/script-underling.rpy:226
 translate jp underlingpart5_5c44b9ec:
 
     # u friends6 "you tell them you were just joking, and clarify that you're totally in it to win it. they say you were always terrible with jokes."
-    u friends6 ""
+    u friends6 "あなたは「冗談です、冗談です。このことは必ず成功してみさす。」と答えた。あれらはあなたのジョックはいつも下手ですねと納得したそうだ。"
 
 # game/script-underling.rpy:227
 translate jp underlingpart5_8c0cc2e7:
 
     # u friends7 "whether or not you actually feel like killing the overlord, you know how bad it'd be to end up on the wrong side of things."
-    u friends7 ""
+    u friends7 "実際に魔王を殺すと思っても思わなくても。チームを間違えてしまったら大変なことになりますからあなたはそう思う。"
 
 # game/script-underling.rpy:228
 translate jp underlingpart5_023ea281:
 
     # u "and if this assassination deal doesn't pan out, you can always pretend you were innocent all along!"
-    u ""
+    u "それにもし暗殺は成功していないなら、あなたも自分が無実であるのように偽装できる。"
 
 # game/script-underling.rpy:229
 translate jp underlingpart5_f166de52:
 
     # u "...but beneath your shield of faux confidence, you worry about what you're getting yourself dragged into."
-    u ""
+    u "あなたは自信を盾にして、自分が何に巻き込まれているのかを心配している"
 
 # game/script-underling.rpy:237
 translate jp faithfulunderling_8136f376:
 
     # u faithful "your friends seem pretty disappointed. they apologize to you. but before you can ask what they're sorry about..."
-    u faithful ""
+    u faithful "あなたの友達はかなりがっかりしたようです。彼らはあなたに謝りましたが、あなたが彼らが何を謝ったのかを聞く前に。。。"
 
 # game/script-underling.rpy:238
 translate jp faithfulunderling_afcb6a85:
 
     # u faithful2 "...one of them suddenly seizes you."
-    u faithful2 ""
+    u faithful2 "。。。そのうちの一人の悪魔が突然あなたを捕まって。"
 
 # game/script-underling.rpy:239
 translate jp faithfulunderling_dc1f17e0:
 
     # u faithful3 "\"someone who's still loyal to the overlord... really has no place in our castle. you understand, right?\" their claws tighten around your neck."
-    u faithful3 ""
+    u faithful3 "\"今で魔王に忠誠を誓う者は。。。この城にはいられないんだよ。。。わかるだろう？\"彼らの爪があなたの首を締めます。"
 
 # game/script-underling.rpy:240
 translate jp faithfulunderling_7064f1d5:
 
     # u faithful4 "you don't bother to struggle. you're outnumbered. you already know how things like this end."
-    u faithful4 ""
+    u faithful4 "あなたは戦うのを諦めた、あなたは反抗することがどのように終わるかをすでに知っているからだ。"
 
 # game/script-underling.rpy:241
 translate jp faithfulunderling_c2ad1e8a:
 
     # u "\"this is a pretty messed up thing to do to a friend,\" you tell them."
-    u ""
+    u "\"これが友達への接し方なのか？\"あなたは彼らにこう言います。"
 
 # game/script-underling.rpy:244
 translate jp faithfulunderling_e14512e6:
 
     # u "they slit your throat in response."
-    u ""
+    u "あならの切り裂かれた喉が彼らの答えそうです。"
 
 # game/script-underling.rpy:254
 translate jp faithfulunderling_a77c5150:
 
     # "FAITHFUL UNDERLING END"
-    ""
+    "エンド：ロイヤリティー"
 
 # game/script-underling.rpy:258
 translate jp underlingplot_dfcc2d2a:
@@ -1150,65 +1150,65 @@ translate jp strings:
 
     # game/script-underling.rpy:4
     old "you are an underling"
-    new ""
+    new "あなたは悪魔"
 
     # game/script-underling.rpy:39
     old "LET'S OVERTHROW HER"
-    new ""
+    new "彼女を倒しよう"
 
     # game/script-underling.rpy:39
     old "LET'S NOT"
-    new ""
+    new "やめてください"
 
     # game/script-underling.rpy:71
     old "GOBBLE HER UP"
-    new ""
+    new "彼女を食べる"
 
     # game/script-underling.rpy:71
     old "TELL HER TO QUIT YELLING"
-    new ""
+    new "叫ぶのをやめろと言って"
 
     # game/script-underling.rpy:71
     old "HEAR HER OUT"
-    new ""
+    new "彼女の話を聞く"
 
     # game/script-underling.rpy:100
     old "PUT ON A SHOW"
-    new ""
+    new "ショーを始まる"
 
     # game/script-underling.rpy:100
     old "CHANGE YOUR MIND AND LEAVE"
-    new ""
+    new "気持ちを変えて帰る"
 
     # game/script-underling.rpy:165
     old "AVENGE YOUR FALLEN COMRADES"
-    new ""
+    new "倒された仲間のため復讐"
 
     # game/script-underling.rpy:165
     old "SAVE YOURSELF"
-    new ""
+    new "自分を救う"
 
     # game/script-underling.rpy:222
     old "OKAY, LET'S KILL THE OVERLORD!"
-    new ""
+    new "よし、魔王を殺すぞ！"
 
     # game/script-underling.rpy:222
     old "SHE'S ACTUALLY NOT SO BAD, YOU GUYS..."
-    new ""
+    new "みんな、彼女はそんなに悪くないよ。。。"
 
     # game/script-underling.rpy:380
     old "TIME TO DIE!"
-    new ""
+    new "死ね！"
 
     # game/script-underling.rpy:380
     old "CHICKEN OUT"
-    new ""
+    new "逃げる"
 
     # game/script-underling.rpy:428
     old "USE THE MAIDEN FOR KILLING PRACTICE"
-    new ""
+    new "殺人の練習のため、少女を用ちます。"
 
     # game/script-underling.rpy:428
     old "TOSS HER IN THE DUNGEON"
-    new ""
+    new "牢屋に放り込む"
 
