@@ -40,19 +40,19 @@ translate jp underlingstart_f6bc33de:
 translate jp underlingstart_08b62f74:
 
     # u "they agree that she is kind of a snob, and totally deserves to be kicked off her throne."
-    u "彼らは、彼女が魔王という役には適していないと、そして彼女を王座から蹴り落とされると考えて始めた。"
+    u "彼らは、彼女が魔王という役には似合わないと言う。そして彼女を王座から落とされると考えて始めた。"
 
 # game/script-underling.rpy:36
 translate jp underlingstart_f30d0e84:
 
     # u start6 "you only wanted to vent your frustrations, but the conversation somehow turned into an assassination plot."
-    u start6 "あなたは苦情を言いたいだけですが、いつの間にか暗殺計画の話になってしまった。"
+    u start6 "あなたは苦情を言いたいだけで、いつの間に話が暗殺計画になってしまった。"
 
 # game/script-underling.rpy:37
 translate jp underlingstart_dde6d04a:
 
     # u "you should probably steer this in a responsible direction..."
-    u "あなたは律儀な方向に話を誘導すべきだが。。。"
+    u "あなたは忠誠の方向に誘導すべきだが。。。"
 
 # game/script-underling.rpy:43
 translate jp underlingstart_8cdf368d:
@@ -64,7 +64,7 @@ translate jp underlingstart_8cdf368d:
 translate jp underlingstart_a45ecbd8:
 
     # u disloyal2 "you agree that it's time for a change of management. your friends suggest maybe YOU should be the new overlord!"
-    u disloyal2 "あなたは、経営陣を交代する時期の意見を賛成した後、彼らあなたが支配者になるべきだと提案しています！"
+    u disloyal2 "あなたは、魔王を交代する時期の意見を賛成した後、彼らあなたが支配者になるべきだと提案しています！"
 
 # game/script-underling.rpy:45
 translate jp underlingstart_b1f25350:
@@ -106,7 +106,7 @@ translate jp underlingstart_dc789bed:
 translate jp underlingstart_b07370e0:
 
     # u start9 "but you're still gonna be a rebel and sneak out of the castle. your friends praise your mischievous ways!"
-    u start9 "しかし、それでも反抗的な態度をとり、城を抜け出します。友人たちは、あなたのそのいたずら心を賞賛します！"
+    u start9 "しかし、それでも反抗的な態度をとり、城からを外に出したこ、仲間たちは、あなたのそのいたずら心を賞賛します！"
 
 # game/script-underling.rpy:55
 translate jp underlingstart_d0641985:
@@ -1054,97 +1054,97 @@ translate jp underlingandmaiden_e8cedf23:
 translate jp underlingandmaiden_ec5517d9:
 
     # u captor5 "the hero yells \"prepare to face justice!\" and other such cliche hero lines, before driving his sword into the gatekeeper's torso."
-    u captor5 "勇者は「運命に従え」など古い映画の決まり文句を呼びながら、門番の体を剣に突き刺した。"
+    u captor5 "勇者は「運命に従え」など古い映画の決まり文句を呼びながら、門番の体を剣に突き抜けていた。"
 
 # game/script-underling.rpy:453
 translate jp underlingandmaiden_3c17427f:
 
     # u captor6 "you're small compared to a lot of your friends, so you're able to slip away without getting cut up by that sword."
-    u captor6 "あなたの体型は他の人に低いから、剣の刺さられないのことで、逃げることができる。"
+    u captor6 "あなたの体型は他の人に低いから、剣の刺さられないのことで、逃げることができるかもしれない。"
 
 # game/script-underling.rpy:457
 translate jp schemingunderling_3e645ebf:
 
     # u scheming "you get to thinking... if this hero took down the overlord for you, everything might actually work out in your favor."
-    u scheming ""
+    u scheming "あなたは考え始めた。。。彼を自分の代わりに魔王を倒してくれることがいい考えかもしれない。"
 
 # game/script-underling.rpy:458
 translate jp schemingunderling_0db5fab3:
 
     # u "you wait for things to die down outside before poking your head out..."
-    u ""
+    u "外の状況が落ち着いた後、顔を出します。。。"
 
 # game/script-underling.rpy:459
 translate jp schemingunderling_c65b98d0:
 
     # u scheming2 "you spot the overlord and hero locked in battle. they've worn each other down, making this very easy for you."
-    u scheming2 ""
+    u scheming2 "あなたは勇者と魔王との戦いを見て。彼らはお互いに消耗しているので、彼らを殺すのを簡単なことだ。"
 
 # game/script-underling.rpy:460
 translate jp schemingunderling_2dabb336:
 
     # u scheming3 "once an opening presents itself, you hit the back of the hero's head, knocking him out."
-    u scheming3 ""
+    u scheming3 "あなたは隙があったとき、勇者の頭を叩いて気絶させった。"
 
 # game/script-underling.rpy:462
 translate jp schemingunderling_9340b790:
 
     # o "\"WHAT ARE YOU DOING?! couldn't you tell this was a duel?!\""
-    o ""
+    o "\"何をしている？これら決闘だとわからないのか？！\""
 
 # game/script-underling.rpy:463
 translate jp schemingunderling_d4aa730b:
 
     # u scheming5 "you don't respond. you have to carry out the assassination."
-    u scheming5 ""
+    u scheming5 "あまたは何も言っていない。もう一つしなければならないことがあるから。"
 
 # game/script-underling.rpy:464
 translate jp schemingunderling_9f37f7c4:
 
     # u scheming6 "you tackle her, and rip her to shreds with your claws until she stops moving."
-    u scheming6 ""
+    u scheming6 "あなたは攻撃し始め、動かないまで、爪で彼女を引き裂かれました"
 
 # game/script-underling.rpy:465
 translate jp schemingunderling_44fe97a0:
 
     # u scheming7 "you finish off the hero next. you can't let him revive and come after you later."
-    u scheming7 ""
+    u scheming7 "続いては勇者。目覚めたら面倒なことになるかもしれないからだ。"
 
 # game/script-underling.rpy:466
 translate jp schemingunderling_83564e22:
 
     # u scheming8 "kind of a cheap victory... but it doesn't make any difference."
-    u scheming8 ""
+    u scheming8 "派手ではない勝利。。。だが、勝利は勝利だ。"
 
 # game/script-underling.rpy:467
 translate jp schemingunderling_6109fd81:
 
     # u scheming9 "anyone who managed to survive comes crawling out of their hiding places."
-    u scheming9 ""
+    u scheming9 "生き残った人たちが、隠れていた場所から出てくる。"
 
 # game/script-underling.rpy:470
 translate jp lordunderling_00be62fe:
 
     # u lord "you are the new ruler of this castle. your subjects bow before you."
-    u lord ""
+    u lord "あなたは新たの魔王。臣民はあなたの前にお辞儀をします。"
 
 # game/script-underling.rpy:472
 translate jp lordunderling_833075ae:
 
     # u "you live in fear that they will one day betray you, as you had betrayed your overlord."
-    u ""
+    u "あなたは恐怖くの中に生き、いつの間にか彼らは、君たちが前任に裏切るのようにあなたを殺すのを怖いからだ。"
 
 # game/script-underling.rpy:481
 translate jp lordunderling_a01dfdab:
 
     # "LORD UNDERLING END A"
-    ""
+    "エンド：魔王（Aルート）"
 
 # game/script-underling.rpy:483
 translate jp lordunderling_212a06d4:
 
     # "LORD UNDERLING END B"
-    "エンド："
+    "エンド：魔王（Bルート）"
 
 translate jp strings:
 
@@ -1158,7 +1158,7 @@ translate jp strings:
 
     # game/script-underling.rpy:39
     old "LET'S NOT"
-    new "やめてください"
+    new "やめてとく"
 
     # game/script-underling.rpy:71
     old "GOBBLE HER UP"
@@ -1178,11 +1178,11 @@ translate jp strings:
 
     # game/script-underling.rpy:100
     old "CHANGE YOUR MIND AND LEAVE"
-    new "気持ちを変えて帰る"
+    new "気分を変え、そして帰る"
 
     # game/script-underling.rpy:165
     old "AVENGE YOUR FALLEN COMRADES"
-    new "倒された仲間のため復讐"
+    new "倒された仲間のために復讐する"
 
     # game/script-underling.rpy:165
     old "SAVE YOURSELF"
@@ -1190,11 +1190,11 @@ translate jp strings:
 
     # game/script-underling.rpy:222
     old "OKAY, LET'S KILL THE OVERLORD!"
-    new "よし、魔王を殺すぞ！"
+    new "よし、魔王を殺しにいくぞ！"
 
     # game/script-underling.rpy:222
     old "SHE'S ACTUALLY NOT SO BAD, YOU GUYS..."
-    new "みんな、彼女はそんなに悪くないよ。。。"
+    new "みんな、彼女はそれほど悪くの奴ではないが。。。"
 
     # game/script-underling.rpy:380
     old "TIME TO DIE!"
@@ -1206,7 +1206,7 @@ translate jp strings:
 
     # game/script-underling.rpy:428
     old "USE THE MAIDEN FOR KILLING PRACTICE"
-    new "殺人の練習のため、少女を用ちます。"
+    new "殺人訓練のため、少女を用ちます。"
 
     # game/script-underling.rpy:428
     old "TOSS HER IN THE DUNGEON"
