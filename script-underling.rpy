@@ -1132,7 +1132,7 @@ translate jp lordunderling_00be62fe:
 translate jp lordunderling_833075ae:
 
     # u "you live in fear that they will one day betray you, as you had betrayed your overlord."
-    u "あなたは恐怖くの中に生き、いつの間にか彼らは、君たちが前任に裏切るのようにあなたを殺すのを怖いからだ。"
+    u "あなたは恐怖くの中に生き、いつの間にか彼らは、魔王を裏切るのようにあなたを裏切るのを怖いからだ。"
 
 # game/script-underling.rpy:481
 translate jp lordunderling_a01dfdab:
