@@ -4,271 +4,271 @@
 translate jp maidenstart_1659c965:
 
     # m "you are a maiden.{w=.2} you live in a peaceful village next to a spooky demon overlord's castle."
-    m ""
+    m "あなたは少女です。{w=.2}不気味な悪魔の大王城の隣にある平和な村に住んでいます。"
 
 # game/script-maiden.rpy:28
 translate jp maidenstart_a3a617f0:
 
     # m start2 "you are told that you are fated to be captured by the overlord one day, because you are a beautiful young girl. demon overlords apparently love capturing those."
-    m start2 ""
+    m start2 "あなたは、美しい少女であるがゆえに、いつか魔王に捕らえられる運命にあるとよく言われます。 魔王は、若くて美しい少女を捕らえるのが好きなようです。"
 
 # game/script-maiden.rpy:29
 translate jp maidenstart_8c9a5064:
 
     # m "you think of how you haven't heard of that actually happening to anyone... but maybe the demons just haven't been given the opportunity? who knows."
-    m ""
+    m "あなたは、そんなことが実際に誰かに起こったことがないと思う。。。もしかしたら悪魔たちに機会を与えられていないだけかもしれません。"
 
 # game/script-maiden.rpy:30
 translate jp maidenstart_6f07cce9:
 
     # m start3 "you are in church. you pray to your god, asking why you have been born into this role of maiden."
-    m start3 ""
+    m start3 "あなたは教会に行って、神へ祈り、なぜ自分はこのような少女の役割に生まれてきたのかと問う。"
 
 # game/script-maiden.rpy:31
 translate jp maidenstart_cf213be7:
 
     # m start3a "you respect the divine plan and all, but you're really just curious as to what the point of it is. you are impatient."
-    m start3a ""
+    m start3a "あなたは神の選択を尊重していますが、本当にそれが何を意味するのか知りたいのです。あなた焦っていますから。"
 
 # game/script-maiden.rpy:32
 translate jp maidenstart_e7ea2fa1:
 
     # m "meeting a demon actually sounds pretty gosh darn exciting. maybe you'd understand your role better if you were to just hurry up and get captured already!"
-    m ""
+    m "悪魔に会うのはとてもワクワクしますから。早く捕まってしまった方が、自分の役割を理解できるかもしれませんね。"
 
 # game/script-maiden.rpy:33
 translate jp maidenstart_88e0cc73:
 
     # m start4 "you leave a note and venture forth to find a demon. just to, y'know, see what happens."
-    m start4 ""
+    m start4 "あなたはメモを残して、悪魔を探すために思い切って出かけました。あなたの目的は明らかで、悪魔に捕まったらどうなるか見てみたいと思います。"
 
 # game/script-maiden.rpy:34
 translate jp maidenstart_0e40ff82:
 
     # m start5 "not long into your little adventure, a demon underling appears before you! it looks pretty scary..."
-    m start5 ""
+    m start5 "冒険を始めて間もなく、あなたの目の前に悪魔の部下が現れました！かなり怖そうですね。。。"
 
 # game/script-maiden.rpy:38
 translate jp maidenstart_dc63991b:
 
     # m shout "you yell, but a hero does not come."
-    m shout ""
+    m shout "あなたが叫んだが、勇者は来ていない。。"
 
 # game/script-maiden.rpy:41
 translate jp maidenstart_76932303:
 
     # m shout2 "the demon is put off by your sudden shouting and asks you to keep it down. you apologize."
-    m shout2 ""
+    m shout2 "急に大声を出したので、悪魔は「静かにしてくれ」と言い、あなたは謝ります。"
 
 # game/script-maiden.rpy:42
 translate jp maidenstart_f3473929:
 
     # m "they seem more confused than hostile, which totally catches you off guard."
-    m ""
+    m "彼らは敵対するというよりも、混乱しているように見えて、それがあなたを不意打ちします。"
 
 # game/script-maiden.rpy:52
 translate jp consumedmaiden_be7e15ce:
 
     # m consumed "the demon suddenly jumps you and starts biting. a lot. how painful!" id consumedmaiden_be7e15ce
-    m consumed "" id consumedmaiden_be7e15ce
+    m consumed "悪魔が突然あなたに襲いかかり、そしてあなたに噛みつき始めます。" id consumedmaiden_be7e15ce
 
 # game/script-maiden.rpy:53
 translate jp consumedmaiden_671800e5:
 
     # m consumed2 "this plan of yours was completely stupid, you think. why couldn't you have been more patient? why did you go looking for trouble?"
-    m consumed2 ""
+    m consumed2 "なぜもっと我慢できなかったのか、なぜトラブルを探しに行ったのか、自分の計画はまったくのバカだったと思う。"
 
 # game/script-maiden.rpy:54
 translate jp consumedmaiden_25b4d962:
 
     # m "you aren't angry or anything. of course, this was all your fault for trusting a demon not to devour you on sight."
-    m ""
+    m "もちろん、これはすべて、自分を見ただけで食べられないと悪魔を信じたあなたの責任です。"
 
 # game/script-maiden.rpy:55
 translate jp consumedmaiden_3451abd1:
 
     # m "this is your punishment for questioning fate, you guess."
-    m ""
+    m "これは、運命に疑問を持ったあなたへの罰だと思いますよ。"
 
 # game/script-maiden.rpy:57
 translate jp consumedmaiden_0d30be4f:
 
     # m "bit by bit you are swallowed by the demon until you are no more."
-    m ""
+    m "少しずつ悪魔に飲み込まれていき、あなたの体はなくなってしまいます。"
 
 # game/script-maiden.rpy:68
 translate jp consumedmaiden_c38d4c76:
 
     # "CONSUMED MAIDEN END"
-    ""
+    "少女エンド：美食"
 
 # game/script-maiden.rpy:72
 translate jp maidenpart2_51db9fe7:
 
     # m polite "you tell the demon your name and explain that you're a maiden from the village."
-    m polite ""
+    m polite "あなたは悪魔に自分の名前を告げ、村からの娘であることを説明します。"
 
 # game/script-maiden.rpy:75
 translate jp maidenpart2_612bdaf2:
 
     # m "you tell them that you were thinking maybe you could understand your role better if you were to hurry up and get taken away by a demon already."
-    m ""
+    m "あなたは、「早く悪魔に連れ去られた方が、自分の役割をよく理解できるのではないかと思っています」と伝えます"
 
 # game/script-maiden.rpy:76
 translate jp maidenpart2_78186225:
 
     # m polite2 "the demon doesn't seem to have really been listening to you, which is a little irritating."
-    m polite2 ""
+    m polite2 "悪魔はあなたの言うことをあまり聞いていないようで、それが不快を感じる。"
 
 # game/script-maiden.rpy:77
 translate jp maidenpart2_39829da7:
 
     # m polite3 "they agree to take you to their master nonetheless."
-    m polite3 ""
+    m polite3 "でも自分の主人のところに連れて行ってくれると同意した。"
 
 # game/script-maiden.rpy:80
 translate jp maidenpart2_b8db2a5a:
 
     # m polite4 "after a long walk to the castle, you are introduced to the overlord!"
-    m polite4 ""
+    m polite4 "お城までの長い道のりの後、魔王に紹介されます。"
 
 # game/script-maiden.rpy:82
 translate jp maidenpart2_f4bcee54:
 
     # m slavedriver "she lectures the underling that brought you here, who was apparently told not to leave their post."
-    m slavedriver ""
+    m slavedriver "あなたを連れてきた下部を説教する彼女は、自分の持ち場を離れてはいけないと言われているらしい。"
 
 # game/script-maiden.rpy:83
 translate jp maidenpart2_fcf5aa56:
 
     # m "you wonder what cruel punishment awaits them...!"
-    m ""
+    m "彼に対してどんな残酷な罰が待っているのか。。。"
 
 # game/script-maiden.rpy:84
 translate jp maidenpart2_59905188:
 
     # m slavedriver2 "but to your surprise, she lets them off easy. the underling is dismissed, and the overlord turns to you, looking very interested."
-    m slavedriver2 ""
+    m slavedriver2 "しかし、驚いたことに、彼女は下部を簡単に許さてしまった。下部を下がった後、魔王は興味深そうにあなたに向き直ります。"
 
 # game/script-maiden.rpy:85
 translate jp maidenpart2_2fde4174:
 
     # m polite5 "you explain why you've come, and she squints at you."
-    m polite5 ""
+    m polite5 "あなたが来た理由を説明すると、彼女は目を細めてあなたを見つめています。"
 
 # game/script-maiden.rpy:86
 translate jp maidenpart2_de8c453e:
 
     # m polite6 "it turns out she never had any plans to capture maidens, or to do anything else that would agitate the humans."
-    m polite6 ""
+    m polite6 "あなたは彼女は人間を捕まえるとか、人間を怒らせるようなことをするつもりもないことがわかった。"
 
 # game/script-maiden.rpy:87
 translate jp maidenpart2_668f0cb8:
 
     # m "you wonder for a moment if she might be lying, but it doesn't really seem like it. still, this doesn't make any sense to you."
-    m ""
+    m "一瞬、彼女が嘘をついているのではないかと思ったが、実際にはそうではないようだ。でも、あなたにとっては、彼女の言っていることが本当かどうかは関係ありません。"
 
 # game/script-maiden.rpy:88
 translate jp maidenpart2_bc7bb57b:
 
     # m polite7 "you've always been told that demons would one day seek you out, and something awful would happen. then a hero would come to your rescue!"
-    m polite7 ""
+    m polite7 "あなたは昔からずっと「いつか悪魔があなたを探して、何か恐ろしいことが起こる」と言われていました。そして、勇者があなたを助けてくれるのです。"
 
 # game/script-maiden.rpy:89
 translate jp maidenpart2_5fd54c7b:
 
     # m "you don't want to believe you've been lied to all along. maybe it's just that you haven't been maiden-like enough."
-    m ""
+    m "あなたは自分がずっと騙されたことを信じたくない。自分が少女という役にとってまだ何が足りないものがあるかもしれません。"
 
 # game/script-maiden.rpy:90
 translate jp maidenpart2_ad3d9b8a:
 
     # m polite8 "you ask the overlord what you should do to be a more suitable maiden, but she doesn't seem to understand."
-    m polite8 ""
+    m polite8 "あなたは魔王に、よりふさわしい少女になるためにはどうすればよいかを尋ねますが、彼女は理解していないようです。"
 
 # game/script-maiden.rpy:91
 translate jp maidenpart2_4dedc7ef:
 
     # o "\"just go home and stop worrying about destiny so much.\""
-    o ""
+    o "\"運命を気にするのはやめて、家に帰ろう。\""
 
 # game/script-maiden.rpy:92
 translate jp maidenpart2_69f43657:
 
     # m "she makes it sound so simple. this overlord seems like the complete opposite of you..."
-    m ""
+    m "彼女の言葉使いはとってもシンプルで、あなたとは正反対のようです。。。"
 
 # game/script-maiden.rpy:93
 translate jp maidenpart2_7cabcf91:
 
     # m polite9 "you want to learn more about her and how she thinks! you insist on staying to talk with her more."
-    m polite9 ""
+    m polite9 "あなたは、彼女のことをもっと知りたい、彼女がどう考えているのかを知りたいと思っています！あなたは、彼女ともっと話をするためにここに残りたいと思っています。"
 
 # game/script-maiden.rpy:95
 translate jp maidenpart2_3be05e75:
 
     # m antisocial "the overlord tells you again that you should get lost. how rude! you just got here!"
-    m antisocial ""
+    m antisocial "魔王はまた「帰れ」と言いました。失礼の人ですね、自分はまた来たばかりなのに。"
 
 # game/script-maiden.rpy:103
 translate jp maidenpart2_3331c296:
 
     # m obedient "you don't want to cause any trouble, so you figure it's time to go home."
-    m obedient ""
+    m obedient "あなたは迷惑をかけたくないので、そろそろ帰ろうかと思っています。"
 
 # game/script-maiden.rpy:106
 translate jp maidenpart2_d3eb8304:
 
     # m antisocial2 "you put your foot down and tell her you're not going anywhere. you still want to fulfill your destiny, even if you have to make it happen on your own!"
-    m antisocial2 ""
+    m antisocial2 "あなたは、自分がどこにも行かないことを彼女に伝えます。あなたは、たとえ自分の力で実現しようとしても、自分の運命を実現したいのです。"
 
 # game/script-maiden.rpy:107
 translate jp maidenpart2_285fea80:
 
     # m "she's a little frustrated at your stubbornness, but doesn't kick you out or anything. hooray!"
-    m ""
+    m "彼女はあなたの頑固さに少し苛立っていますが、あなたを追い出したりはしませんでした。"
 
 # game/script-maiden.rpy:112
 translate jp maidenandoverlord_761a3ae8:
 
     # m chat "the overlord shares many stories about demons with you... and little by little, you realize they might not be the ruthless monsters you were raised to believe."
-    m chat ""
+    m chat "魔王はあなたに悪魔の話をたくさん教えてくれました。。。そして少しずつ、悪魔は冷酷なモンスターではないかもしれないと気付いていきました。"
 
 # game/script-maiden.rpy:113
 translate jp maidenandoverlord_9c9a5ff7:
 
     # m chat2 "as it turns out, she commanded her demons to avoid towns and villages."
-    m chat2 ""
+    m chat2 "真実は彼女は悪魔たちに町や村を避けるように命じたのです。"
 
 # game/script-maiden.rpy:114
 translate jp maidenandoverlord_cf4952a0:
 
     # m "she didn't want to risk giving the humans any excuse to send a hero out after them."
-    m ""
+    m "人間に勇者を送り込む口実を与えたくなかったのだ。"
 
 # game/script-maiden.rpy:115
 translate jp maidenandoverlord_8191363a:
 
     # m chat3 "you realize that must be why you'd never heard of any demons attacking your town."
-    m chat3 ""
+    m chat3 "だからこそ、自分の町に魔物が来たという話を聞いたことがないのだと思います。"
 
 # game/script-maiden.rpy:116
 translate jp maidenandoverlord_d1ea7f82:
 
     # m "you express your gratitude to the overlord on behalf of your village."
-    m ""
+    m "あなたは、村の人々を代表して魔王に感謝の気持ちを伝えます。"
 
 # game/script-maiden.rpy:117
 translate jp maidenandoverlord_ee70542b:
 
     # m chat4 "she says you can thank her by telling the humans to stop raising heroes. she's tired of her servants getting killed off by them."
-    m chat4 ""
+    m chat4 "魔王は感謝するなら、人間に勇者を育てるのをやめると伝えくれ。彼女は自分の下部が勇者たちに殺されることにはもううんざりしているのです。"
 
 # game/script-maiden.rpy:118
 translate jp maidenandoverlord_ad0e87d8:
 
     # m chat5 "you've always thought demons were violent and unreasonable creatures, but... it seems the overlord could say the same of humans."
-    m chat5 ""
+    m chat5 "あなたは、悪魔は暴力的で理不尽な生き物だと思っていましたが、。。。悪魔も人間にも同じことを言えるようですね。"
 
 # game/script-maiden.rpy:119
 translate jp maidenandoverlord_7def6ba2:
