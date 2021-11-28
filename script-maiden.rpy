@@ -274,577 +274,577 @@ translate jp maidenandoverlord_ad0e87d8:
 translate jp maidenandoverlord_7def6ba2:
 
     # m "you may be different, but really they're just trying to live their lives the same as you. you feel like you're starting to understand things a lot better!"
-    m ""
+    m "彼らはあなたと違うかもしれませんが、彼らただ人間と同様に生きようとしているだけです。あなたは、物事をよりよく理解できるようになったと感じています。"
 
 # game/script-maiden.rpy:121
 translate jp maidenandoverlord_707ae705:
 
     # o "\"but maybe everything i've said was to deceive you and the other humans. what would you do if i turned out to be super evil all along?\""
-    o ""
+    o "\"もしも、私があなたに言ったことは、あなたや他の人間を騙すためのものだったのかもしれません。ももし、私が本当に最初から超悪人だったら、あなたはどうしますか？\""
 
 # game/script-maiden.rpy:122
 translate jp maidenandoverlord_e297cd59:
 
     # m chat7 "even if she were to capture you now, you think this place is far more interesting than the way things are back home."
-    m chat7 ""
+    m chat7 "今、彼女に捕まったとしても、ここは村よりもずっと面白いと思っています。"
 
 # game/script-maiden.rpy:123
 translate jp maidenandoverlord_e631ed40:
 
     # m "you kind of like not being told to expect demons to come after you all the time. you feel... free."
-    m ""
+    m "悪魔に狙われないようにと言われなくて済むし、あなたは自由になれる。"
 
 # game/script-maiden.rpy:124
 translate jp maidenandoverlord_50327e64:
 
     # m chat8 "honestly, you've always kept to yourself, but spending time with this overlord has been very nice! you feel butterflies in your stomach."
-    m chat8 ""
+    m chat8 "正直なところ、あなたはいつも一人でいることが多かったのですが、この魔王との時間はとても素敵なものでした！あなたの心はドキドキしています。"
 
 # game/script-maiden.rpy:129
 translate jp maidenandoverlord_e868d9ea:
 
     # m genocide "but then, a hero barges into the room."
-    m genocide ""
+    m genocide "だが、そこに勇者が乱入してきた。"
 
 # game/script-maiden.rpy:132
 translate jp maidenandoverlord_c917422d:
 
     # m genocide2 "his clothes are stained by a dark liquid. it's dripping from his weapon, too..."
-    m genocide2 ""
+    m genocide2 "彼の服は暗い液体で汚れています。彼の武器からも滴り落ちています。。。"
 
 # game/script-maiden.rpy:133
 translate jp maidenandoverlord_0e74c8c0:
 
     # m "you realize it must be demon blood. something horrible has happened."
-    m ""
+    m "あなたはそれは悪魔の血に違いないと気づく。何か恐ろしいことが起こっている。"
 
 # game/script-maiden.rpy:142
 translate jp maidenandoverlord_0697fb84:
 
     # m entrance "as you think that, a hero enters the room."
-    m entrance ""
+    m entrance "そう思っていると、勇者が部屋に入ってきます。"
 
 # game/script-maiden.rpy:150
 translate jp maidenandoverlord_0697fb84_1:
 
     # m entrance "as you think that, a hero enters the room."
-    m entrance ""
+    m entrance "そう思っていると、勇者が部屋に入ってきます。"
 
 # game/script-maiden.rpy:151
 translate jp maidenandoverlord_79f631e3:
 
     # m "you're surprised to see him at first, until you realize he must have been sent to retrieve you."
-    m ""
+    m "最初は驚きましたが、きっとあなたを迎えに来たのだと思います。"
 
 # game/script-maiden.rpy:155
 translate jp maidenandhero_e59203ef:
 
     # m mh "along the way, you encounter a hero."
-    m mh ""
+    m mh "途中で勇者と出会った。"
 
 # game/script-maiden.rpy:157
 translate jp maidenandhero_8887ace6:
 
     # m levelgrind "he's covered in demon blood! you are frightened by the sight of him and run away."
-    m levelgrind ""
+    m levelgrind "彼は悪魔の血にまみれていた！。あなたは彼の姿を見て怖くなり、逃げ出しました。"
 
 # game/script-maiden.rpy:159
 translate jp maidenandhero_81b78ae8:
 
     # m mh2 "he asks you what you're doing. don't you know the overlord's castle is like, right there?"
-    m mh2 ""
+    m mh2 "何をしているのかと聞かれ、魔王の城があそこにあるのを知らないのか？"
 
 # game/script-maiden.rpy:160
 translate jp maidenandhero_ad1215c4:
 
     # m polite "you explain everything that happened."
-    m polite ""
+    m polite "あなたは起こったことをすべて説明してくれる。"
 
 # game/script-maiden.rpy:162
 translate jp maidenandhero_f9c5afe5:
 
     # m distrust "the hero seems to think you're lying to him. he asks if you've been brainwashed by the demons. what nerve!"
-    m distrust ""
+    m distrust "勇者はあなたが嘘をついていると思っているようで、「悪魔に洗脳されているのではないか」と聞いてきますが、信じられない！"
 
 # game/script-maiden.rpy:163
 translate jp maidenandhero_f272f007:
 
     # m distrust2 "you are very upset that this so-called hero would treat you this way, and leave in a huff."
-    m distrust2 ""
+    m distrust2 "あなたは、この勇者と呼ばれる人があなたにこのような扱いをしたことに非常に腹を立てて、怒って帰ってしまうのです。"
 
 # game/script-maiden.rpy:165
 translate jp maidenandhero_43ec573e:
 
     # m trusting "he is very surprised that demons don't seem to be as malicious as you were raised to believe."
-    m trusting ""
+    m trusting "彼は、あなたがずっと信じるように育てられたほど悪魔が悪意を持っていないように見えることにとても驚いています。"
 
 # game/script-maiden.rpy:166
 translate jp maidenandhero_4b423bf6:
 
     # m trusting2 "the two of you return to the village, hoping to communicate this to everyone."
-    m trusting2 ""
+    m trusting2 "このことをみんなに伝えたいと思い、二人は村に戻ってきた。"
 
 # game/script-maiden.rpy:167
 translate jp maidenandhero_93fe4329:
 
     # m return1 "they had all been so worried and are very glad that the hero brought you back!"
-    m return1 ""
+    m return1 "みんなとても心配していたので、勇者があなたを連れてきてくれてとても嬉しいです。"
 
 # game/script-maiden.rpy:168
 translate jp maidenandhero_fc7fac0b:
 
     # m return2 "you quickly set the record straight; you weren't rescued, because there was nothing to be rescued from in the first place!"
-    m return2 ""
+    m return2 "あなたはすぐに誤解を解けようと思って。「救出されたのではなく、そもそも救出される必要もがなかったのです！」"
 
 # game/script-maiden.rpy:169
 translate jp maidenandhero_3d6ea0a2:
 
     # m return3 "the villagers seem confused and look to the hero for an explanation."
-    m return3 ""
+    m return3 "村人たちは戸惑い、勇者に説明を求めます。"
 
 # game/script-maiden.rpy:170
 translate jp maidenandhero_5a6a5268:
 
     # m "he tells them he only ran into you on his way to the castle, and that this isn't really his story to tell."
-    m ""
+    m "彼は、城に行く途中であなたに出会っただけで、今回のことは、彼とは関係はない。"
 
 # game/script-maiden.rpy:171
 translate jp maidenandhero_97d8f434:
 
     # m return4 "you explain to them how you met the overlord, and that she's not actually interested in capturing maidens or other mean things like that."
-    m return4 ""
+    m return4 "その際、魔王との出会いを説明し、彼女が実は少女を捕まえることに興味がないことを伝えます。"
 
 # game/script-maiden.rpy:172
 translate jp maidenandhero_62b7ce48:
 
     # m return5 "the villagers look again to the hero for confirmation. you feel a little miffed that they seem to prefer his word over yours, but you don't say anything about it."
-    m return5 ""
+    m return5 "村人たちは再び勇者に確認の視線を送る。あなたは、彼らが自分の言葉よりも勇者の言葉を好むように見えることに少し不満を感じたが、何も言わなかった。"
 
 # game/script-maiden.rpy:173
 translate jp maidenandhero_847a1a91:
 
     # m return6 "the hero proclaims that he believes your story, but volunteers to go talk to the demons himself. just to make absolutely sure."
-    m return6 ""
+    m return6 "勇者はあなたの話を信じると宣言しますが、念のため自分で悪魔に話を聞きに行くことを志願します。"
 
 # game/script-maiden.rpy:176
 translate jp maidenandhero_9a15995d:
 
     # m return7 "the crowd breaks into hushed whispers. you hear words like \"trickery\" and \"demon sympathizer\" being thrown around, which makes you frown."
-    m return7 ""
+    m return7 "村人たちが突然ささやいた。あなたは「魔王支持者」とか「悪魔の仕掛け」とか聞こえてきます。"
 
 # game/script-maiden.rpy:177
 translate jp maidenandhero_bde52179:
 
     # m return8 "you're pretty shocked that everyone's this hesitant to believe you."
-    m return8 ""
+    m return8 "みんなが自分が言ったことを信じないことを、かなりショックを受けているようです。"
 
 # game/script-maiden.rpy:178
 translate jp maidenandhero_d80354d7:
 
     # m "does the hero even trust you? you aren't sure anymore..."
-    m ""
+    m "あなたは勇者は自分を信頼してくれるかどうか、もうわからないのです。。。"
 
 # game/script-maiden.rpy:179
 translate jp maidenandhero_c15da507:
 
     # m return9 "an old man implores the hero to go speak with the overlord immediately."
-    m return9 ""
+    m return9 "老人は、勇者に「すぐに魔王と交渉に行ってくれ」と懇願した。。"
 
 # game/script-maiden.rpy:180
 translate jp maidenandhero_a975c302:
 
     # m "he says you should be held prisoner, and considered dangerous until the hero returns."
-    m ""
+    m "勇者が戻ってくるまで、あなたを捕らえて、危険人物にしておくべきだと言っています。"
 
 # game/script-maiden.rpy:181
 translate jp maidenandhero_e56ffbce:
 
     # m return10 "much to your disbelief, the crowd agrees with him."
-    m return10 ""
+    m return10 "驚いたことは、村人たちは彼の意見を同意していた。"
 
 # game/script-maiden.rpy:182
 translate jp maidenandhero_5810c696:
 
     # m "because of course... if you were conspiring with the demons, they can't afford to let their guard down. the whole village would be slaughtered by \"monsters\"..."
-    m ""
+    m "だって、もしあなたが悪魔と共謀していたなら、油断したら村人全員が\"悪魔\"に殺されてしまうからです。。。"
 
 # game/script-maiden.rpy:183
 translate jp maidenandhero_4b30116d:
 
     # m return10a "the hero isn't saying anything... you'll be tied up and tossed into a cell at this rate!"
-    m return10a ""
+    m return10a "勇者は何も言っていない。。。このままでは縛られて独房に放り込まれてしまうぞ!"
 
 # game/script-maiden.rpy:184
 translate jp maidenandhero_f7d97395:
 
     # m return11 "if you're going to be held captive by anyone, it's going to be the overlord! not your fellow countrymen!"
-    m return11 ""
+    m return11 "もし誰かに捕らわれるとしたら、それは魔王だ！自分の同胞ではない。"
 
 # game/script-maiden.rpy:190
 translate jp maidenandhero_58dbcb5e:
 
     # m resolute "you boldly announce that you'll accompany the hero to prove yourself! you'd rather risk what's out there instead of staying in a village that doesn't trust you."
-    m resolute ""
+    m resolute "潔白を証明するために、勇者と一緒に魔王の城に行くと大胆に宣言していますね。信頼されていない村にいるよりも、殺されるリスクを冒してでも行きたい。"
 
 # game/script-maiden.rpy:191
 translate jp maidenandhero_07bb07b4:
 
     # m resolute2 "no one seems to know how to react. you grab the hero by the wrist and take off before anyone stops you."
-    m resolute2 ""
+    m resolute2 "誰もがどう反応していいかわからない、誰かに止められる前に、あなたは勇者の手首を掴んで立ち去る。"
 
 # game/script-maiden.rpy:194
 translate jp maidenandhero_fe1e0ae1:
 
     # m leave "you can prove yourself without anyone's help!"
-    m leave ""
+    m leave "あなたは誰の助けも借りずに、自分の力を証明することができるのです。"
 
 # game/script-maiden.rpy:195
 translate jp maidenandhero_c0d89b73:
 
     # m "you make a run for the overlord's castle, leaving the hero behind..."
-    m ""
+    m "あなたは勇者を置き去りにして魔王の城に逃げ込む。。。。"
 
 # game/script-maiden.rpy:199
 translate jp maidenandhero_27e297d8:
 
     # m leave2 "but as you get closer, you start to notice a tower of black smoke darkening the beautiful blue sky."
-    m leave2 ""
+    m leave2 "しかし、城に近づくにつれ、美しい青空を黒く染め上げる黒い煙の塔が目に入ってきました。"
 
 # game/script-maiden.rpy:200
 translate jp maidenandhero_da499ced:
 
     # m leave3 "the castle is engulfed in flames! what in god's name could've happened?"
-    m leave3 ""
+    m leave3 "城が炎に包まれている！一体何が起こったのか？"
 
 # game/script-maiden.rpy:204
 translate jp maidenandunderling_d8a7cec5:
 
     # m disloyal "a suspicious group of demons stands just outside the entrance."
-    m disloyal ""
+    m disloyal "入り口のすぐそばには、悪魔の集団が立っています。"
 
 # game/script-maiden.rpy:205
 translate jp maidenandunderling_99b477e2:
 
     # m "they're talking about assassinating the overlord...!"
-    m ""
+    m "彼らは魔王を暗殺することについて話している。。。"
 
 # game/script-maiden.rpy:209
 translate jp maidenandunderling_c42d4ab4:
 
     # m captor "they immediately notice you overheard them, and decide to lock you in the dungeon before you can cause any trouble."
-    m captor ""
+    m captor "そして、その話を聞いていたことに気付いた彼らは、トラブルを起こす前にあなたを牢獄に閉じ込めることにしました。"
 
 # game/script-maiden.rpy:210
 translate jp maidenandunderling_0be42e9b:
 
     # m captor2 "you cry out, but the demons ignore your protests."
-    m captor2 ""
+    m captor2 "叫んでも、悪魔はその訴えを無視する。"
 
 # game/script-maiden.rpy:211
 translate jp maidenandunderling_8266b1cd:
 
     # m "you can't believe you escaped possibly being thrown in a cell back in your village, only to be tossed in this awful place!"
-    m ""
+    m "村の牢屋に入れられそうになったのを逃れて、こんなひどいところに放り込まれたなんて、信じられない。"
 
 # game/script-maiden.rpy:212
 translate jp maidenandunderling_a117e2a5:
 
     # m captor3 "this is terrible... who's going to keep those demons from harming the overlord?"
-    m captor3 ""
+    m captor3 "これはひどい。。。誰が悪魔たちが魔王に危害を加えないようにするんだ？"
 
 # game/script-maiden.rpy:213
 translate jp maidenandunderling_c0d6e72a:
 
     # m "you hope she can fend for herself. you sure can't."
-    m ""
+    m "あなたには無理でしょう。彼女が自分で生きていけることを願っているだけだ。"
 
 # game/script-maiden.rpy:214
 translate jp maidenandunderling_ec1b7b2d:
 
     # m captor4 "you hear the sounds of battle echoing through the halls outside. did the hero follow you...?"
-    m captor4 ""
+    m captor4 "あなたは外のホールに響く戦いの音が聞こえてきます。主人公はあなたを追ってきたのでしょうか...？"
 
 # game/script-maiden.rpy:215
 translate jp maidenandunderling_2faa04c3:
 
     # m "if he's out there, your cries don't reach him."
-    m ""
+    m "彼が外にいっても、あなたの叫びは彼に届かない。"
 
 # game/script-maiden.rpy:216
 translate jp maidenandunderling_cdd6d2c5:
 
     # m captor5 "after a while, the violence seems to die down... it's impossible to tell what's happened."
-    m captor5 ""
+    m captor5 "暫くすると、暴力が鎮まったかのように...何が起こったのか分からなくなるのです。"
 
 # game/script-maiden.rpy:217
 translate jp maidenandunderling_25ceb90b:
 
     # m captor5 "you continue to wait, but no one comes for you."
-    m captor5 ""
+    m captor5 "待っていても、誰も来ていない。"
 
 # game/script-maiden.rpy:219
 translate jp maidenandunderling_1e2aa0ce:
 
     # m "unable to escape, you rot in that cell."
-    m ""
+    m "逃げられずに、あなたはその牢獄で腐ってしまう。"
 
 # game/script-maiden.rpy:230
 translate jp maidenandunderling_0079cfad:
 
     # "IMPRISONED MAIDEN END"
-    ""
+    "少女エンド：牢獄"
 
 # game/script-maiden.rpy:235
 translate jp maidenandunderling_46bbe4f5:
 
     # m captor "they immediately notice you overheard them. the underling you recognize from before is the first to do something about it."
-    m captor ""
+    m captor "あなたが耳打ちしたことにすぐに気がついて、前から知っていた悪魔が最初に行動を起こします。"
 
 # game/script-maiden.rpy:237
 translate jp maidenandunderling_215a37b9:
 
     # u "\"this is just the way it has to be!\""
-    u ""
+    u "\"ここはあなたの墓場だ!\""
 
 # game/script-maiden.rpy:238
 translate jp maidenandunderling_b5119e2b:
 
     # m slaughtered2 "they suddenly attack you. in that moment, you regret having ever trusted the demons."
-    m slaughtered2 ""
+    m slaughtered2 "あなたはその瞬間、かつて悪魔を信じていたことを後悔する。"
 
 # game/script-maiden.rpy:241
 translate jp maidenandunderling_9215ad15:
 
     # m "you die instantly."
-    m ""
+    m "あなたは即死した。"
 
 # game/script-maiden.rpy:250
 translate jp maidenandunderling_fbcb2eff:
 
     # "SLAUGHTERED MAIDEN END"
-    ""
+    "少女エンド：殺される"
 
 # game/script-maiden.rpy:254
 translate jp executedmaiden_43c4d9fb:
 
     # m executed "you return to the village alone. everyone was very worried about you!"
-    m executed ""
+    m executed "あなたはみんなが心配していたので、一人で村に戻ってきた。"
 
 # game/script-maiden.rpy:255
 translate jp executedmaiden_d73e0406:
 
     # m return4 "they surround you with a thousand questions, and you tell them your story."
-    m return4 ""
+    m return4 "彼らは次々とあなたに質問しています。そして、あなたは自分の話をします。"
 
 # game/script-maiden.rpy:256
 translate jp executedmaiden_cbc43c97:
 
     # m return4 "as you explain that the overlord never had any intentions to harm anyone here, you notice the looks of uncertainty in the crowd."
-    m return4 ""
+    m return4 "魔王は誰かを傷つけるつもりはなかったと説明すると、村人たちの懐疑的な表情に気づきます。"
 
 # game/script-maiden.rpy:259
 translate jp executedmaiden_01f61608:
 
     # m return7 "people are whispering things to each other while you speak to them."
-    m return7 ""
+    m return7 "あなたが話しかけている間、人々はお互いに何かを囁いています。"
 
 # game/script-maiden.rpy:260
 translate jp executedmaiden_60bb6d41:
 
     # m return9 "you are loudly interrupted by an older man. he rudely calls you a demon sympathizer."
-    m return9 ""
+    m return9 "突然、あなたは年配の男性に大声で邪魔されます。彼はあなたを悪魔の仲間と無礼にも呼んだ。"
 
 # game/script-maiden.rpy:261
 translate jp executedmaiden_827ca220:
 
     # m return10 "the crowd is growing unruly."
-    m return10 ""
+    m return10 "観客は手に負えなくなっている。"
 
 # game/script-maiden.rpy:262
 translate jp executedmaiden_d20a3257:
 
     # m "you don't understand... you've only told them the truth. do they not believe you?"
-    m ""
+    m "あなたはわかっていない...あなたは真実を伝えただけなのに、どうして信じてくれないの？"
 
 # game/script-maiden.rpy:263
 translate jp executedmaiden_b76f842f:
 
     # m "everyone begins speculating what must have actually happened. they weave elaborate lies and ask you to prove your innocence."
-    m ""
+    m "誰もが何が起こっているのかを推測し始めた。彼らは手の込んだ嘘を織り交ぜ、あなたに無実の証明を求めます。"
 
 # game/script-maiden.rpy:264
 translate jp executedmaiden_8860ecb4:
 
     # m executed2 "how could you have returned without the aid of a hero, they ask. you could not have possibly escaped the overlord on your own without harm."
-    m executed2 ""
+    m executed2 "勇者の助けを借りずにどうやって戻ってきたのかと聞かれます。自分一人では魔王の城から無事に逃れることはできないはず。"
 
 # game/script-maiden.rpy:265
 translate jp executedmaiden_f77d660f:
 
     # m "you must be conspiring with the demons, trying to trick everyone into believing they aren't the horrible creatures we know them to be. so they say."
-    m ""
+    m "あなたは悪魔と結託して、村人たちに悪魔がみんなが知っているような恐ろしい生き物ではないと思わせようとしたのではないかと言われました。"
 
 # game/script-maiden.rpy:266
 translate jp executedmaiden_9a4785d5:
 
     # m executed3 "have the people of your village always been this blinded by their fears and hatred of things they've never cared to know?"
-    m executed3 ""
+    m executed3 "あなたの村の人々は、いつもこのように、知りたいと思ったことのないものへの恐怖と憎しみで盲目になっているのでしょうか？"
 
 # game/script-maiden.rpy:267
 translate jp executedmaiden_ff9c592e:
 
     # m "you wonder how you missed that before."
-    m ""
+    m "なぜ今まで気づかなかったのか。"
 
 # game/script-maiden.rpy:270
 translate jp executedmaiden_926b8b74:
 
     # m executed4 "you are seized by the crowd, and voices from all sides are calling for public execution. you are to be burned at the stake."
-    m executed4 ""
+    m executed4 "あなたは群衆に取り囲まれ、あらゆる方面から公開処刑を求める声が上がっています。"
 
 # game/script-maiden.rpy:271
 translate jp executedmaiden_b248f698:
 
     # m executed5 "you don't want to die."
-    m executed5 ""
+    m executed5 "あなたは死にたくない。"
 
 # game/script-maiden.rpy:272
 translate jp executedmaiden_1205df1e:
 
     # m executed6 "you wonder, would it have been better to hide the truth? you don't like the thought of that."
-    m executed6 ""
+    m executed6 "あなたは、真実を隠していた方が良かったのではないかと考えます。あなたは自分のその考え方は嫌いだ。"
 
 # game/script-maiden.rpy:273
 translate jp executedmaiden_43e79bf4:
 
     # m "you have always lived honestly... so why has this happened? why are you being punished?"
-    m ""
+    m "今まで誠実に生きてきたのに、なぜこんなことになったのか、なぜ罰せられるのか。"
 
 # game/script-maiden.rpy:274
 translate jp executedmaiden_7749c720:
 
     # m executed7 "you hear the dissenting voices of your family and neighbors. but they, like you, are powerless against the momentum."
-    m executed7 ""
+    m executed7 "家族や近所の人たちの反対の声を聞いても、あなたと同じように、その勢いの村人達に対して無力なのです。"
 
 # game/script-maiden.rpy:275
 translate jp executedmaiden_76315efb:
 
     # m executed8 "they can only watch as you burn, and you can only cry for them."
-    m executed8 ""
+    m executed8 "彼らはあなたが燃えるのを見守ることしかできず、あなたは彼らのために泣くことしかできません。"
 
 # game/script-maiden.rpy:277
 translate jp executedmaiden_922a46cf:
 
     # m "you are so, so sorry."
-    m ""
+    m "本当は残念でした。"
 
 # game/script-maiden.rpy:288
 translate jp executedmaiden_62653353:
 
     # "EXECUTED MAIDEN END"
-    ""
+    "少女エンド：拷問"
 
 # game/script-maiden.rpy:297
 translate jp maidenpart3_0c2e0915:
 
     # m "confused, the hero asks you what's going on."
-    m ""
+    m "混乱しているところに、勇者が「どうしたんですか？」と聞く"
 
 # game/script-maiden.rpy:302
 translate jp maidenpart3_7a07d1ef:
 
     # m "you explain the situation, reassuring him that you were never in any danger."
-    m ""
+    m "あなたは状況を説明し、決して危険ではなかったことを伝えます。"
 
 # game/script-maiden.rpy:305
 translate jp maidenpart3_b78415e1:
 
     # m genocide5 "the overlord has walked past the hero and out into the hall. she's wailing."
-    m genocide5 ""
+    m genocide5 "魔王が勇者の横を通り過ぎてホールに出てきました。彼女は泣いている"
 
 # game/script-maiden.rpy:307
 translate jp maidenpart3_c03c05f8:
 
     # m complacent6 "you can only guess what kind of horrible scene he's left for her."
-    m complacent6 ""
+    m complacent6 "あなたは勇者が何かの悪いことをしたのかと想像しかない。"
 
 # game/script-maiden.rpy:308
 translate jp maidenpart3_263338ba:
 
     # m possessive4 "the overlord tears the hero apart in retaliation. you watch silently, unable to scream."
-    m possessive4 ""
+    m possessive4 "魔王は報復として勇者を引き裂く。あなたは叫ぶこともできず、黙って見ている。"
 
 # game/script-maiden.rpy:309
 translate jp maidenpart3_c1b0beda:
 
     # m "the overlord, who you had just been getting along with so well... has killed another human right in front of you."
-    m ""
+    m "今まで仲良くしていた魔王が、自分の目の前で人間を殺してしまったのです。"
 
 # game/script-maiden.rpy:310
 translate jp maidenpart3_a47584ab:
 
     # m possessive5 "it's clear now that you had been deceived by her sweet words. demons are ruthless monsters after all."
-    m possessive5 ""
+    m possessive5 "自分が彼女の甘い言葉に騙されていたことがよくわかりました。"
 
 # game/script-maiden.rpy:314
 translate jp maidenpart3_4bf0b9cc:
 
     # m possessive12 "you somehow manage to slip past the overlord and make it out of the blood-soaked castle."
-    m possessive12 ""
+    m possessive12 "あなたは、魔王を回避し、血まみれの城から脱出することができました。"
 
 # game/script-maiden.rpy:316
 translate jp maidenpart3_c3c963d8:
 
     # m "you never look back."
-    m ""
+    m "あなたは振り替えずに逃げった。"
 
 # game/script-maiden.rpy:327
 translate jp maidenpart3_e6db6b66:
 
     # "ESCAPED MAIDEN END A"
-    ""
+    "少女エンド：脱出ルートA"
 
 # game/script-maiden.rpy:333
 translate jp maidenpart4_fe28fffa:
 
     # m "the hero suddenly dashes toward the overlord, sword drawn."
-    m ""
+    m "勇者は突然、剣を抜いて魔王に向かってダッシュします。"
 
 # game/script-maiden.rpy:341
 translate jp maidenpart4_f9c6c6f4:
 
     # m martyr "you selflessly throw yourself in front of the hero's blade, acting as a shield."
-    m martyr ""
+    m martyr "あなたは勇者の刃の前に無我夢中で身を投じ、盾の役割を果たします。"
 
 # game/script-maiden.rpy:342
 translate jp maidenpart4_e20d6d10:
 
     # m martyr2 "it's funny, you think. you never could've imagined this would be the way that you die."
-    m martyr2 ""
+    m martyr2 "自分がこんな死に方をするとは思いもよらなかった。"
 
 # game/script-maiden.rpy:343
 translate jp maidenpart4_abf31eac:
 
     # m "the roles are all switched around... but it feels right to you somehow."
-    m ""
+    m "役割が全部入れ替わったが。。。あなたは気分がいいそうです。"
 
 # game/script-maiden.rpy:344
 translate jp maidenpart4_ca1618cc:
 
     # m "you are glad your destiny turned out to be saving someone rather than being saved yourself."
-    m ""
+    m "あなたの運命は、人に救われるのではなく、人を救うことで、それはあなたに喜びを感じます。"
 
 # game/script-maiden.rpy:346
 translate jp maidenpart4_765486bc:
 
     # m "as your vision fades, you hope that everything turns out alright for your new friend..."
-    m ""
+    m "視界が段々狭くなってきた、新しい友人の成功を祈っている 。。。"
 
 # game/script-maiden.rpy:357
 translate jp maidenpart4_d8305d99:
 
     # "SACRIFICIAL MAIDEN END"
-    ""
+    "少女エンド：犠牲"
 
 # game/script-maiden.rpy:363
 translate jp maidenpart4_faa47bf5:
