@@ -4,43 +4,43 @@ translate jp strings:
 
     # game/myscreens.rpy:6
     old "tragedy: a playwright obsessed with bad endings"
-    new "悲劇："
+    new "悲劇：バッドエンディングにこだわる劇作家"
 
     # game/myscreens.rpy:8
     old "you: seeker of truth, love, and eternal happiness"
-    new "あなた："
+    new "あなた：真実、愛、そして永遠の幸せを探索する探求者"
 
     # game/myscreens.rpy:11
     old "tragedy: the narrator, storyteller, god of this world"
-    new "悲劇："
+    new "悲劇：語り、ストーリーテラー、この世界の神"
 
     # game/myscreens.rpy:13
     old "you: a lost soul who wandered into my theater"
-    new "あなた："
+    new "あなた：私のシアターに迷い込んできた迷子の魂"
 
     # game/myscreens.rpy:16
     old "humans: peace-loving people ruled by their fear of violent demons"
-    new "人間族："
+    new "人間族：平和を愛する人々、暴力的な悪魔の支配に怖がる"
 
     # game/myscreens.rpy:18
     old "demons: unabashedly selfish creatures who value power above all else"
-    new "悪魔族："
+    new "悪魔族：臆面もなく利己的で、何よりも権力を重んじる生き物。"
 
     # game/myscreens.rpy:20
     old "hero: young and courageous slayer of demons who fights to protect humans"
-    new "勇者："
+    new "勇者：人間を守るために戦う、若くて勇敢な悪魔の殺し屋。"
 
     # game/myscreens.rpy:22
     old "maiden: common victim of abduction or worse fates at the hands of demons"
-    new "少女："
+    new "少女：悪魔に誘拐された、またはより恐ろしい運命に苦しんだ一般的な犠牲者"
 
     # game/myscreens.rpy:24
     old "underling: servants of the overlord, widely considered to be very untrustworthy"
-    new "悪魔："
+    new "悪魔：魔王の部下、非常に信用できないと考えられています"
 
     # game/myscreens.rpy:26
     old "overlord: tyrannical ruler of demons and the hero's ultimate target"
-    new "魔王："
+    new "魔王：魔物の暴君であり、勇者の究極のターゲットである"
 
     # game/myscreens.rpy:50
     old "the hero"
@@ -64,7 +64,7 @@ translate jp strings:
 
     # game/myscreens.rpy:62
     old "REPLAY THE TUTORIAL?"
-    new ""
+    new "チュートリアルを再生しますか？"
 
     # game/myscreens.rpy:63
     old "tutorial"
@@ -76,7 +76,7 @@ translate jp strings:
 
     # game/myscreens.rpy:121
     old "ON FIRE"
-    new ""
+    new "オンファイア"
 
     # game/myscreens.rpy:125
     old "MAIDEN"
@@ -100,175 +100,175 @@ translate jp strings:
 
     # game/myscreens.rpy:144
     old "^ set behaviors to change the flow of events"
-    new ""
+    new "^　イベントの流れを変えるビヘイビアを設定する"
 
     # game/myscreens.rpy:161
     old "dutiful"
-    new ""
+    new "義務を果たす"
 
     # game/myscreens.rpy:163
     old "slaughters all the demons"
-    new ""
+    new "すべての魔物を倒す"
 
     # game/myscreens.rpy:165
     old "heroic"
-    new ""
+    new "英雄的"
 
     # game/myscreens.rpy:167
     old "tries to kill the overlord"
-    new ""
+    new "魔王を殺すのを試す"
 
     # game/myscreens.rpy:169
     old "trusting"
-    new ""
+    new "疑うことなく信じる"
 
     # game/myscreens.rpy:171
     old "believes the maiden's story"
-    new ""
+    new "少女の話を信じる"
 
     # game/myscreens.rpy:173
     old "diplomatic"
-    new ""
+    new "柔軟に対応して"
 
     # game/myscreens.rpy:175
     old "prefers not to solve things through violence"
-    new ""
+    new "暴力で問題を解決することを好まない"
 
     # game/myscreens.rpy:177
     old "LOCKED"
-    new ""
+    new "ロックされた"
 
     # game/myscreens.rpy:185
     old "polite"
-    new ""
+    new "礼儀正しい"
 
     # game/myscreens.rpy:187
     old "doesn't scream at the sight of the underling"
-    new ""
+    new "悪魔の前では叫ばない"
 
     # game/myscreens.rpy:189
     old "obedient"
-    new ""
+    new "従順な"
 
     # game/myscreens.rpy:191
     old "goes home when the overlord tells her to"
-    new ""
+    new "悪魔の言葉に従い、正直に家に帰る"
 
     # game/myscreens.rpy:193
     old "resolute"
-    new ""
+    new "毅然とした態度"
 
     # game/myscreens.rpy:195
     old "leaves the village with the hero in tow"
-    new ""
+    new "勇者と村に帰る"
 
     # game/myscreens.rpy:197
     old "martyr"
-    new ""
+    new "殉職者"
 
     # game/myscreens.rpy:199
     old "dies to protect the overlord"
-    new ""
+    new "魔王を守るために死ぬ"
 
     # game/myscreens.rpy:208
     old "hungry"
-    new ""
+    new "ハングリー"
 
     # game/myscreens.rpy:210
     old "eats the maiden immediately"
-    new ""
+    new "いますぐ少女を食う"
 
     # game/myscreens.rpy:212
     old "disloyal"
-    new ""
+    new "不誠実"
 
     # game/myscreens.rpy:214
     old "gets involved in the plot to kill the overlord"
-    new ""
+    new "魔王を殺す計画に参加する"
 
     # game/myscreens.rpy:216
     old "coward"
-    new ""
+    new "臆病"
 
     # game/myscreens.rpy:218
     old "doesn't go through with the assassination plot"
-    new ""
+    new "暗殺計画は実行せず"
 
     # game/myscreens.rpy:220
     old "captor"
-    new ""
+    new "キャプター"
 
     # game/myscreens.rpy:222
     old "throws the maiden in the dungeon"
-    new ""
+    new "少女をダンジョンに放り込む"
 
     # game/myscreens.rpy:231
     old "tyrant"
-    new ""
+    new "暴君"
 
     # game/myscreens.rpy:233
     old "doesn't allow the underling a day off"
-    new ""
+    new "部下に休日を与えない"
 
     # game/myscreens.rpy:235
     old "antisocial"
-    new ""
+    new "社交的ではない"
 
     # game/myscreens.rpy:237
     old "tells the maiden to leave"
-    new ""
+    new "少女に去るように言う"
 
     # game/myscreens.rpy:239
     old "possessive"
-    new ""
+    new "独占欲強い"
 
     # game/myscreens.rpy:241
     old "won't let the hero take the maiden home"
-    new ""
+    new "勇者が少女を家に連れて行くのを許さない"
 
     # game/myscreens.rpy:243
     old "merciful"
-    new ""
+    new "寛大さと優しさ"
 
     # game/myscreens.rpy:245
     old "lets her underling live in the end"
-    new ""
+    new "魔王の部下を最後に生きさせます"
 
     # game/myscreens.rpy:273
     old "the human doll"
-    new "人間の人形"
+    new "人間のドール"
 
     # game/myscreens.rpy:274
     old "the demon doll"
-    new "悪魔の人形"
+    new "悪魔のドール"
 
     # game/myscreens.rpy:289
     old "WELCOME TO THE TUTORIAL! SELECT A DOLL TO BEGIN THE STORY."
-    new ""
+    new "チュートリアルへようこそ！気に入ったドールを選んで、ストーリーを始めましょう。"
 
     # game/myscreens.rpy:291
     old "LET'S PLAY FROM ANOTHER PERSPECTIVE! WHAT WILL HAPPEN NEXT...?"
-    new ""
+    new "視点を変えて遊んでみよう次は何が起こるんだろう。。。？"
 
     # game/myscreens.rpy:298
     old "^ set the doll's behaviors before the story begins"
-    new ""
+    new "^ 物語が始まる前にドールの行動を設定する"
 
     # game/myscreens.rpy:311
     old "HUMAN DOLL"
-    new "人間の人形"
+    new "人間のドール"
 
     # game/myscreens.rpy:312
     old "hostile"
-    new "敵性"
+    new "敵対的"
 
     # game/myscreens.rpy:314
     old "the human doll will attack"
-    new "人間の人形は攻める"
+    new "人間のドールは攻める"
 
     # game/myscreens.rpy:318
     old "DEMON DOLL"
-    new "悪魔の人形"
+    new "悪魔のドール"
 
     # game/myscreens.rpy:319
     old "wicked"
@@ -276,15 +276,15 @@ translate jp strings:
 
     # game/myscreens.rpy:321
     old "the demon doll will attack"
-    new "悪魔の人形は攻める"
+    new "悪魔のドールは攻める"
 
     # game/myscreens.rpy:337
     old "SKIP CREDITS?"
-    new ""
+    new "スタッフリストをスキップしますか？"
 
     # game/myscreens.rpy:351
     old "^ how will you fight against TRAGEDY?"
-    new ""
+    new "^ どやって悲劇と戦うのですか？"
 
     # game/myscreens.rpy:368
     old "willpower"
@@ -304,7 +304,7 @@ translate jp strings:
 
     # game/myscreens.rpy:376
     old "call for your friend to join you in battle!"
-    new ""
+    new "あなたの友達を呼んで、一緒に戦おう。"
 
     # game/myscreens.rpy:382
     old "kindness"
@@ -320,11 +320,11 @@ translate jp strings:
 
     # game/myscreens.rpy:396
     old "mischief"
-    new "悪戯"
+    new "いたずら"
 
     # game/myscreens.rpy:398
     old "tenacity"
-    new "不退転"
+    new "不屈の精神"
 
     # game/myscreens.rpy:401
     old "_________"
@@ -332,11 +332,11 @@ translate jp strings:
 
     # game/myscreens.rpy:410
     old "ambition"
-    new "覇気"
+    new "野心"
 
     # game/myscreens.rpy:412
     old "brutality"
-    new "強暴"
+    new "残虐"
 
     # game/myscreens.rpy:415
     old "________"
@@ -356,7 +356,7 @@ translate jp strings:
 
     # game/myscreens.rpy:574
     old "TOTAL: [persistent.endings_seen] / 41"
-    new "総数：[persistent.endings_seen] / 41"
+    new "合計：[persistent.endings_seen] / 41"
 
     # game/myscreens.rpy:579
     old "HERO: [persistent.heroends_seen] / 11"
@@ -396,139 +396,139 @@ translate jp strings:
 
     # game/myscreens.rpy:734
     old "select a character to display their timeline"
-    new ""
+    new "キャラクターを選択すると、そのキャラクターのタイムラインが表示します。"
 
     # game/myscreens.rpy:741
     old "DON'T GIVE UP! SURELY THERE'S A GOOD ENDING SOMEWHERE!"
-    new ""
+    new "諦めないで！トゥルーエンドは必ずどこかにいるはずだ！"
 
     # game/myscreens.rpy:743
     old "TRY TO REACH THE TRUE ENDINGS!"
-    new ""
+    new "トゥルーエンドに到達してみてください！"
 
     # game/myscreens.rpy:747
     old "WELCOME BACK! ARE YOU PLEASED WITH YOUR PROGRESS SO FAR?"
-    new ""
+    new "お帰り、これまでの経過に満足していますか？"
 
     # game/myscreens.rpy:749
     old "LET'S WATCH MORE AND MORE BAD ENDINGS!"
-    new ""
+    new "もっともっと、バッドエンドを見よう"
 
     # game/myscreens.rpy:751
     old "DO YOU HAVE A FAVORITE ENDING? OR IS IT STILL TOO EARLY TO DECIDE?"
-    new ""
+    new "あなたはお気に入りのエンディングがありますか？それとも、まだ決めるには早すぎるでしょうか？"
 
     # game/myscreens.rpy:753
     old "EVERYTHING YOU'VE DONE HAS ONLY HURT THEM MORE..."
-    new ""
+    new "あなたがしてきたことは、彼らをさらに傷つけるだけでした...。"
 
     # game/myscreens.rpy:755
     old "YOU MUST REALLY BE ENJOYING MY TRAGEDIES!"
-    new ""
+    new "あなたは本当に私の悲劇を楽しんでいるのでしょうね。"
 
     # game/myscreens.rpy:757
     old "ONE ENDING REMAINS... WILL IT BE GOOD, OR BAD?"
-    new ""
+    new "残る最後の1つのエンド。。。それが良いエンドなのか、悪いエンドなのか？"
 
     # game/myscreens.rpy:759
     old "CONGRATULATIONS! YOU'VE EXPLORED EVERY PATH I HAD TO OFFER. THANKS FOR PLAYING!!"
-    new ""
+    new "おめでとうございます。あなたは、私が提供したすべてのエンドを探求しました。遊んでくれてありがとう!!!"
 
     # game/myscreens.rpy:824
     old "the hero begins his story"
-    new "勇者のストーリーは始まる"
+    new "勇者は自分の物語を始めた"
 
     # game/myscreens.rpy:830
     old "the hero slays the demons {color=#FFB546}(dutiful){/color}"
-    new ""
+    new "勇者は悪魔を殺した {color=#FFB546}(dutiful){/color}"
 
     # game/myscreens.rpy:833
     old "the hero flees from the demons"
-    new ""
+    new "勇者は悪魔たちから逃げた"
 
     # game/myscreens.rpy:837
     old "{color=#FF4F80}overlord behavior:{/color} antisocial"
-    new ""
+    new "{color=#FF4F80}悪魔の行動:{/color}社交的ではない"
 
     # game/myscreens.rpy:842
     old "the hero slaughters his way through the castle {color=#FFB546}(dutiful){/color}"
-    new ""
+    new "勇者は城の中で虐殺をしている　{color=#FFB546}(義務を果たす){/color}"
 
     # game/myscreens.rpy:846
     old "the hero is let into the castle without issue {color=#FFB546}(diplomatic){/color}"
-    new ""
+    new "勇者は問題なく城に入た　{color=#FFB546}(柔軟の対応){/color}"
 
     # game/myscreens.rpy:858
     old "{color=#46EBFF}underling behavior:{/color} hungry"
-    new ""
+    new "{color=#46EBFF}悪魔の行動 :{/color} 腹へた"
 
     # game/myscreens.rpy:861
     old "the hero finds the maiden. the overlord is upset."
-    new ""
+    new "勇者が少女を見つけると、魔王は動揺し始めた。"
 
     # game/myscreens.rpy:864
     old "the hero reaches the overlord's room. everything is fine!"
-    new ""
+    new "勇者は魔王の部屋にたどりついた。何も発生していない！"
 
     # game/myscreens.rpy:872
     old "{color=#9187d6}maiden behavior:{/color} obedient (she runs from you)"
-    new ""
+    new "{color=#9187d6}少女の行動:{/color} 従順な (彼女はあなたから逃げる)"
 
     # game/myscreens.rpy:876
-    old "{color=#9187d6}maiden behavior:{/color} obedient (you talk)"
+    old "{color=#9187d6}少女の行動:{/color} 従順な (あなたは彼女に話す)"
     new ""
 
     # game/myscreens.rpy:881
     old "{color=#C20038}FAILED:{/color} the hero slays the overlord. he never knows what became of the maiden."
-    new ""
+    new "{color=#C20038}失敗:{/color} 勇者は魔王を殺したが。彼は少女の行方を知ることができない。"
 
     # game/myscreens.rpy:884
     old "the hero apologizes for what he's done"
-    new ""
+    new "勇者が自分のしたことを謝罪する。"
 
     # game/myscreens.rpy:888
     old "{color=#46EBFF}underling behavior:{/color} disloyal"
-    new ""
+    new "{color=#46EBFF}悪魔の行動:{/color} 不誠実"
 
     # game/myscreens.rpy:892
     old "{color=#FF4F80}overlord behavior:{/color} possessive"
-    new ""
+    new "{color=#FF4F80}魔王の行動:{/color} 独占欲強い"
 
     # game/myscreens.rpy:896
     old "{color=#C20038}USELESS:{/color} the hero's adventure was pointless. he returns home having accomplished nothing."
-    new ""
+    new "{color=#C20038}無用的な:{/color} 勇者の冒険は無意味で、何も成し遂げずに帰ってきた。"
 
     # game/myscreens.rpy:900
     old "{color=#C20038}SPECTATOR:{/color} the hero watches the maiden burn. she must have somehow deserved it."
-    new ""
+    new "{color=#C20038}観客:{/color} 勇者は少女が燃えるのを見ています。それがきっと彼女にとってふさわし結局だ。"
 
     # game/myscreens.rpy:904
     old "the hero believes the maiden's story {color=#FFB546}(trusting){/color}"
-    new ""
+    new "勇者は少女の話を信じた。 {color=#FFB546}(疑うことなく信じる){/color}"
 
     # game/myscreens.rpy:909
     old "{color=#C20038}TRAGIC:{/color} the hero is slain by the overlord. he accepts his punishment."
-    new ""
+    new "{color=#C20038}悲劇:{/color} 勇者は魔王を殺されたから、罰を受けます。"
 
     # game/myscreens.rpy:913
     old "the hero tries to slay the overlord {color=#FFB546}(heroic){/color}"
-    new ""
+    new "勇者は魔王を殺そうとする。{color=#FFB546}(英雄的){/color}"
 
     # game/myscreens.rpy:917
     old "{color=#C20038}NAIVE:{/color} the hero is swiftly defeated by the overlord. she captures the maiden."
-    new ""
+    new "{color=#C20038}ナイーブ:{/color} 勇者はすぐに魔王に敗れ、彼女は乙女を捕らえます。"
 
     # game/myscreens.rpy:921
     old "{color=#46EBFF}underling behavior:{/color} disloyal, captor"
-    new ""
+    new "{color=#46EBFF}悪魔の行動:{/color} 不誠実, キャプター"
 
     # game/myscreens.rpy:925
     old "{color=#9187d6}maiden behavior:{/color} resolute"
-    new ""
+    new "{color=#9187d6}少女の行動:{/color} 毅然とした態度"
 
     # game/myscreens.rpy:930
     old "{color=#C20038}TRIUMPHANT:{/color} the hero slays the overlord. he brings the maiden home."
-    new ""
+    new "{color=#C20038}勝利:{/color} 勇者は魔王を殺し、少女を家に連れて帰る。"
 
     # game/myscreens.rpy:934
     old "{color=#9187d6}maiden behavior:{/color} martyr"
