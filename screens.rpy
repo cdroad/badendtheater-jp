@@ -4,27 +4,27 @@ translate jp strings:
 
     # game/screens.rpy:289
     old "back"
-    new "back"
+    new "バック"
 
     # game/screens.rpy:294
     old "log"
-    new "log"
+    new "ログ"
 
     # game/screens.rpy:299
     old "save"
-    new "save"
+    new "セーブ"
 
     # game/screens.rpy:311
     old "auto"
-    new "auto"
+    new "自動"
 
     # game/screens.rpy:316
     old "skip"
-    new "skip"
+    new "スキップ"
 
     # game/screens.rpy:321
     old "menu"
-    new "menu"
+    new "メニュー"
 
     # game/screens.rpy:432
     old "RETURN TO CHARACTER SELECT?"
@@ -44,7 +44,7 @@ translate jp strings:
 
     # game/screens.rpy:461
     old "BACKLOG"
-    new "BACK LOG"
+    new "バックログ"
 
     # game/screens.rpy:464
     old "SAVE"
@@ -68,7 +68,7 @@ translate jp strings:
 
     # game/screens.rpy:503
     old "ARE YOU SURE?"
-    new "いいんですか？"
+    new "よろしいですか？"
 
     # game/screens.rpy:549
     old "QUIT"
@@ -76,7 +76,7 @@ translate jp strings:
 
     # game/screens.rpy:558
     old "content warning: blood/gore/violence, strong language"
-    new ""
+    new "内容警告：殺傷／残酷／暴力、下品な言葉"
 
     # game/screens.rpy:585
     old "ENTER"
@@ -88,19 +88,19 @@ translate jp strings:
 
     # game/screens.rpy:813
     old "STORY + ART + MUSIC"
-    new "STORY + ART + MUSIC"
+    new "脚本＋美術＋音楽"
 
     # game/screens.rpy:818
     old "ANIMATION"
-    new "ANIMATION"
+    new "動画"
 
     # game/screens.rpy:823
     old "TRANSLATION"
-    new "TRANSLATION"
+    new "翻訳"
 
     # game/screens.rpy:844
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].{size=16}\n\n[renpy.license!t]{/size}"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].{size=16}\n\n[renpy.license!t]{/size}"
+    new "制作ツール： {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].{size=16}\n\n[renpy.license!t]{/size}"
 
     # game/screens.rpy:889
     old "Page {}"
@@ -152,7 +152,7 @@ translate jp strings:
 
     # game/screens.rpy:1022
     old "language..."
-    new "言語..."
+    new "言語。。。"
 
     # game/screens.rpy:1033
     old "SKIP"
@@ -272,7 +272,7 @@ translate jp strings:
 
     # screens.rpy:1008
     old "Advances dialogue without selecting choices."
-    new "台詞を読み進める。ただしボタンは選択しない。"
+    new "選択肢なく、会話を進める。"
 
     # screens.rpy:1011
     old "Arrow Keys"
