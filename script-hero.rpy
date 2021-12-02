@@ -814,525 +814,525 @@ translate jp loyalhero_602663a6:
 translate jp loyalhero_7952434e:
 
     # o "\"WHY DID YOU DO THAT?!\""
-    o ""
+    o "\"なぜそんなことをする?!\""
 
 # game/script-hero.rpy:344
 translate jp loyalhero_70ba55ff:
 
     # h "you're not sure if the question is directed at you."
-    h ""
+    h "その質問が自分に向けるものか少女に向けるどうか、わからない。"
 
 # game/script-hero.rpy:345
 translate jp loyalhero_2bade013:
 
     # h loyal6 "the overlord strikes at you in a vengeful rage. you parry, and she is slain."
-    h loyal6 ""
+    h loyal6 "復讐に燃える魔王が、あなたに襲いかかります。 あなたは彼女の攻撃を避け、そして彼女を殺される。"
 
 # game/script-hero.rpy:346
 translate jp loyalhero_50c1121d:
 
     # h loyal7 "your sword feels heavy."
-    h loyal7 ""
+    h loyal7 "あなたの剣は重い。"
 
 # game/script-hero.rpy:347
 translate jp loyalhero_5076e177:
 
     # h loyal8 "you look at your hands, your clothes."
-    h loyal8 ""
+    h loyal8 "あなたは自分の手を見て、服を見て。"
 
 # game/script-hero.rpy:348
 translate jp loyalhero_7e6a512d:
 
     # h "blood.{w} so much blood."
-    h ""
+    h "血.{w}まみれだ。"
 
 # game/script-hero.rpy:349
 translate jp loyalhero_03806b08:
 
     # h loyal9 "you look to the fallen maiden, wondering what to tell the townspeople."
-    h loyal9 ""
+    h loyal9 "あなたは気絶した少女をみって、村人たちにどう説明すればいいのかが分からない。"
 
 # game/script-hero.rpy:350
 translate jp loyalhero_bb9ee0bd:
 
     # h "why would she protect the overlord? she must have been brainwashed by demonic magic...."
-    h ""
+    h "なぜ彼女は魔王を守るのだろうか？彼女はきっと悪魔のマジックに洗脳されているに違いない。。。"
 
 # game/script-hero.rpy:351
 translate jp loyalhero_fc2d1bf0:
 
     # h loyal10 "you pick up the overlord's head, wrapping it in your cape..."
-    h loyal10 ""
+    h loyal10 "あなたは魔王の頭を拾い、マントに包んで。。。"
 
 # game/script-hero.rpy:356
 translate jp loyalhero_a7391ae0:
 
     # h "...and begin your long journey back to town." id loyalhero_a7391ae0
-    h "" id loyalhero_a7391ae0
+    h "そして、村への長い旅が始まる。" id loyalhero_a7391ae0
 
 # game/script-hero.rpy:357
 translate jp loyalhero_2b3a8bf6:
 
     # h "you will say that you were too late. that nothing could be done for the girl... but the overlord is slain."
-    h ""
+    h "あなたは多分少女のとこには何もできなかったと言うだろう。でもせめて魔王は自分に殺されたのだ"
 
 # game/script-hero.rpy:359
 translate jp loyalhero_ccbefd71:
 
     # h "there will be celebration."
-    h ""
+    h "これはきっとお祝いがるでしょう。"
 
 # game/script-hero.rpy:367
 translate jp loyalhero_f73556be:
 
     # "LOYAL HERO END"
-    ""
+    "勇者エンド：ローヤル"
 
 # game/script-hero.rpy:371
 translate jp heropart4_562846c9:
 
     # h chance "this is your chance, hero!"
-    h chance ""
+    h chance "機会だ、勇者。"
 
 # game/script-hero.rpy:381
 translate jp heropart4_64931473:
 
     # h sorry "you hope she'll let this whole thing slide if you could just explain yourself. you really try, but the overlord is inconsolable."
-    h sorry ""
+    h sorry "あなたは、自分が明確に説明できれば、彼女がこの問題を追求しないことを望んでいます。 あなたは本当にベストを尽くしたが、残念ながら魔王は心の底から嘆いていた。"
 
 # game/script-hero.rpy:382
 translate jp heropart4_ec010f08:
 
     # h possessive4 "she tears you apart, and the maiden watches in silence."
-    h possessive4 ""
+    h possessive4 "少女が黙って見守る中、魔王はあなたを引き裂く。"
 
 # game/script-hero.rpy:384
 translate jp heropart4_e69a1a0e:
 
     # h "as you die, you can't help but think you probably deserved this."
-    h ""
+    h "亡くなるときに、「これは自業自得だな」と思わずにはいられません。"
 
 # game/script-hero.rpy:395
 translate jp heropart4_319bd25a:
 
     # "TRAGIC HERO END"
-    ""
+    "勇者エンド：悲劇"
 
 # game/script-hero.rpy:400
 translate jp heropart5_27db00e8:
 
     # h entrance7 "the maiden explains that she was never actually captured, and that she came here on her own volition."
-    h entrance7 ""
+    h entrance7 "少女は、実際には捕まったことはなく、自分の意志でここに来たと説明します。"
 
 # game/script-hero.rpy:401
 translate jp heropart5_5e83d4f9:
 
     # h entrance8 "that was a pretty dangerous thing of her to do! but no one got hurt, so at least there's that."
-    h entrance8 ""
+    h entrance8 "このようなことをするのはとっても危険でのことだが、誰も怪我をしなかったので、少なくともそれは良いことです。"
 
 # game/script-hero.rpy:402
 translate jp heropart5_708c71bc:
 
     # h entrance9 "you ask her to return to town with you, to reassure everyone of her safety."
-    h entrance9 ""
+    h entrance9 "あなたは、彼女の安全を確保するために、彼女に一緒に街に戻ってもらう。"
 
 # game/script-hero.rpy:406
 translate jp heropart5_9686dc1e:
 
     # h possessive1 "...but the overlord objects to this. the maiden tries to tell her that she'll come right back, but the overlord refuses to hear it."
-    h possessive1 ""
+    h possessive1 "少女は「すぐに戻ってくる」と伝えようとしますが、魔王はそれを聞き入れません。"
 
 # game/script-hero.rpy:407
 translate jp heropart5_62c7d54a:
 
     # h possessive2 "the maiden seems nervous. as a hero, it's your job to mediate situations like these."
-    h possessive2 ""
+    h possessive2 "少女さんが緊張しているようですが、このような状況を解決するのが勇者としての仕事です。"
 
 # game/script-hero.rpy:408
 translate jp heropart5_3fd4b8a8:
 
     # h "you tell the overlord that if she doesn't let the two of you go, you'll have to assume she's evil. you'll be forced to vanquish her."
-    h ""
+    h "あなたは魔王に、もし彼女があなたたち2人を解放しなければ、彼女は悪人だと思わなければならないと言います。"
 
 # game/script-hero.rpy:410
 translate jp heropart5_cb1d30c8:
 
     # o "\"...you leave me no choice.\""
-    o ""
+    o "\"私は選択の余地がない。\""
 
 # game/script-hero.rpy:411
 translate jp heropart5_3b236763:
 
     # h possessive4 "the overlord pauses before suddenly jumping you. you are helpless as she disembowels you with her claws."
-    h possessive4 ""
+    h possessive4 "魔王は一旦停止した後、突然あなたに飛びかかってきます。あなたは無力で、彼女はその鋭い爪であなたの内臓を掘り出すことには何もできなかった。"
 
 # game/script-hero.rpy:412
 translate jp heropart5_9e9f21c7:
 
     # h "how horrible. you came all this way, only to be met with this cruel fate..."
-    h ""
+    h "酷いのね、せっかく来たのに、このような残酷な運命を辿るとは。。。"
 
 # game/script-hero.rpy:413
 translate jp heropart5_1985e72f:
 
     # h "you should've destroyed these evil creatures while you had the chance."
-    h ""
+    h "あなたはチャンスがあるうちに、この邪悪な生き物を滅ぼすべきでした。"
 
 # game/script-hero.rpy:415
 translate jp heropart5_3e473d8d:
 
     # h "your dying wish is for the maiden to somehow make it out of this alive..."
-    h ""
+    h "あなたの死に際の願いは、少女がなんとか生き延びること。。。"
 
 # game/script-hero.rpy:426
 translate jp heropart5_ee35fa91:
 
     # "NAIVE HERO END"
-    ""
+    "勇者エンド：甘い"
 
 # game/script-hero.rpy:429
 translate jp heropart5_dcef7f34:
 
     # h leave "the overlord allows the two of you to leave, and you casually exit the castle."
-    h leave ""
+    h leave "魔王は二人の離れることを許可したので、あなた達はさりげなく城を出る。"
 
 # game/script-hero.rpy:432
 translate jp heropart5_bad55807:
 
     # h disloyal "you pause when you see a group of suspicious demons standing near the entrance."
-    h disloyal ""
+    h disloyal "入り口付近に怪しげな悪魔たちが立っているのを見て、あなたたちは思わず立ち止まる。"
 
 # game/script-hero.rpy:435
 translate jp heropart5_8a7ec6f9:
 
     # h leave2 "you try to make conversation with the maiden, but she's been pretty quiet since leaving the overlord's room. is she shy?"
-    h leave2 ""
+    h leave2 "あなたは少女と会話をしようとするが、魔王の部屋を出てから彼女はかなり無口になっている。"
 
 # game/script-hero.rpy:438
 translate jp heropart5_c23c6bb7:
 
     # h leave3 "she suddenly stops in her tracks and you turn your head to ask what the deal is."
-    h leave3 ""
+    h leave3 "彼女が急に足を止めたので、あなたはどうしたのかと尋ねようとしました。"
 
 # game/script-hero.rpy:439
 translate jp heropart5_256ed24d:
 
     # h leave4 "oh. the overlord's castle is engulfed in flames."
-    h leave4 ""
+    h leave4 "ああ、魔王の城が炎に包まれている。"
 
 # game/script-hero.rpy:440
 translate jp heropart5_10ea1ffb:
 
     # h leave5 "you can't help but feel relieved you got the maiden out of there when you did. but..."
-    h leave5 ""
+    h leave5 "あなたは少女を脱出させることができてよかったと思わずにはいられませんが。しかし。。。"
 
 # game/script-hero.rpy:442
 translate jp bystanderleadin_6d0ba5f8:
 
     # h leave6 "she suddenly takes off toward the burning castle! panic sets in, and you follow to try to stop her."
-    h leave6 ""
+    h leave6 "彼女は突然、燃え盛る城に向かって走り出した！ あなたはパニックになり、彼女を止めようと後を追った。"
 
 # game/script-hero.rpy:443
 translate jp bystanderleadin_1a09cde9:
 
     # h leave7 "the smoke is so thick... you've already lost sight of her."
-    h leave7 ""
+    h leave7 "煙が濃くて。。。あなたはすでに彼女を見失っています。"
 
 # game/script-hero.rpy:444
 translate jp bystanderleadin_0ca2024b:
 
     # h leave8 "what is she thinking? it's too dangerous to continue. you feel hopeless."
-    h leave8 ""
+    h leave8 "彼女は何を考えているのだろう。このままでは危険だ。あなたは無力を感じています。"
 
 # game/script-hero.rpy:445
 translate jp bystanderleadin_49cdfef4:
 
     # h leave9 "you stand alone at the castle gates. your body won't allow you to take another step forward."
-    h leave9 ""
+    h leave9 "あなたはで城門に立っているが、体が一歩も前に進めさせなくなってしまう。"
 
 # game/script-hero.rpy:453
 translate jp heropart6_9bdd7b27:
 
     # h climax "they're talking about assassinating their overlord! this proves to you that demons really are foul creatures."
-    h climax ""
+    h climax "彼らは魔王を暗殺しようとしている！これで悪魔は本当に汚い生き物だと証明されましたね。"
 
 # game/script-hero.rpy:455
 translate jp heropart6_bee2480c:
 
     # m "\"we have to tell her about this!\""
-    m ""
+    m "\"このことを彼女に伝えなければなりません。\""
 
 # game/script-hero.rpy:456
 translate jp heropart6_42b05099:
 
     # h climax3 "you don't understand what the maiden is thinking."
-    h climax3 ""
+    h climax3 "あなたは、少女の考えていることがわからない。"
 
 # game/script-hero.rpy:457
 translate jp heropart6_c440f45b:
 
     # h "the world is better off with less demons. they're all cold, ruthless creatures that should be destroyed!"
-    h ""
+    h "悪魔がいない方が世界のためになる。悪魔のみんなも冷たくて冷酷な生き物だから、滅ぼすべきだ！"
 
 # game/script-hero.rpy:458
 translate jp heropart6_02b65633:
 
     # h climax4 "and those same creatures have just noticed you eavesdropping. the maiden takes off into the castle, and you have no choice but to follow."
-    h climax4 ""
+    h climax4 "そして一つの悪魔はあなたの盗み聞きに気付いた。少女は城の中に飛び出し、あなたは後を追うしかありません。"
 
 # game/script-hero.rpy:460
 translate jp heropart6_e34cfa0a:
 
     # h climax5 "you burst into the overlord's room. the maiden frantically tries to communicate what you'd just overheard."
-    h climax5 ""
+    h climax5 "あなたは魔王の部屋に飛び込んだ。少女は必死にあなたが今聞いたことを伝えようとする。"
 
 # game/script-hero.rpy:461
 translate jp heropart6_20a8f962:
 
     # h climax6 "a demon underling barges in next, calling you liars."
-    h climax6 ""
+    h climax6 "続いて、悪魔の部下が「彼らは嘘をついている」と言って押しかけてきます。"
 
 # game/script-hero.rpy:462
 translate jp heropart6_3af23d0e:
 
     # h climax7 "it's followed by the group from the entrance, who shifts the blame back onto the little one."
-    h climax7 ""
+    h climax7 "それに続いて、入り口から来たグループが、一番に入った小さな子悪魔に責任を転嫁します。"
 
 # game/script-hero.rpy:463
 translate jp heropart6_5da6ebc5:
 
     # h climax8 "these demons only care about themselves! how low can they be?"
-    h climax8 ""
+    h climax8 "この悪魔たちは自分のことしか考えていない！どこまで自己中心なんだ？"
 
 # game/script-hero.rpy:464
 translate jp heropart6_3aadf72a:
 
     # h climax9 "you begin shouting at them, and the whole room dissolves into noise until the overlord yells for everyone to shut their traps."
-    h climax9 ""
+    h climax9 "あなたは彼らに叫ぶ、部屋全体がノイズに包まれ、魔王が「黙れ」と叫ぶ。"
 
 # game/script-hero.rpy:465
 translate jp heropart6_7cf62535:
 
     # h climax10 "she threatens them with violence. this overlord is no better than her subjects."
-    h climax10 ""
+    h climax10 "暴力で彼らを脅す。この魔王は、彼女の部下と変わらない。"
 
 # game/script-hero.rpy:466
 translate jp heropart6_fb7cc328:
 
     # h climax11 "you grip your sword tightly. if you have to cut through everyone here to get this maiden to safety, you certainly will."
-    h climax11 ""
+    h climax11 "あなたは剣を強く握る。たとえみんな殺さなければならないとしても、ここから脱出して少女を安全のところに連れてくる義務があります。"
 
 # game/script-hero.rpy:467
 translate jp heropart6_0496a57d:
 
     # h climax12 "the group of demons hiss to each other before shutting the door, leaving the runt of the litter behind."
-    h climax12 ""
+    h climax12 "悪魔たちは言葉を交わした後、部屋の扉を閉め、最初の小悪魔だけ部屋に残った。"
 
 # game/script-hero.rpy:468
 translate jp heropart6_eac42afe:
 
     # h climax13 "you glance around for another exit, but there isn't one. you have a terrible feeling about this."
-    h climax13 ""
+    h climax13 "周りを見渡しても出口はない。あなたはこの状況に嫌な予感がする。"
 
 # game/script-hero.rpy:469
 translate jp heropart6_5262ff37:
 
     # h climax14 "in an instant, the whole room is in flames. what kind of demonic magic is this?!"
-    h climax14 ""
+    h climax14 "一瞬にして部屋中が炎に包まれる。これは一体どんな悪魔の魔法なんだ！？"
 
 # game/script-hero.rpy:470
 translate jp heropart6_3a3c64c0:
 
     # h climax15 "the underling pounds on the door, upset that it's been betrayed."
-    h climax15 ""
+    h climax15 "裏切られたことに怒った小悪魔がドアを叩く。"
 
 # game/script-hero.rpy:471
 translate jp heropart6_60e28bf2:
 
     # h climax16 "you join it, vowing to slay the cowardly demons on the other side."
-    h climax16 ""
+    h climax16 "あなたはそれに参加して、必ず対側の臆病な悪魔たちを倒すことを誓います。"
 
 # game/script-hero.rpy:472
 translate jp heropart6_8ecb66d9:
 
     # h climax17 "the next moment, the overlord has taken hold of the underling. it's crying for mercy."
-    h climax17 ""
+    h climax17 "次の瞬間、魔王が小悪魔を掴んでいて、小悪魔は慈悲を求めて泣いている。"
 
 # game/script-hero.rpy:474
 translate jp heropart6_dad0f2dd:
 
     # h "is she going to kill it as retribution? it continues to cry and make excuses, but the overlord does nothing."
-    h ""
+    h "彼女は報復のためにそれを殺すつもりなのだろうか？ 小悪魔は泣いて言い訳を続けるが、魔王は何もしない。"
 
 # game/script-hero.rpy:475
 translate jp heropart6_2d7a3aec:
 
     # h merciful "to your surprise, she lets it go."
-    h merciful ""
+    h merciful "驚いたことに、彼女はそれを手放した。"
 
 # game/script-hero.rpy:476
 translate jp heropart6_c6340176:
 
     # h "are demons... capable of mercy? you guess it doesn't matter now."
-    h ""
+    h "悪魔には慈悲の心があるのか？今となってはどうでもいいですけど。"
 
 # game/script-hero.rpy:477
 translate jp heropart6_efb038d5:
 
     # h merciful2 "you'll all burn together."
-    h merciful2 ""
+    h merciful2 "あなたたちは一緒に焼かれ死にました。"
 
 # game/script-hero.rpy:488
 translate jp heropart6_418a1beb:
 
     # "HERO'S TRUE END"
-    ""
+    "勇者：トゥルーエンド"
 
 # game/script-hero.rpy:493
 translate jp heropart6_56704d25:
 
     # h retribution "she thrusts her claws into her underling's chest and it lets out a horrible scream."
-    h retribution ""
+    h retribution "魔王が鋭い爪を小悪魔の胸に突き刺さると、小悪魔はとても恐ろしい悲鳴を上げた。"
 
 # game/script-hero.rpy:494
 translate jp heropart6_06cc8c7b:
 
     # h retribution2 "you back away. you won't be the next target of her rage."
-    h retribution2 ""
+    h retribution2 "あなたが離れ、彼女の怒りの次の標的にはならないようにする。"
 
 # game/script-hero.rpy:495
 translate jp heropart6_313b2f01:
 
     # h retribution3 "she continues to dig and twist her claws into its limp body. you can no longer watch."
-    h retribution3 ""
+    h retribution3 "彼女は爪を使って、ぐにゃぐにゃになった死骸を掘ったり引っ張ったりし続けている。あなたはこれ以上見るに耐えられない。"
 
 # game/script-hero.rpy:496
 translate jp heropart6_fc3a720d:
 
     # h retribution4 "you look to the maiden. she's crying, hands clasped together in prayer. to have faith in a time like this... you envy her."
-    h retribution4 ""
+    h retribution4 "彼女は泣いていて、手を合わせて祈っています。こんな時にも信念を持っているなんて。。。あなたは彼女が羨ましいです。"
 
 # game/script-hero.rpy:497
 translate jp heropart6_f0cad747:
 
     # h retribution5 "the two of you, the overlord, and the underling's corpse are all consumed by flames."
-    h retribution5 ""
+    h retribution5 "あなたと少女二人と魔王も、小悪魔の死体も、すべて炎に包まれてしまいます。"
 
 # game/script-hero.rpy:510
 translate jp heropart6_7897a202:
 
     # "RESIGNED HERO END"
-    ""
+    "勇者エンド：辞職"
 
 # game/script-hero.rpy:514
 translate jp bystanderhero_7e7c8e4c:
 
     # h bystander7 "no... going in there would be suicide."
-    h bystander7 ""
+    h bystander7 "いや。。。あそこに入るのは自殺行為だ。"
 
 # game/script-hero.rpy:515
 translate jp bystanderhero_2a43a588:
 
     # h "you'll return to the villagers, and tell them there was nothing you could do."
-    h ""
+    h "あなたは村に戻り、村人たちに「何もできない」と言います。"
 
 # game/script-hero.rpy:517
 translate jp bystanderhero_2bf8cf69:
 
     # h "you were too late. the maiden was claimed by the demons."
-    h ""
+    h "すべても遅すぎました。少女はすでに悪魔ものだ。"
 
 # game/script-hero.rpy:529
 translate jp bystanderhero_bfff357a:
 
     # "BYSTANDER HERO END A"
-    ""
+    "勇者エンド：傍観者Aルート"
 
 # game/script-hero.rpy:531
 translate jp bystanderhero_3fc69954:
 
     # "BYSTANDER HERO END B"
-    ""
+    "勇者エンド：傍観者Bルート"
 
 # game/script-hero.rpy:536
 translate jp unluckyhero_96f03138:
 
     # o "\"WHAT THE FUCK ARE YOU DOING KILLING ALL MY SOLDIERS?!\""
-    o ""
+    o "\"どうして私の兵士を殺してのは何のためだ！？\""
 
 # game/script-hero.rpy:537
 translate jp unluckyhero_aab25369:
 
     # h failed2 "the overlord is angry. you vow to exterminate her, and all of demonkind."
-    h failed2 ""
+    h failed2 "あなたは、魔王とすべての悪魔を滅ぼすことを誓います。"
 
 # game/script-hero.rpy:538
 translate jp unluckyhero_58116317:
 
     # h failed5 "you clash again and again, but the overlord isn't going down easily."
-    h failed5 ""
+    h failed5 "あなたは魔王と何度も何度も戦いますが、魔王はそう簡単には倒れません。"
 
 # game/script-hero.rpy:539
 translate jp unluckyhero_1b82ddbb:
 
     # h unlucky "you're both dangerously low on health, when..."
-    h unlucky ""
+    h unlucky "二人とも体力の限界に達しているときに。。。"
 
 # game/script-hero.rpy:542
 translate jp unluckyhero_d9fb2eff:
 
     # h "everything goes black. your quest has come to an abrupt end."
-    h ""
+    h "目の前が真っ暗になる。 あなたのミッションは急停止した。"
 
 # game/script-hero.rpy:551
 translate jp unluckyhero_fa8d4b28:
 
     # "UNLUCKY HERO END"
-    ""
+    "勇者エンド：不運"
 
 translate jp strings:
 
     # game/script-hero.rpy:4
     old "you are the hero"
-    new ""
+    new "あなたは勇者。"
 
     # game/script-hero.rpy:35
     old "BRAVELY SLAUGHTER THE EVIL CREATURES"
-    new ""
+    new "勇敢的に邪悪な悪魔たちを倒す"
 
     # game/script-hero.rpy:35
     old "FLEE LIKE A COWARD"
-    new ""
+    new "臆病者のように逃げる"
 
     # game/script-hero.rpy:69
     old "BELIEVE HER STORY"
-    new ""
+    new "彼女の話を信じる"
 
     # game/script-hero.rpy:69
     old "SHE CAN'T BE TRUSTED"
-    new ""
+    new "彼女は信用できません"
 
     # game/script-hero.rpy:183
     old "CUT THROUGH THE DEMON ARMY"
-    new ""
+    new "悪魔の軍隊を殺す"
 
     # game/script-hero.rpy:183
     old "ASK IF THEY'LL LET YOU IN"
-    new ""
+    new "入れてくれるかどうか聞いてみる"
 
     # game/script-hero.rpy:286
     old "DESTROY THE OVERLORD"
-    new ""
+    new "悪魔を殺す"
 
     # game/script-hero.rpy:286
     old "ASK THE MAIDEN WHAT'S GOING ON"
-    new ""
+    new "少女に何が起こっているのかを聞く"
 
     # game/script-hero.rpy:373
     old "STAB THE OVERLORD WHILE YOU CAN"
-    new ""
+    new "チャンスがある今のうちに魔王を刺し倒しておこう"
 
     # game/script-hero.rpy:373
     old "THIS IS ALL JUST A BIG MISUNDERSTANDING"
-    new ""
+    new "これはただの大きな誤解だ"
 
