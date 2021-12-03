@@ -104,7 +104,7 @@ translate jp strings:
 
     # game/myscreens.rpy:161
     old "dutiful"
-    new "義務を果たす"
+    new "恪尽职守"
 
     # game/myscreens.rpy:163
     old "slaughters all the demons"
@@ -144,7 +144,7 @@ translate jp strings:
 
     # game/myscreens.rpy:187
     old "doesn't scream at the sight of the underling"
-    new "悪魔の前では叫ばない"
+    new "小悪魔の前では叫ばない"
 
     # game/myscreens.rpy:189
     old "obedient"
@@ -180,7 +180,7 @@ translate jp strings:
 
     # game/myscreens.rpy:212
     old "disloyal"
-    new "不誠実"
+    new "不信義"
 
     # game/myscreens.rpy:214
     old "gets involved in the plot to kill the overlord"
@@ -232,7 +232,7 @@ translate jp strings:
 
     # game/myscreens.rpy:245
     old "lets her underling live in the end"
-    new "魔王の部下を最後に生きさせます"
+    new "魔王の部下を最後までに生きさせます"
 
     # game/myscreens.rpy:273
     old "the human doll"
@@ -248,7 +248,7 @@ translate jp strings:
 
     # game/myscreens.rpy:291
     old "LET'S PLAY FROM ANOTHER PERSPECTIVE! WHAT WILL HAPPEN NEXT...?"
-    new "視点を変えて遊んでみよう次は何が起こるんだろう。。。？"
+    new "視点を変えて遊んでみよう、次は何が起こるんだろう。。。？"
 
     # game/myscreens.rpy:298
     old "^ set the doll's behaviors before the story begins"
@@ -264,7 +264,7 @@ translate jp strings:
 
     # game/myscreens.rpy:314
     old "the human doll will attack"
-    new "人間のドールは攻める"
+    new "人間のドールは攻撃してくる"
 
     # game/myscreens.rpy:318
     old "DEMON DOLL"
@@ -276,7 +276,7 @@ translate jp strings:
 
     # game/myscreens.rpy:321
     old "the demon doll will attack"
-    new "悪魔のドールは攻める"
+    new "悪魔のドールは攻撃してくる"
 
     # game/myscreens.rpy:337
     old "SKIP CREDITS?"
@@ -396,7 +396,7 @@ translate jp strings:
 
     # game/myscreens.rpy:734
     old "select a character to display their timeline"
-    new "キャラクターを選択すると、そのキャラクターのタイムラインが表示します。"
+    new "キャラクターを選択すると、そのキャラクターのタイムラインが表示できします。"
 
     # game/myscreens.rpy:741
     old "DON'T GIVE UP! SURELY THERE'S A GOOD ENDING SOMEWHERE!"
@@ -404,11 +404,11 @@ translate jp strings:
 
     # game/myscreens.rpy:743
     old "TRY TO REACH THE TRUE ENDINGS!"
-    new "トゥルーエンドに到達してみてください！"
+    new "トゥルーエンドに到達つために試してください！"
 
     # game/myscreens.rpy:747
     old "WELCOME BACK! ARE YOU PLEASED WITH YOUR PROGRESS SO FAR?"
-    new "お帰り、これまでの経過に満足していますか？"
+    new "お帰り、これまでの経過した物語に満足していますか？"
 
     # game/myscreens.rpy:749
     old "LET'S WATCH MORE AND MORE BAD ENDINGS!"
@@ -416,7 +416,7 @@ translate jp strings:
 
     # game/myscreens.rpy:751
     old "DO YOU HAVE A FAVORITE ENDING? OR IS IT STILL TOO EARLY TO DECIDE?"
-    new "あなたはお気に入りのエンディングがありますか？それとも、まだ決めるには早すぎるでしょうか？"
+    new "あなたはお気に入りのエンディングがありますか？それとも、まだ決めるのは早すぎるでしょうか？"
 
     # game/myscreens.rpy:753
     old "EVERYTHING YOU'VE DONE HAS ONLY HURT THEM MORE..."
@@ -440,7 +440,7 @@ translate jp strings:
 
     # game/myscreens.rpy:830
     old "the hero slays the demons {color=#FFB546}(dutiful){/color}"
-    new "勇者は悪魔を殺した {color=#FFB546}(義務を果たす){/color}"
+    new "勇者は悪魔を殺した {color=#FFB546}(恪尽职守){/color}"
 
     # game/myscreens.rpy:833
     old "the hero flees from the demons"
@@ -452,7 +452,7 @@ translate jp strings:
 
     # game/myscreens.rpy:842
     old "the hero slaughters his way through the castle {color=#FFB546}(dutiful){/color}"
-    new "勇者は城の中で虐殺をしている　{color=#FFB546}(義務を果たす){/color}"
+    new "勇者は城の中で虐殺をしている　{color=#FFB546}(恪尽职守){/color}"
 
     # game/myscreens.rpy:846
     old "the hero is let into the castle without issue {color=#FFB546}(diplomatic){/color}"
@@ -468,7 +468,7 @@ translate jp strings:
 
     # game/myscreens.rpy:864
     old "the hero reaches the overlord's room. everything is fine!"
-    new "勇者は魔王の部屋にたどりついた。何も発生していない！"
+    new "勇者は魔王の部屋にたどり着いた。何も発生していない！"
 
     # game/myscreens.rpy:872
     old "{color=#9187d6}maiden behavior:{/color} obedient (she runs from you)"
@@ -480,15 +480,15 @@ translate jp strings:
 
     # game/myscreens.rpy:881
     old "{color=#C20038}FAILED:{/color} the hero slays the overlord. he never knows what became of the maiden."
-    new "{color=#C20038}失敗:{/color} 勇者は魔王を殺したが。彼は少女の行方を知ることができない。"
+    new "{color=#C20038}失敗:{/color} 勇者は魔王を殺したが。あなたは少女の行方を知ることができない。"
 
     # game/myscreens.rpy:884
     old "the hero apologizes for what he's done"
-    new "勇者が自分のしたことを謝罪する。"
+    new "勇者が自分のしたことを謝る。"
 
     # game/myscreens.rpy:888
     old "{color=#46EBFF}underling behavior:{/color} disloyal"
-    new "{color=#46EBFF}悪魔の行動:{/color} 不誠実"
+    new "{color=#46EBFF}悪魔の行動:{/color} 不信義"
 
     # game/myscreens.rpy:892
     old "{color=#FF4F80}overlord behavior:{/color} possessive"
@@ -496,15 +496,15 @@ translate jp strings:
 
     # game/myscreens.rpy:896
     old "{color=#C20038}USELESS:{/color} the hero's adventure was pointless. he returns home having accomplished nothing."
-    new "{color=#C20038}無用的な:{/color} 勇者の冒険は無意味で、何も成し遂げずに帰ってきた。"
+    new "{color=#C20038}無用的な:{/color} 勇者の冒険は無意味で、あなたは何も成し遂げずに帰ってきた。"
 
     # game/myscreens.rpy:900
     old "{color=#C20038}SPECTATOR:{/color} the hero watches the maiden burn. she must have somehow deserved it."
-    new "{color=#C20038}観客:{/color} 勇者は少女が燃えるのを見ています。それがきっと彼女にとってふさわし結局だ。"
+    new "{color=#C20038}観客:{/color} 勇者は少女が燃えるのを見ています。それはきっと彼女にとってふさわし結局だ。"
 
     # game/myscreens.rpy:904
     old "the hero believes the maiden's story {color=#FFB546}(trusting){/color}"
-    new "勇者は少女の話を信じた。 {color=#FFB546}(疑うことなく信じる){/color}"
+    new "勇者は少女の話を信じた。 {color=#FFB546}(信頼さ){/color}"
 
     # game/myscreens.rpy:909
     old "{color=#C20038}TRAGIC:{/color} the hero is slain by the overlord. he accepts his punishment."
@@ -520,7 +520,7 @@ translate jp strings:
 
     # game/myscreens.rpy:921
     old "{color=#46EBFF}underling behavior:{/color} disloyal, captor"
-    new "{color=#46EBFF}悪魔の行動:{/color} 不誠実, キャプター"
+    new "{color=#46EBFF}悪魔の行動:{/color} 不信義, キャプター"
 
     # game/myscreens.rpy:925
     old "{color=#9187d6}maiden behavior:{/color} resolute"
@@ -536,11 +536,11 @@ translate jp strings:
 
     # game/myscreens.rpy:938
     old "{color=#C20038}BYSTANDER:{/color} the hero does nothing as the demon castle burns down."
-    new "{color=#C20038}傍観者:{/color}　勇者は魔王城が燃え尽きるをみって何もせず。"
+    new "{color=#C20038}傍観者:{/color}　勇者は魔王の城が燃え尽きるを何もせずに見る。"
 
     # game/myscreens.rpy:942
     old "{color=#C20038}UNLUCKY:{/color} the hero is abruptly killed off by the underling after fighting the overlord."
-    new "{color=#C20038}不運:{/color} 勇者は魔王と戦った途中、小悪魔に突然殺されてしまいます。"
+    new "{color=#C20038}不運:{/color} 勇者は魔王と戦った途中、突然小悪魔が殺されてしまいます。"
 
     # game/myscreens.rpy:951
     old "{color=#C20038}LOYAL:{/color} the hero slays the overlord. he could not save the maiden."
@@ -548,7 +548,7 @@ translate jp strings:
 
     # game/myscreens.rpy:956
     old "the maiden overhears the underling's plot to kill the overlord and goes back to warn her"
-    new "少女は、下部たちが魔王を殺そうとしているのを聞いて、彼女に警告するために戻ってくる。"
+    new "少女は、悪魔たちが魔王を殺そうとしているのを聞いて、魔王に警告するために魔王の部屋に戻ってくる。"
 
     # game/myscreens.rpy:961
     old "{color=#FF4F80}overlord behavior:{/color} merciful"
@@ -556,7 +556,7 @@ translate jp strings:
 
     # game/myscreens.rpy:965
     old "{color=#C20038}RESIGNED:{/color} the hero can do nothing as everyone is consumed by flames."
-    new "{color=#C20038}辞職:{/color} 勇者は何もできず、皆が炎に包まれてしまいます。"
+    new "{color=#C20038}辞職:{/color} 勇者は何もできず、皆は炎に包まれてしまいます。"
 
     # game/myscreens.rpy:970
     old "{color=#C20038}TRUE END{/color}"
@@ -564,11 +564,11 @@ translate jp strings:
 
     # game/myscreens.rpy:1019
     old "the maiden begins her story"
-    new "少女は新たなストーリーは始まる"
+    new "少女は自分のストーリーは始まる"
 
     # game/myscreens.rpy:1029
     old "{color=#C20038}CONSUMED:{/color} the maiden is immediately eaten by the underling. she didn't stand a chance."
-    new "{color=#C20038}美食:{/color} 少女はすぐに小悪魔に食われてしまう。彼女に勝ち目はなかった。"
+    new "{color=#C20038}美食:{/color} 小悪魔は少女を速やかに食われてしまう。彼女に勝ち目はなかった。"
 
     # game/myscreens.rpy:1033
     old "the maiden meets the overlord"
@@ -580,7 +580,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1046
     old "the maiden stays with the overlord a while"
-    new "乙女はしばらくの間、オーバーロードと一緒にいる。"
+    new "少女はしばらくの間、魔王と一緒にいる。"
 
     # game/myscreens.rpy:1051
     old "{color=#FFB546}hero behavior:{/color} trusting"
@@ -588,7 +588,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1055
     old "{color=#FFB546}hero behavior:{/color} dutiful"
-    new "{color=#FFB546}勇者の行動:{/color} 義務を果たす"
+    new "{color=#FFB546}勇者の行動:{/color} 恪尽职守"
 
     # game/myscreens.rpy:1063
     old "{color=#FFB546}hero behavior:{/color} diplomatic"
@@ -620,11 +620,11 @@ translate jp strings:
 
     # game/myscreens.rpy:1103
     old "the maiden stops the hero {color=#9187d6}(martyr){/color}"
-    new "少女は勇者を止めた {color=#9187d6}(殉職者){/color}"
+    new "少女は勇者の行動を止めた {color=#9187d6}(殉職者){/color}"
 
     # game/myscreens.rpy:1107
     old "{color=#C20038}COMPLACENT:{/color} the maiden stands by as the hero slays the overlord."
-    new "{color=#C20038}利己：:{/color} 勇者が魔王を倒すのを少女が傍観する。"
+    new "{color=#C20038}利己：:{/color} 少女何もせずに勇者が魔王を倒すのを傍観する。"
 
     # game/myscreens.rpy:1115
     old "{color=#C20038}CAPTURED:{/color} the maiden becomes property of the overlord."
@@ -632,7 +632,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1120
     old "{color=#C20038}SLAUGHTERED:{/color} the maiden is slain by the underling after overhearing their plot."
-    new "{color=#C20038}口封じ:{/color} 少女は、その企みを聞きつけた悪魔たちに殺されてしまう。"
+    new "{color=#C20038}口封じ:{/color} 、悪魔たちは計画を聞きつけた少女を殺された。"
 
     # game/myscreens.rpy:1124
     old "{color=#46EBFF}underling behavior:{/color} captor"
@@ -656,11 +656,11 @@ translate jp strings:
 
     # game/myscreens.rpy:1204
     old "the underling begins their story"
-    new "悪魔は新たなストーリーは始まる"
+    new "悪魔は自分のなストーリーは始まる"
 
     # game/myscreens.rpy:1209
     old "the underling is granted the day off"
-    new "部下に休日を与える"
+    new "小悪魔に休日を与える"
 
     # game/myscreens.rpy:1213
     old "{color=#FF4F80}overlord behavior:{/color} tyrant"
@@ -672,7 +672,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1222
     old "the underling gets involved in a plot to dethrone the overlord {color=#46EBFF}(disloyal){/color}"
-    new "下部が魔王の暗殺企画に巻き込まれる。 {color=#46EBFF}(不誠実){/color}"
+    new "小悪魔は魔王の暗殺企画に巻き込まれる。 {color=#46EBFF}(不信義){/color}"
 
     # game/myscreens.rpy:1226
     old "the underling brings the maiden to the castle"
@@ -680,7 +680,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1230
     old "the underling devours the maiden {color=#46EBFF}(hungry){/color}"
-    new "小悪魔が乙女を食い尽くす {color=#46EBFF}(ハングリー){/color}"
+    new "小悪魔が少女を食い尽くす {color=#46EBFF}(ハングリー){/color}"
 
     # game/myscreens.rpy:1238
     old "the underling returns to the castle"
@@ -688,7 +688,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1242
     old "{color=#C20038}PERFORMER:{/color} the underling performs a brilliant massacre. they are slain by the hero."
-    new "{color=#C20038}役者:{/color} 悪魔はが見事な虐殺を行い後、勇者に殺されてしまう。"
+    new "{color=#C20038}役者:{/color} 悪魔はが見事な虐殺を行い後、勇者に殺されてしまた。"
 
     # game/myscreens.rpy:1255
     old "{color=#C20038}FAITHFUL:{/color} the underling stays loyal to the overlord and pays with their life."
@@ -712,7 +712,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1289
     old "the underling confirms the plan to kill the overlord {color=#46EBFF}(disloyal){/color}"
-    new "小悪魔が、魔王殺す計画を同意した。 {color=#46EBFF}(不誠実){/color}"
+    new "小悪魔が、魔王殺す計画を同意した。 {color=#46EBFF}(不信義){/color}"
 
     # game/myscreens.rpy:1298
     old "the underling imprisons the maiden {color=#46EBFF}(captor){/color}"
@@ -720,7 +720,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1302
     old "the underling doesn't follow through with the plan {color=#46EBFF}(coward){/color}"
-    new "小悪魔は暗殺計画を実行できません {color=#46EBFF}(臆病){/color}"
+    new "小悪魔は暗殺計画を実行できませんでした {color=#46EBFF}(臆病){/color}"
 
     # game/myscreens.rpy:1307
     old "{color=#C20038}TRAITOR:{/color} the underling is killed by the overlord out of retribution."
@@ -736,11 +736,11 @@ translate jp strings:
 
     # game/myscreens.rpy:1371
     old "the overlord begins her story"
-    new "魔王は新たのストーリーを始まる"
+    new "魔王は自分のストーリーを始まる"
 
     # game/myscreens.rpy:1376
     old "the overlord lets the underling have the day off"
-    new "魔王は部下に休日を与えます。"
+    new "魔王は小悪魔に休日を与えます。"
 
     # game/myscreens.rpy:1379
     old "the overlord tells the underling to get back to work {color=#FF4F80}(tyrant){/color}"
@@ -767,8 +767,8 @@ translate jp strings:
     new "魔王は、少女と勇者を解放する"
 
     # game/myscreens.rpy:1428
-    old "魔王が目覚めた"
-    new ""
+    old "the overlord awakens"
+    new "魔王が目覚めた"
 
     # game/myscreens.rpy:1432
     old "{color=#C20038}CONQUERED:{/color} the overlord loses to the hero. she dies lamenting her lack of strength."
@@ -780,7 +780,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1445
     old "{color=#C20038}SELFISH:{/color} the overlord keeps the maiden all to herself."
-    new "{color=#C20038}利己的:{/color} 魔王は少女を所有物になる。"
+    new "{color=#C20038}利己的:{/color} 魔王は少女を自分の所有物になる。"
 
     # game/myscreens.rpy:1453
     old "{color=#46EBFF}underling behavior:{/color} coward"
@@ -820,7 +820,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1692
     old "NOW PLAYING"
-    new "再生中の曲"
+    new "再生中"
 
     # game/myscreens.rpy:1698
     old "UP NEXT"
@@ -1032,7 +1032,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1892
     old "Forever yours,"
-    new "好きです"
+    new "あなたのことをずっと愛しています、"
 
     # game/myscreens.rpy:1893
     old "TRAGEDY"
