@@ -4,7 +4,7 @@
 translate jp maidenstart_1659c965:
 
     # m "you are a maiden.{w=.2} you live in a peaceful village next to a spooky demon overlord's castle."
-    m "あなたは少女です。{w=.2}不気味な悪魔の大王城の隣にある平和な村に住んでいます。"
+    m "あなたは少女です。{w=.2}あなたは不気味な悪魔の大王城の隣にある平和な村に住んでいます。"
 
 # game/script-maiden.rpy:28
 translate jp maidenstart_a3a617f0:
@@ -82,13 +82,13 @@ translate jp consumedmaiden_671800e5:
 translate jp consumedmaiden_25b4d962:
 
     # m "you aren't angry or anything. of course, this was all your fault for trusting a demon not to devour you on sight."
-    m "もちろん、これはすべて、自分を見ただけで食べられないと悪魔を信じたあなたの責任です。"
+    m "もちろん、これはすべて、自分は見ただけで悪魔は自分を食べられないと信じたあなたの責任です。"
 
 # game/script-maiden.rpy:55
 translate jp consumedmaiden_3451abd1:
 
     # m "this is your punishment for questioning fate, you guess."
-    m "これは、運命に疑問を持ったあなたへの罰だと思いますよ。"
+    m "あなたはこれは、運命に疑問を持ったあなたへの罰だと思いますよ。"
 
 # game/script-maiden.rpy:57
 translate jp consumedmaiden_0d30be4f:
@@ -106,7 +106,7 @@ translate jp consumedmaiden_c38d4c76:
 translate jp maidenpart2_51db9fe7:
 
     # m polite "you tell the demon your name and explain that you're a maiden from the village."
-    m polite "あなたは悪魔に自分の名前を告げ、村からの娘であることを説明します。"
+    m polite "あなたは悪魔に自分の名前を告げ、村からの乙女であることを説明します。"
 
 # game/script-maiden.rpy:75
 translate jp maidenpart2_612bdaf2:
@@ -130,13 +130,13 @@ translate jp maidenpart2_39829da7:
 translate jp maidenpart2_b8db2a5a:
 
     # m polite4 "after a long walk to the castle, you are introduced to the overlord!"
-    m polite4 "お城までの長い道のりの後、魔王に紹介されます。"
+    m polite4 "お城までの長い道のりの後、あなたは魔王に紹介された。"
 
 # game/script-maiden.rpy:82
 translate jp maidenpart2_f4bcee54:
 
     # m slavedriver "she lectures the underling that brought you here, who was apparently told not to leave their post."
-    m slavedriver "あなたを連れてきた下部を説教する彼女は、自分の持ち場を離れてはいけないと言われているらしい。"
+    m slavedriver "あなたを連れてきた下部を説教する彼女は、自分の留守番を離れてはいけないと言われているらしい。"
 
 # game/script-maiden.rpy:83
 translate jp maidenpart2_fcf5aa56:
@@ -190,7 +190,7 @@ translate jp maidenpart2_ad3d9b8a:
 translate jp maidenpart2_4dedc7ef:
 
     # o "\"just go home and stop worrying about destiny so much.\""
-    o "\"運命を気にするのはやめて、家に帰ろう。\""
+    o "\"運命を気にするのをやめて、家に帰ろう。\""
 
 # game/script-maiden.rpy:92
 translate jp maidenpart2_69f43657:
@@ -262,13 +262,13 @@ translate jp maidenandoverlord_d1ea7f82:
 translate jp maidenandoverlord_ee70542b:
 
     # m chat4 "she says you can thank her by telling the humans to stop raising heroes. she's tired of her servants getting killed off by them."
-    m chat4 "魔王は感謝するなら、人間に勇者を育てるのをやめると伝えくれ。彼女は自分の下部が勇者たちに殺されることにはもううんざりしているのです。"
+    m chat4 "魔王は感謝するなら、人間に勇者を育てるのをやめると伝えくれ。彼女は自分の仲間が勇者たちに殺されることにはもううんざりしているのです。"
 
 # game/script-maiden.rpy:118
 translate jp maidenandoverlord_ad0e87d8:
 
     # m chat5 "you've always thought demons were violent and unreasonable creatures, but... it seems the overlord could say the same of humans."
-    m chat5 "あなたは、悪魔は暴力的で理不尽な生き物だと思っていましたが、。。。悪魔も人間にも同じことを言えるようですね。"
+    m chat5 "あなたは、悪魔は暴力的で理不尽な生き物だと思っていましたが、。。。悪魔も人間も同じことを言っているようですね。"
 
 # game/script-maiden.rpy:119
 translate jp maidenandoverlord_7def6ba2:
@@ -286,13 +286,13 @@ translate jp maidenandoverlord_707ae705:
 translate jp maidenandoverlord_e297cd59:
 
     # m chat7 "even if she were to capture you now, you think this place is far more interesting than the way things are back home."
-    m chat7 "今、彼女に捕まったとしても、ここは村よりもずっと面白いと思っています。"
+    m chat7 "今、彼女に捕まったとしても、ここは村居るよりもずっと面白いと思っています。"
 
 # game/script-maiden.rpy:123
 translate jp maidenandoverlord_e631ed40:
 
     # m "you kind of like not being told to expect demons to come after you all the time. you feel... free."
-    m "悪魔に狙われないようにと言われなくて済むし、あなたは自由になれる。"
+    m "悪魔に狙われないようにと言われなくて済むし、あなたは自由を感じる。"
 
 # game/script-maiden.rpy:124
 translate jp maidenandoverlord_50327e64:
@@ -310,7 +310,7 @@ translate jp maidenandoverlord_e868d9ea:
 translate jp maidenandoverlord_c917422d:
 
     # m genocide2 "his clothes are stained by a dark liquid. it's dripping from his weapon, too..."
-    m genocide2 "彼の服は暗い液体で汚れています。彼の武器からも滴り落ちています。。。"
+    m genocide2 "彼の服は暗い液体で汚れています。彼の武器も。。。"
 
 # game/script-maiden.rpy:133
 translate jp maidenandoverlord_0e74c8c0:
@@ -370,7 +370,7 @@ translate jp maidenandhero_f9c5afe5:
 translate jp maidenandhero_f272f007:
 
     # m distrust2 "you are very upset that this so-called hero would treat you this way, and leave in a huff."
-    m distrust2 "あなたは、この勇者と呼ばれる人があなたにこのような扱いをしたことに非常に腹を立てて、怒って帰ってしまうのです。"
+    m distrust2 "あなたは、この勇者と呼ばれる人があなたにこのような扱いをしたことを非常に腹を立てて、怒って帰ってしまうのです。"
 
 # game/script-maiden.rpy:165
 translate jp maidenandhero_43ec573e:
@@ -388,7 +388,7 @@ translate jp maidenandhero_4b423bf6:
 translate jp maidenandhero_93fe4329:
 
     # m return1 "they had all been so worried and are very glad that the hero brought you back!"
-    m return1 "みんなとても心配していたので、勇者があなたを連れてきてくれてとても嬉しいです。"
+    m return1 "みんなとても心配していたので、勇者があなたを連れてきてくれてことをとても嬉しいですそです。"
 
 # game/script-maiden.rpy:168
 translate jp maidenandhero_fc7fac0b:
@@ -430,13 +430,13 @@ translate jp maidenandhero_847a1a91:
 translate jp maidenandhero_9a15995d:
 
     # m return7 "the crowd breaks into hushed whispers. you hear words like \"trickery\" and \"demon sympathizer\" being thrown around, which makes you frown."
-    m return7 "村人たちが突然ささやいた。あなたは「魔王支持者」とか「悪魔の仕掛け」とか聞こえてきます。"
+    m return7 "村人たちが突然ささやいた。あなたは「魔王支持者」とか「悪魔の仕掛け人」とか聞こえてきます。"
 
 # game/script-maiden.rpy:177
 translate jp maidenandhero_bde52179:
 
     # m return8 "you're pretty shocked that everyone's this hesitant to believe you."
-    m return8 "みんなが自分が言ったことを信じないことを、かなりショックを受けているようです。"
+    m return8 "あなたは村人が自分が言ったことを信じないことを、かなりショックを受けているようです。"
 
 # game/script-maiden.rpy:178
 translate jp maidenandhero_d80354d7:
@@ -472,7 +472,7 @@ translate jp maidenandhero_5810c696:
 translate jp maidenandhero_4b30116d:
 
     # m return10a "the hero isn't saying anything... you'll be tied up and tossed into a cell at this rate!"
-    m return10a "勇者は何も言っていない。。。このままでは縛られて独房に放り込まれてしまうぞ!"
+    m return10a "勇者は何も言っていない。。。このままではあなたは縛られて独房に放り込まれてしまうぞ!"
 
 # game/script-maiden.rpy:184
 translate jp maidenandhero_f7d97395:
@@ -520,7 +520,7 @@ translate jp maidenandhero_da499ced:
 translate jp maidenandunderling_d8a7cec5:
 
     # m disloyal "a suspicious group of demons stands just outside the entrance."
-    m disloyal "入り口のすぐそばには、悪魔の集団が立っています。"
+    m disloyal "入り口のすぐそばには、悪魔達が立っています。"
 
 # game/script-maiden.rpy:205
 translate jp maidenandunderling_99b477e2:
@@ -544,19 +544,19 @@ translate jp maidenandunderling_0be42e9b:
 translate jp maidenandunderling_8266b1cd:
 
     # m "you can't believe you escaped possibly being thrown in a cell back in your village, only to be tossed in this awful place!"
-    m "村の牢屋に入れられそうになったのを逃れて、こんなひどいところに放り込まれたなんて、信じられない。"
+    m "せっかく村の牢屋の災難から逃れて、こんなひどいところに放り込まれたなんて、信じられない。"
 
 # game/script-maiden.rpy:212
 translate jp maidenandunderling_a117e2a5:
 
     # m captor3 "this is terrible... who's going to keep those demons from harming the overlord?"
-    m captor3 "これはひどい。。。誰が悪魔たちが魔王に危害を加えないようにするんだ？"
+    m captor3 "これはひどい。。。誰が悪魔たちが魔王に危害をしないようにするんだ？"
 
 # game/script-maiden.rpy:213
 translate jp maidenandunderling_c0d6e72a:
 
     # m "you hope she can fend for herself. you sure can't."
-    m "あなたには無理でしょう。彼女が自分で生きていけることを願っているだけだ。"
+    m "少なくともあなたには無理でしょう。あなたは自分が生きていけることを願ってするしかないのだ。"
 
 # game/script-maiden.rpy:214
 translate jp maidenandunderling_ec1b7b2d:
@@ -574,7 +574,7 @@ translate jp maidenandunderling_2faa04c3:
 translate jp maidenandunderling_cdd6d2c5:
 
     # m captor5 "after a while, the violence seems to die down... it's impossible to tell what's happened."
-    m captor5 "暫くすると、暴力が鎮まったかのように...何が起こったのか分からなくなるのです。"
+    m captor5 "暫くすると、暴力が鎮まったかのように。。。何が起こったのか分からなくなるのです。"
 
 # game/script-maiden.rpy:217
 translate jp maidenandunderling_25ceb90b:
@@ -598,7 +598,7 @@ translate jp maidenandunderling_0079cfad:
 translate jp maidenandunderling_46bbe4f5:
 
     # m captor "they immediately notice you overheard them. the underling you recognize from before is the first to do something about it."
-    m captor "あなたが耳打ちしたことにすぐに気がついて、前から知っていた悪魔が最初に行動を起こします。"
+    m captor "彼らはあなたが彼らの計画を耳打ちしたことを気がついて、前から知っていた悪魔が最初に行動を起こします。"
 
 # game/script-maiden.rpy:237
 translate jp maidenandunderling_215a37b9:
@@ -634,13 +634,13 @@ translate jp executedmaiden_43c4d9fb:
 translate jp executedmaiden_d73e0406:
 
     # m return4 "they surround you with a thousand questions, and you tell them your story."
-    m return4 "彼らは次々とあなたに質問しています。そして、あなたは自分の話をします。"
+    m return4 "彼らは次々とあなたに質問しています。そして、あなたは自分が経験したことを話す。"
 
 # game/script-maiden.rpy:256
 translate jp executedmaiden_cbc43c97:
 
     # m return4 "as you explain that the overlord never had any intentions to harm anyone here, you notice the looks of uncertainty in the crowd."
-    m return4 "魔王は誰かを傷つけるつもりはなかったと説明すると、村人たちの懐疑的な表情に気づきます。"
+    m return4 "魔王は誰かを傷つけるつもりはなかったと説明すると、あなたは村人たちの懐疑的な表情に気づきます。"
 
 # game/script-maiden.rpy:259
 translate jp executedmaiden_01f61608:
@@ -658,7 +658,7 @@ translate jp executedmaiden_60bb6d41:
 translate jp executedmaiden_827ca220:
 
     # m return10 "the crowd is growing unruly."
-    m return10 "観客は手に負えなくなっている。"
+    m return10 "村人は手に負えなくなっている。"
 
 # game/script-maiden.rpy:262
 translate jp executedmaiden_d20a3257:
@@ -670,7 +670,7 @@ translate jp executedmaiden_d20a3257:
 translate jp executedmaiden_b76f842f:
 
     # m "everyone begins speculating what must have actually happened. they weave elaborate lies and ask you to prove your innocence."
-    m "誰もが何が起こっているのかを推測し始めた。彼らは手の込んだ嘘を織り交ぜ、あなたに無実の証明を求めます。"
+    m "誰もが何が起こっているのかを推測し始めた。彼らは手の込んだ嘘を織り交ぜ、あなたに証明を求めます。"
 
 # game/script-maiden.rpy:264
 translate jp executedmaiden_8860ecb4:
@@ -700,7 +700,7 @@ translate jp executedmaiden_ff9c592e:
 translate jp executedmaiden_926b8b74:
 
     # m executed4 "you are seized by the crowd, and voices from all sides are calling for public execution. you are to be burned at the stake."
-    m executed4 "あなたは群衆に取り囲まれ、あらゆる方面から公開処刑を求める声が上がっています。"
+    m executed4 "あなたは村人に取り囲まれ、あらゆる方面から公開処刑を求める声が上がっています。"
 
 # game/script-maiden.rpy:271
 translate jp executedmaiden_b248f698:
@@ -796,13 +796,13 @@ translate jp maidenpart3_4bf0b9cc:
 translate jp maidenpart3_c3c963d8:
 
     # m "you never look back."
-    m "あなたは振り替えずに逃げった。"
+    m "あなたは振りかえずに逃げった。"
 
 # game/script-maiden.rpy:327
 translate jp maidenpart3_e6db6b66:
 
     # "ESCAPED MAIDEN END A"
-    "少女エンド：脱出ルートA"
+    "少女エンド：脱出A"
 
 # game/script-maiden.rpy:333
 translate jp maidenpart4_fe28fffa:
@@ -928,7 +928,7 @@ translate jp maidenpart5_5df14ed0:
 translate jp maidenpart5_2ca757d0:
 
     # m "you apologize for causing trouble... but really, didn't anyone read the note you left? jeez."
-    m "みなさん、お詫び申し上げます。。。でも、あなたが残したメモを誰も読まなかったんですか？"
+    m "あなたは迷惑をかけたのをお詫び申し上げます。。。でも、あなたが残したメモを誰も読まなかったんですか？"
 
 # game/script-maiden.rpy:391
 translate jp maidenpart5_4b5cab51:
@@ -1018,7 +1018,7 @@ translate jp possessedmaiden2_6fd0dd0d:
 translate jp possessedmaiden2_ab3eb181:
 
     # m possessive8 "but the overlord stops. or rather, someone has stopped her..."
-    m possessive8 "しかし、魔王は止まった。いや、誰が彼女を止めたのか...。"
+    m possessive8 "しかし、魔王は止まった。いや、誰が彼女を止めたのか。。。"
 
 # game/script-maiden.rpy:421
 translate jp possessedmaiden2_58d348c6:
@@ -1030,7 +1030,7 @@ translate jp possessedmaiden2_58d348c6:
 translate jp possessedmaiden2_8bc33964:
 
     # m possessive9 "the overlord is being ripped to shreds by one of her demon underlings. you think you recognize them, but it's hard to tell with all the blood."
-    m possessive9 "魔王は悪魔の部下の一人に引き裂かれている。あなたは彼らに見覚えがあると思いますが、血だらけなのでよくわからない。"
+    m possessive9 "魔王は悪魔の部下の一人に引き裂かれている。あなたは彼に見覚えがあると思いますが、血だらけなのでよくわからない。"
 
 # game/script-maiden.rpy:425
 translate jp possessedmaiden2_929d14d1:
@@ -1072,13 +1072,13 @@ translate jp possessedmaiden2_f939c69f:
 translate jp possessedmaiden2_f7cce204:
 
     # "ESCAPED MAIDEN END B"
-    "少女エンド：脱出ルートB"
+    "少女エンド：脱出B"
 
 # game/script-maiden.rpy:445
 translate jp possessedmaiden2_401b1815:
 
     # m "she vows to keep you very safe from now on."
-    m "これからはあなたのことをとても大切にすると誓っています。"
+    m "彼女はこれからはあなたのことをとても大切にすると誓っています。"
 
 # game/script-maiden.rpy:446
 translate jp possessedmaiden2_9ccab6ab:
@@ -1090,7 +1090,7 @@ translate jp possessedmaiden2_9ccab6ab:
 translate jp possessedmaiden2_099f738a:
 
     # m "you belong to the overlord now."
-    m "あなたは今、魔王の物に属しています。"
+    m "あなたは今、魔王の所有物になった。"
 
 # game/script-maiden.rpy:461
 translate jp possessedmaiden2_89633776:
@@ -1120,19 +1120,19 @@ translate jp maidenandhero2_197cf2db:
 translate jp maidenandhero2_11f11b58:
 
     # m climax2 "but the hero shakes his head. he says that if this is the true nature of demons, the world is better off with less of them."
-    m climax2 "主人公は首を横に振り、「これが悪魔の正体なら、世界には悪魔がいない方がいい」と言います。"
+    m climax2 "勇者は首を横に振り、「これが悪魔の正体なら、世界は悪魔がいない方がいい」と言います。"
 
 # game/script-maiden.rpy:476
 translate jp maidenandhero2_d09d09dd:
 
     # m climax3 "this isn't right, you think. what kind of hero passes up the chance to save a life?"
-    m climax3 "人の命を救うチャンスを逃る勇者はいるだろうか？"
+    m climax3 "命を救うチャンスを逃る勇者は世の中にいるだろうか？"
 
 # game/script-maiden.rpy:477
 translate jp maidenandhero2_c2d49056:
 
     # m climax4 "the demons have taken notice of you."
-    m climax4 "悪魔はあなたに注目しています。"
+    m climax4 "悪魔たちはあなたのことを気ついた。"
 
 # game/script-maiden.rpy:478
 translate jp maidenandhero2_9484307e:
@@ -1156,7 +1156,7 @@ translate jp maidenandhero2_cac4ff2e:
 translate jp maidenandhero2_3cd332a1:
 
     # m concern3 "you've already taken off before the hero can even think of stopping you."
-    m concern3 "主人公が止めようと思う前に、すでに立ち去った。"
+    m concern3 "あなたは勇者があなたを止めようと思うの判断を下す前に、すでに立ち去った。"
 
 # game/script-maiden.rpy:489
 translate jp maidenandhero3_4c4d4cdb:
@@ -1192,7 +1192,7 @@ translate jp maidenandhero3_8c285b98:
 translate jp maidenandhero3_3cd332a1:
 
     # m concern3 "you've already taken off before the hero can even think of stopping you."
-    m concern3 "あなたは勇者が止めようと思う前に、すでに立ち去った。"
+    m concern3 "あなたは勇者があなたを止めようと思うの判断を下す前に、すでに立ち去った。"
 
 # game/script-maiden.rpy:497
 translate jp selflessmaiden_39d6f075:
@@ -1276,13 +1276,13 @@ translate jp selflessmaiden_e6615bdd:
 translate jp selflessmaiden_29ee0c13:
 
     # "SELFLESS MAIDEN END B"
-    "少女エンド：奉献Bルート"
+    "少女エンド：奉献B"
 
 # game/script-maiden.rpy:526
 translate jp selflessmaiden_6257eef4:
 
     # "SELFLESS MAIDEN END A"
-    "少女エンド：奉献Aルート"
+    "少女エンド：奉献A"
 
 # game/script-maiden.rpy:531
 translate jp maidenpart6_bd741ada:
@@ -1300,7 +1300,7 @@ translate jp maidenpart6_91ab8b32:
 translate jp maidenpart6_2d3785a8:
 
     # m climax7 "the underling you recognize from before barges in, calling you a liar."
-    m climax7 "この前出会ったことがあるの悪魔は部屋に入って、あなたは「嘘つき」と言ってきます。"
+    m climax7 "この前出会ったことがあるの悪魔は部屋に入って、あなたは「彼らは嘘つきだ」と言ってきます。"
 
 # game/script-maiden.rpy:534
 translate jp maidenpart6_2fa34c64:
@@ -1324,7 +1324,7 @@ translate jp maidenpart6_9b943237:
 translate jp maidenpart6_9969a12d:
 
     # m climax10 "you are relieved when the overlord demands silence."
-    m climax10 "大君主が沈黙を要求するとき、あなたは安堵のため息をついた。"
+    m climax10 "魔王が沈黙を要求するとき、あなたは安堵のため息をついた。"
 
 # game/script-maiden.rpy:538
 translate jp maidenpart6_f1561c1d:
@@ -1336,7 +1336,7 @@ translate jp maidenpart6_f1561c1d:
 translate jp maidenpart6_d229c56a:
 
     # m climax12 "the group of demons hiss to each other before shutting the door, leaving the little one behind."
-    m climax12 "悪魔たちは、小さな悪魔を残したままドアを閉めてしまいました。"
+    m climax12 "悪魔たちは、小悪魔を残したままドアを閉めてしまいました。"
 
 # game/script-maiden.rpy:540
 translate jp maidenpart6_992f55e5:
@@ -1360,7 +1360,7 @@ translate jp maidenpart6_aec7bd1e:
 translate jp maidenpart6_aa015bf0:
 
     # m climax15 "if only you had ignored those demons before... you and the hero wouldn't have stumbled into this situation."
-    m climax15 "もしあの時、悪魔たちを無視していれば...あなたと勇者もこんなことにはならなかったでしょう。"
+    m climax15 "もしあの時、悪魔たちを無視していれば...あなたと勇者もこんな状況にならなかったでしょう。"
 
 # game/script-maiden.rpy:544
 translate jp maidenpart6_34e86eed:
@@ -1384,13 +1384,13 @@ translate jp maidenpart6_a1dfca0e:
 translate jp maidenpart6_868b89bb:
 
     # m climax17 "the overlord seizes her underling. they beg for their life."
-    m climax17 "魔王は彼女の部下を捕らえ、彼は許しを求める。"
+    m climax17 "魔王は彼女の部下を捕まえ、彼は許しを求める。"
 
 # game/script-maiden.rpy:548
 translate jp maidenpart6_4cf63c3d:
 
     # m climax18 "you pray. you don't know what else to do, so you just... pray."
-    m climax18 "他に何をしていいかわからないから、ただ...祈るんだ。"
+    m climax18 "あなたは他に何をしていいかわからないから、ただ。。。祈る。"
 
 # game/script-maiden.rpy:550
 translate jp maidenpart6_d57c7eba:
@@ -1408,7 +1408,7 @@ translate jp maidenpart6_70f578d9:
 translate jp maidenpart6_e1ec5aae:
 
     # m merciful2 "will you all burn together...?"
-    m merciful2 "みんなで一緒に焼いてのか。。。？"
+    m merciful2 "みんなも火事で死ぬの。。。？"
 
 # game/script-maiden.rpy:563
 translate jp maidenpart6_e51f4b62:
@@ -1444,7 +1444,7 @@ translate jp maidenpart6_c140a33d:
 translate jp maidenpart6_f7c657f1:
 
     # "DEVOUT MAIDEN END"
-    "少女エンド：デブアウト"
+    "少女エンド：敬虔"
 
 translate jp strings:
 
@@ -1470,7 +1470,7 @@ translate jp strings:
 
     # game/script-maiden.rpy:186
     old "GRAB THE HERO AND RUN"
-    new "勇者を掴んで走る"
+    new "勇者の手を掴んで走る"
 
     # game/script-maiden.rpy:186
     old "LEAVE ON YOUR OWN"
