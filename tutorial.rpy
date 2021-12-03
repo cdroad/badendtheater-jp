@@ -10,7 +10,7 @@ translate jp tutorial_8f525b46:
 translate jp tutorial_6ff84a6e:
 
     # y "you will make many choices, unlocking darker and darker paths! all in order to witness a lovely variety of tragic events..."
-    y "あなたは選択を選んで、暗い闇の中に隠された道を開く、ドールたちの様々な悲劇を目の当たりに見るよう。。。"
+    y "あなたは選択を選んで、暗い闇の中に隠された道を開く、ドールたちの様々な悲劇を目の当たりに見る。。。"
 
 # game/tutorial.rpy:23
 translate jp tutorial_ce274513:
@@ -46,7 +46,7 @@ translate jp yourtutorial2_3813f769:
 translate jp yourtutorial4_fc8ab3f2:
 
     # y "why, this isn't a bad ending at all... i should've written out this possibility. it's just not suited to my theater whatsoever."
-    y "どうして？これはバッドエンドではない、わたしはこんなものを消してはずだ。このような結末とこの劇場とはふさわしくない！"
+    y "どうして？これはバッドエンドではない、私はこんなものを書くべきではかった。このようなエンドはこの劇場とはふさわしくない！"
 
 # game/tutorial.rpy:54
 translate jp yourtutorial5a_ec8fe6e2:
@@ -64,19 +64,19 @@ translate jp yourtutorial5b_b5289c74:
 translate jp yourtutorial6_98444ebe:
 
     # y "you both attack each other at once, and achieve the worst possible outcome."
-    y "お互い殺し合い、悪い結局達成。"
+    y "ドールたちはお互い殺し合い、バッドエンド達成。"
 
 # game/tutorial.rpy:66
 translate jp yourtutorial6_f038c1a8:
 
     # y "what an excellent bad ending, made possible by your decisions! you'll do well in this theater."
-    y "素晴らしいバッドエンドですね、素晴らしい判断です！君は劇場との相性が抜群だ。"
+    y "素晴らしいバッドエンドですね、あなたの判断のおかけです！君はきっとこの劇場との相性が抜群だ。"
 
 # game/tutorial.rpy:71
 translate jp yourtutorial_end_18f50364:
 
     # y "now that you know how the story goes, you can set the dolls' behavior in advance."
-    y "只今、物語の流れがわかった上で、ドールの行動を事前に選択することができます。"
+    y "只今、物語の流れがわかった上、ドールたちの行動を事前に選択することができます。"
 
 # game/tutorial.rpy:72
 translate jp yourtutorial_end_c4dc8133:
