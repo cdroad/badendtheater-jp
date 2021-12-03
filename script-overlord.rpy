@@ -4,13 +4,13 @@
 translate jp overlordstart_ecb12244:
 
     # o "you are the overlord.{w=.2} you live in a castle surrounded by your demon servants. it's a pretty cushy life, you think."
-    o "あなたは魔王、あなたはお城に住んでいて、悪魔のしもべに囲まれています。とても楽な生活だと思っている。"
+    o "あなたは魔王{w=.2}、あなたはお城に住んでいて、悪魔のしもべに囲まれていて。とても楽な生活だと思っている。"
 
 # game/script-overlord.rpy:28
 translate jp overlordstart_0d19182f:
 
     # o start2 "except for those pesky humans who keep killing members of your army."
-    o start2 "ただし、自軍のメンバーを殺し続けている厄介な人間は除く。"
+    o start2 "ただし、自軍の悪魔達を殺し続けている厄介な人間は除く。"
 
 # game/script-overlord.rpy:29
 translate jp overlordstart_29405b30:
@@ -28,13 +28,13 @@ translate jp overlordstart_154e8089:
 translate jp overlordstart_6c5ce8e1:
 
     # o "you're still new to the whole overlord thing if you're being quite honest with yourself. you don't really understand the politics of it."
-    o "正直に言うと、魔王という仕事はにまだ慣れていません。あなたは政治的なことを一切理解していません。"
+    o "正直に言うと、魔王という仕事はにまだ慣れていません。あなたは政治の意味完全わかっていない。"
 
 # game/script-overlord.rpy:32
 translate jp overlordstart_6e75f225:
 
     # o start4 "but, you remind yourself everyone is just doing their best to fulfill their roles. you won't let them bait you into being the evil overlord they expect."
-    o start4 "あなたは誰でも自分の役割に全力で取り組んでいることを自分に言い。人間の挑発にのって、彼らが望む邪悪な魔王になりません。"
+    o start4 "あなたは誰でも自分の役割に全力で取り組んでいることを自分に言い。人間の挑発に乗らない、彼らが望む邪悪な魔王になりません。"
 
 # game/script-overlord.rpy:33
 translate jp overlordstart_56c8c954:
@@ -106,7 +106,7 @@ translate jp overlordstart_08d59833:
 translate jp overlordstart_daa2031b:
 
     # o sleep3 "you have nothing better to do today, so you decide to nap for a little while. being the overlord sure is great."
-    o sleep3 "あなたは今日は何もすることがないので、少しの間昼寝をすることにした。"
+    o sleep3 "あなたは今日は何もすることがないので、少しの間の昼寝をすることにした。"
 
 # game/script-overlord.rpy:70
 translate jp overlordstart_52032ca5:
@@ -118,7 +118,7 @@ translate jp overlordstart_52032ca5:
 translate jp overlordstart_a2a5c81d:
 
     # o oh2 "he enquires about a maiden who was rumored to be here, but you've never seen her. humans don't visit often. or ever, really."
-    o oh2 "彼は、ここが噂さである少女はここにいるそうで、その少女を尋ねたい。あなたはその彼女のことは見たことがない。人類はここに来るのは滅多にないか。いいえ、一度も来ていない。"
+    o oh2 "彼は、噂さである少女はここにいるそうで、その少女を尋ねたい。あなたはその彼女のことは見たことがない。人類はここに来るのは滅多にないか、いいえ、一度も来ていない。"
 
 # game/script-overlord.rpy:72
 translate jp overlordstart_2e94685c:
@@ -130,7 +130,7 @@ translate jp overlordstart_2e94685c:
 translate jp overlordstart_f5db3804:
 
     # o "heroes traditionally kill demons... this guy seemed like he was bad at his job, in your opinion."
-    o "勇者は悪魔を殺すのは当然のことだったか。この男は勇者にとって下手っだった。"
+    o "勇者は悪魔を殺すのは当然のことだったか。この男は勇者にとって下手だった。"
 
 # game/script-overlord.rpy:74
 translate jp overlordstart_e850cbea:
@@ -202,13 +202,13 @@ translate jp conqueredoverlord_69a188f9:
 translate jp conqueredoverlord_4b171950:
 
     # o conquered2 "you rush out into the battlefield to confront this jerkwad. you curse at him and very rudely enquire his reasons for doing all this."
-    o conquered2 "あなたは勇者と対決ために戦場に飛び込んだ。あなたは彼を罵り、なぜこんなひどいことすると勇者に聞いた。"
+    o conquered2 "あなたは勇者と対決ために戦場に飛び込んだ。あなたは彼を罵り、なぜこんなひどいことをすると勇者に聞いた。"
 
 # game/script-overlord.rpy:118
 translate jp conqueredoverlord_1294da73:
 
     # o conquered3 "the hero yells at you, demanding you return the maiden you're holding captive."
-    o conquered3 "勇者は大声て少女を返せと叫ぶ。"
+    o conquered3 "勇者は大声て「少女を返せ」と叫ぶ。"
 
 # game/script-overlord.rpy:119
 translate jp conqueredoverlord_c25cbab4:
@@ -232,13 +232,13 @@ translate jp conqueredoverlord_b23edede:
 translate jp conqueredoverlord_42b632d0:
 
     # o conquered6 "you fall. you have failed your subjects."
-    o conquered6 "あなたは兵士達の期待を答えられなかった。"
+    o conquered6 "あなたは自分兵士達の期待を裏切った"
 
 # game/script-overlord.rpy:125
 translate jp conqueredoverlord_b773244c:
 
     # o "you spit curses weakly. you wish you'd been stronger."
-    o "あなたは最後の力で勇者の悪口を言う。もっと強くなってればいいのにと思う。"
+    o "あなたは最後の力で勇者の悪口を言う。自分がもっと強くなってればいいのにと思う。"
 
 # game/script-overlord.rpy:126
 translate jp conqueredoverlord_76227521:
@@ -256,7 +256,7 @@ translate jp conqueredoverlord_307a18cb:
 translate jp conqueredoverlord_75fab24c:
 
     # o "these are your thoughts as you are swallowed by darkness."
-    o "これらはあなたが闇に飲み込まれていく中で、考えていること。"
+    o "これらはあなたが闇に飲み込まれていく時、考えていること。"
 
 # game/script-overlord.rpy:140
 translate jp conqueredoverlord_7ba27202:
@@ -286,13 +286,13 @@ translate jp overlordpart2_a2fdc8b1:
 translate jp overlordpart2_785cf645:
 
     # o awake2 "it's a maiden from the nearby human village. she says her role is to be captured by you."
-    o awake2 "この少女は人間の村からの人だ。彼女は自分がこの世に存在する唯一の意味はあなたに囚われるです。"
+    o awake2 "この少女は人間の村からの人だ。彼女は自分がこの世に存在する唯一の意味はあなたに囚われることです。"
 
 # game/script-overlord.rpy:152
 translate jp overlordpart2_f86663b9:
 
     # o "the maiden then goes on to say that she's been getting very impatient thinking about her impending capture, so she's come here to speed things along."
-    o "そして、少女は、自分がずっと悪魔に取れるのに、彼女はもう待ちくたびれたから、スピードアップのために自分がここに来たそうです。"
+    o "そして、少女は、自分がずっと悪魔に取れるのを待つ、彼女はもう待ちくたびれたから、物語を加速するために自分がここに来たそうです。"
 
 # game/script-overlord.rpy:153
 translate jp overlordpart2_93c0e09b:
@@ -310,19 +310,19 @@ translate jp overlordpart2_1adef27e:
 translate jp overlordpart2_de9d8329:
 
     # m "\"perhaps i'm not performing my role well enough. how can i become more maiden-like?\""
-    m "\"私は自分の役割をちゃんとしたのかなぁ。もっと少女らしくになるにはどうすればいいの？\""
+    m "\"私は自分の役割をちゃんと演じたのかなぁ。どうやってもっと少女らしくになるだろう？\""
 
 # game/script-overlord.rpy:156
 translate jp overlordpart2_f12fe575:
 
     # o "you don't really understand the question."
-    o "あなた少女の質問にはよく理解できない。"
+    o "あなた少女の質問はよく理解できない。"
 
 # game/script-overlord.rpy:157
 translate jp overlordpart2_c1667e82:
 
     # o awake5 "you think this world puts way too much focus on destiny and junk. just go home and stop worrying about it, you tell her."
-    o awake5 "あなたはこの世界には運命とか無価値のものに重視すぎると思う。考えすぎないで。家に帰ろあなたはそう言いた。"
+    o awake5 "「あなたはこの世界には運命とか無価値のものに重視すぎると思う。考えすぎないで。家に帰ろ」あなたはそう言いた。"
 
 # game/script-overlord.rpy:158
 translate jp overlordpart2_814d5494:
@@ -352,7 +352,7 @@ translate jp overlordpart2_19f6f3f1:
 translate jp overlordpart2_4b9bd34f:
 
     # o antisocial "you'd love to have all the conversations in the world with your new friend, but having a human girl here will definitely cause trouble."
-    o antisocial "あなたももっと少女と話したいが、人間の娘は悪魔の城にいっるのはきっといつか問題が起こる。"
+    o antisocial "あなたももっと少女と話したいが、人間の娘は悪魔の城にいっるのはきっといつか問題を起こる。"
 
 # game/script-overlord.rpy:168
 translate jp overlordpart2_143a31c8:
@@ -412,13 +412,13 @@ translate jp overlordhero2_d23035c7:
 translate jp overlordhero2_0b7a910b:
 
     # o conquered2 "as the overlord, it's your job to take charge in these kinds of situations. you rush out to end this hero's pitiful existence."
-    o conquered2 "魔王として、この状況は主導権を握するのは当然のことであり。勇者を殺すために彼の前に現れた。"
+    o conquered2 "魔王として、この状況は主導権を握するのは自分の役割であり。あなたは勇者を殺すために彼の前に現れた。"
 
 # game/script-overlord.rpy:212
 translate jp overlordhero2_e7dcd6dd:
 
     # h "\"vile demons! i shouldn't have believed for a second that you were anything but pure evil! i'll exterminate you all!\""
-    h "卑怯の悪魔！君たちは純粋な悪魔である、一瞬たりとも信じるべきではない。全部殺す！！！"
+    h "\"卑怯の悪魔！君たちは純粋な悪魔である、一瞬たりとも信じるべきではない。全部殺す！！！\""
 
 # game/script-overlord.rpy:213
 translate jp overlordhero2_9650418b:
@@ -430,13 +430,13 @@ translate jp overlordhero2_9650418b:
 translate jp overlordhero2_e051d87b:
 
     # o conquered5 "you clash again and again, but the hero isn't going down easily."
-    o conquered5 "お互い何度も何度もぶつかり合うが、勇者はそん簡単には倒れないみたい。"
+    o conquered5 "お互い何度も何度も戦い合うが、勇者はそん簡単には倒れないみたい。"
 
 # game/script-overlord.rpy:215
 translate jp overlordhero2_d7a8c9df:
 
     # o betrayed "you're both dangerously low on health, waiting for the other to make a move... when one of your underlings appears behind him."
-    o betrayed "二人とも体力が限界に達し、相手の出方を待っていると その時、彼の後ろに一人の部下が現れた。"
+    o betrayed "二人とも体力が限界に達し、相手の出方を待っていると その時、彼の後ろにあなたの一人の部下が現れた。"
 
 # game/script-overlord.rpy:216
 translate jp overlordhero2_5a64f224:
@@ -478,13 +478,13 @@ translate jp overlordpart3_638085bf:
 translate jp overlordpart3_ce8da512:
 
     # m "\"that explains why the people of my village have been left unharmed... it's because of your orders, isn't it? we are very grateful!\""
-    m "なるほど、私の村の人たちが無傷で済んだ。。。それは、あなたの命令のおかげですね。本当にありがとうございます"
+    m "\"なるほど、だから私の村の人たちが無傷で済んだ。。。それは、あなたの命令のおかげですね。本当にありがとうございます\""
 
 # game/script-overlord.rpy:231
 translate jp overlordpart3_e63ca83e:
 
     # o chat5 "you're surprised to hear her thank you."
-    o chat5 "彼女の感謝の言葉は言われることは思わなかった。"
+    o chat5 "あなたは彼女は感謝の言葉を言われることは思わなかった。"
 
 # game/script-overlord.rpy:232
 translate jp overlordpart3_ffe1b9cd:
@@ -508,13 +508,13 @@ translate jp overlordpart3_70b6b7f6:
 translate jp overlordpart3_0a2720c7:
 
     # o chat7 "the maiden laughs at that, saying she wouldn't mind being held captive here. the people in her village are a little exhausting at times, she says."
-    o chat7 "少女は笑う、ここで監禁されても構わないと言う。村の人たちのほうが、ちょっと疲れることもあるそうです。"
+    o chat7 "少女は笑う、ここで監禁されても構わないと言う。村の人たちのほうが、もっと疲れることもあるそうです。"
 
 # game/script-overlord.rpy:236
 translate jp overlordpart3_abde3ac9:
 
     # o chat8 "you can't tell if she's into you or not."
-    o chat8 "彼女があなたに興味を持っているかどうかはわからない。"
+    o chat8 "あなたは少女が自分に興味を持っているかどうかはわからない。"
 
 # game/script-overlord.rpy:238
 translate jp overlordpart3_02e730f3:
@@ -676,13 +676,13 @@ translate jp overlordpart3_dd18d05f:
 translate jp overlordpart3_c87b1c87:
 
     # o entrance "you're interrupted by another human in your doorway. this time it's a hero."
-    o entrance "あなたは玄関先で別の人間に邪魔される。今度は勇者だ。"
+    o entrance "あなたはドアで別の人間に邪魔される。今度は勇者だ。"
 
 # game/script-overlord.rpy:288
 translate jp overlordpart3_31b879f0:
 
     # o slain1 "before you even know how to react, he makes his move... and the maiden makes hers."
-    o slain1 "あなたがどう反応するかわからないうちに、勇者は動き出し。。。そして、少女も自分なりに動かした。。"
+    o slain1 "あなたがどう反応するかわからないうちに、勇者は動き出し。。。そして、少女も自分なりに動かし始めた。"
 
 # game/script-overlord.rpy:290
 translate jp overlordpart3_7b48cf59:
@@ -754,7 +754,7 @@ translate jp overlordpart3_a0affa72:
 translate jp overlordpart3_55c9ffaf:
 
     # o entrance5 "confusing feelings well up inside your heart. you're surprised that you had one of those to begin with."
-    o entrance5 "あなたは混乱した気持ちが心の中に湧き上がってきます。自分にもそんなものがあったのかと驚いてしまいます。"
+    o entrance5 "混乱した気持ちがあなたの心の中に湧き上がってきます。自分にもそんなものがあったのかと驚いてしまいます。"
 
 # game/script-overlord.rpy:311
 translate jp overlordpart3_c8f7cb81:
@@ -766,7 +766,7 @@ translate jp overlordpart3_c8f7cb81:
 translate jp overlordpart3_00e16354:
 
     # o possessive "the maiden came here to be captured by you didn't she? you'll grant her wish."
-    o possessive "少女はあなたに捕まるためにここに来たのでしょう？彼女の願いを叶えてさせてください。"
+    o possessive "少女はあなたに捕まるためにここに来たのでしょう？ならば自分は彼女の願いを叶えてさせて。"
 
 # game/script-overlord.rpy:321
 translate jp overlordpart3_b755bb31:
@@ -778,7 +778,7 @@ translate jp overlordpart3_b755bb31:
 translate jp overlordpart3_b4656eb3:
 
     # o "the maiden assures you she'll be back. but you don't budge."
-    o "少女は「必ず戻るから」と言ったが、あなたは同意していない。"
+    o "少女は「必ず戻るから」と言ったが、あなたはそれを同意しない。"
 
 # game/script-overlord.rpy:323
 translate jp overlordpart3_96342335:
@@ -790,7 +790,7 @@ translate jp overlordpart3_96342335:
 translate jp overlordpart3_c962bcc1:
 
     # h "\"if you won't let her go... maybe you demons are evil after all. and if you are, i'll be forced to vanquish you.\""
-    h "\"もし彼女を解放しないのであれば。。。やはりあなた達悪魔は悪以外に何もないかもしれません。そうであれば、私はあなたを殺すしかない。\""
+    h "\"もし彼女を解放しないのであれば。。。やはり悪魔たちは悪以外に何もないかもしれません。そうであれば、彼はあなたを殺すしかない。\""
 
 # game/script-overlord.rpy:325
 translate jp overlordpart3_01d70da2:
@@ -808,7 +808,7 @@ translate jp overlordpart3_e38db20c:
 translate jp overlordpart3_3eb4764c:
 
     # o "didn't she say she prefers this place to her village? now she doesn't have to leave!"
-    o "村よりもここの方が好きだと言っていたよね？だから、ここに出なくてもいいから！"
+    o "村よりもここの方が好きだと言っていたよね？だから、ここを出なくてもいいから！"
 
 # game/script-overlord.rpy:328
 translate jp overlordpart3_aaf7ad7f:
@@ -844,25 +844,25 @@ translate jp overlordpart3_6f0c39ab:
 translate jp overlordpart3_bfb7395a:
 
     # o possessive7 "you'll be sure to keep this maiden very safe from now on."
-    o possessive7 "これからは、この乙女を大切にしてくださいね。"
+    o possessive7 "これからは、この少女のことを大切にしてくださいね。"
 
 # game/script-overlord.rpy:351
 translate jp overlordpart3_fe37b91a:
 
     # "SELFISH OVERLORD END A"
-    "魔王エンド：利己主義(Aルート)"
+    "魔王エンド：利己主義A"
 
 # game/script-overlord.rpy:353
 translate jp overlordpart3_2b44982a:
 
     # "SELFISH OVERLORD END B"
-    "魔王エンド：利己主義(Bルート)"
+    "魔王エンド：利己主義B"
 
 # game/script-overlord.rpy:357
 translate jp overlordpart3_6c7ba74f:
 
     # o antisocial4 "you're certain that she'll return to spend more time with you. you just have to trust in that, you decide."
-    o antisocial4 "この間の話であまたは彼女はきっと戻ってくることを確信しています。"
+    o antisocial4 "あなたは、彼女がもっとあなたと一緒にいたいと思って、あまたは彼女はきっと戻ってくることを確信しています。"
 
 # game/script-overlord.rpy:359
 translate jp overlordpart3_2ff15ff3:
@@ -904,7 +904,7 @@ translate jp overlordpart4_dc679e92:
 translate jp overlordpart4_8948fcea:
 
     # o "they tell you a group of demons is after your life. you still don't grasp the urgency of the situation."
-    o "あなたの部下たちはあなたの命を狙われていると言われて、あなたはまだ状況の緊急性を理解していません。"
+    o "あなたの部下たちはあなたの位置を狙っていると言われて、あなたはまだ状況の緊急性を理解していません。"
 
 # game/script-overlord.rpy:378
 translate jp overlordpart4_b32ba6a5:
@@ -946,19 +946,19 @@ translate jp overlordpart4_03e70939:
 translate jp overlordpart4_fa47937c:
 
     # o climax6 "you have no doubt that your servants would let their ambition cloud their judgement and lead them to try to take your throne."
-    o climax6 "あなたは、しもべたちが野心の判断が鈍り、あなたの王座を奪おうとすることも可能だと判断する。。"
+    o climax6 "あなたは、しもべたちは野心で判断を鈍らせ、あなたの王座を奪おうとすることも可能だと判断する。。"
 
 # game/script-overlord.rpy:385
 translate jp overlordpart4_f48798af:
 
     # o climax7 "\"regardless of who led this conspiracy, i have no choice but to punish everyone to keep you all in your place: crushed beneath my heel!\""
-    o climax7 "誰がこの陰謀を主導したかに関わらず、私は全員を罰を与え以外の選択肢はない。自分の位置をしっかり覚るために：全員罰だ。"
+    o climax7 "\"誰がこの陰謀を主導したかに関わらず、私は全員を罰を与え以外の選択肢はない。自分の位置をしっかり覚るために：全員罰だ。\""
 
 # game/script-overlord.rpy:386
 translate jp overlordpart4_5ef9e9dc:
 
     # o "saying that made you feel very overlord-like."
-    o "あなたは自分がとても魔王が言いそうな話を言う感じがします。"
+    o "あなたは自分がとても魔王ぽいのことを言いましたと感じた。"
 
 # game/script-overlord.rpy:387
 translate jp overlordpart4_cb2b5852:
@@ -982,13 +982,13 @@ translate jp overlordpart4_df1be20e:
 translate jp overlordpart4_f085dfe8:
 
     # o climax11 "in an instant, the whole room is in flames."
-    o climax11 "間も無く、部屋は炎だらけだ。"
+    o climax11 "速やかに、部屋は炎だらけだ。"
 
 # game/script-overlord.rpy:391
 translate jp overlordpart4_41fdbe21:
 
     # o climax12 "the underling pounds on the door, cursing at their \"friends\" for betraying them."
-    o climax12 "悪魔はドアを叩き、裏切った「仲間」に罵声を浴びせる。"
+    o climax12 "小悪魔はドアを叩き、裏切った「仲間」に罵声を浴びせる。"
 
 # game/script-overlord.rpy:392
 translate jp overlordpart4_9901569e:
@@ -1012,7 +1012,7 @@ translate jp overlordpart4_edd2b4e0:
 translate jp overlordpart4_59f7824d:
 
     # o climax15 "you notice the maiden crying. why does she have to die over something that has nothing to do with her?"
-    o climax15 "あなたはが泣いているのに気づく。なぜ、自分とは関係のないことで死ななければならないのか。"
+    o climax15 "あなたはが少女泣いていることを気づく。なぜ、彼女は自分と関係のないことで死ななければならないのか。"
 
 # game/script-overlord.rpy:396
 translate jp overlordpart4_849338a4:
@@ -1036,7 +1036,7 @@ translate jp overlordpart4_97ea9ea0:
 translate jp overlordpart4_90422b71:
 
     # o climax19 "they cry for mercy, saying that they were dragged into this plot knowing they'd be killed if they took your side."
-    o climax19 "彼は「あなたの味方をすれば殺されるとわかっていながら、この陰謀に引きずり込まれた」と言って、慈悲を求めます。"
+    o climax19 "彼は「魔王の味方をすれば殺されるとわかっていながら、この陰謀に引きずり込まれた」と言って、慈悲を求めます。"
 
 # game/script-overlord.rpy:400
 translate jp overlordpart4_5bb5596b:
@@ -1156,7 +1156,7 @@ translate jp wrathfuloverlord_e5df1782:
 translate jp wrathfuloverlord_774e1a06:
 
     # "WRATHFUL OVERLORD END"
-    "魔王エンド：ブチギレ"
+    "魔王エンド：憤り"
 
 # game/script-overlord.rpy:486
 translate jp vengefuloverlord_9e4c110b:
@@ -1228,7 +1228,7 @@ translate jp assassinatedoverlord_d3708614:
 translate jp assassinatedoverlord_759ba5b1:
 
     # "ASSASSINATED OVERLORD END"
-    "魔王エンド：暗殺された"
+    "魔王エンド：暗殺"
 
 # game/script-overlord.rpy:534
 translate jp burnedoverlord_5517fd5c:

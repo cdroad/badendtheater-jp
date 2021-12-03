@@ -1322,7 +1322,7 @@ translate jp strings:
 
     # game/script-hero.rpy:286
     old "DESTROY THE OVERLORD"
-    new "悪魔を殺す"
+    new "魔王を殺す"
 
     # game/script-hero.rpy:286
     old "ASK THE MAIDEN WHAT'S GOING ON"
