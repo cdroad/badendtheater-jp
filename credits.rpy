@@ -80,43 +80,43 @@ translate jp strings:
 
     # game/credits.rpy:52
     old "To the lost, the cold"
-    new "この物語は生活に迷っている人、無気力の人に捧げる"
+    new "{color=#666}To the lost, the cold{/color}\nこの物語は生活に迷っている人、無気力の人に捧げる"
 
     # game/credits.rpy:53
-    old "Take your seats, everyone"
+    old "{color=#666}Take your seats, everyone{/color}\nTake your seats, everyone"
     new "皆様、お席にお着きください。"
 
     # game/credits.rpy:54
     old "Welcome to BAD END THEATER"
-    new "バーデン・エンド・シアターへようこそ"
+    new "{color=#666}Welcome to BAD END THEATER{/color}\nバーデン・エンド・シアターへようこそ"
 
     # game/credits.rpy:55
     old "When the curtains close"
-    new "カーテンを閉めると"
+    new "{color=#666}When the curtains close{/color}\nカーテンを閉めると"
 
     # game/credits.rpy:56
     old "You'll come away stronger"
-    new "あなたは強くなります。"
+    new "{color=#666}You'll come away stronger{/color}\nあなたは強くなります。"
 
     # game/credits.rpy:57
     old "Or maybe you'll break"
-    new "それとも壊れてしまうのか"
+    new "{color=#666}Or maybe you'll break{/color}\nそれとも壊れてしまうのか"
 
     # game/credits.rpy:58
     old "Not my fault you sought this pain"
-    new "あなたがこの痛みを求めたのは私のせいではありません"
+    new "{color=#666}Not my fault you sought this pain{/color}\nあなたがこの痛みを求めるのは私のせいではありません"
 
     # game/credits.rpy:60
     old "Share in my misery"
-    new "私の不幸を分かち合う"
+    new "{color=#666}Share in my misery{/color}\n私の不幸を分かち合う"
 
     # game/credits.rpy:61
     old "For all eternity"
-    new "永遠に"
+    new "{color=#666}For all eternity{/color}\n永遠に"
 
     # game/credits.rpy:62
     old "Labyrinth of suffering"
-    new "苦しみの迷宮"
+    new "{color=#666}Labyrinth of suffering{/color}\n苦しみの迷宮"
 
     # game/credits.rpy:64
     old "I miss you, my darling"
@@ -124,43 +124,43 @@ translate jp strings:
 
     # game/credits.rpy:67
     old "Wandering all alone"
-    new "ひとりでさまよう"
+    new "{color=#666}Wandering all alone{/color}\nひとりでさまよう"
 
     # game/credits.rpy:68
     old "Searching for my lost love"
-    new "失われた愛を求めて"
+    new "{color=#666}Searching for my lost love{/color}\n失われた愛を求めて"
 
     # game/credits.rpy:69
     old "Stumbled toward BAD END THEATER"
-    new "BAD END THEATERに向かってつまずく"
+    new "{color=#666}Stumbled toward BAD END THEATER{/color}\nBAD END THEATERに向かってつまずく"
 
     # game/credits.rpy:70
     old "Though its plays were cold"
-    new "劇は寒いけど"
+    new "{color=#666}Though its plays were cold{/color}\n芝居は寒いけど"
 
     # game/credits.rpy:71
     old "I still felt this warmth from them"
-    new "暖かさを感じました。"
+    new "{color=#666}I still felt this warmth from them{/color}\n暖かさを感じました。"
 
     # game/credits.rpy:72
     old "Isn't that strange?"
-    new "おかしいと思いませんか？"
+    new "{color=#666}Isn't that strange?{/color}\nおかしいと思いませんか？"
 
     # game/credits.rpy:73
     old "Can't help thinking of your face"
-    new "あなたの顔を思い浮かべずにはいられません"
+    new "{color=#666}Can't help thinking of your face{/color}\nあなたの顔を思い浮かべずにはいられません"
 
     # game/credits.rpy:75
     old "For all your tragedies"
-    new "あなたの全ての悲劇のために"
+    new "{color=#666}For all your tragedies{/color}\nあなたの全ての悲劇のために"
 
     # game/credits.rpy:76
     old "I'll write happy endings"
-    new "私はハッピーエンドを書く"
+    new "{color=#666}I'll write happy endings{/color}\n私はハッピーエンドを書く"
 
     # game/credits.rpy:77
     old "Undo all our suffering"
-    new "全ての苦しみを取り除いて"
+    new "{color=#666}Undo all our suffering{/color}\n全ての苦しみを取り除いて"
 
     # game/credits.rpy:79
     old "I've missed you, my darling"
