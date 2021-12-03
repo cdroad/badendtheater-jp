@@ -16,7 +16,7 @@ translate jp herostart_19b429bf:
 translate jp herostart_26077d08:
 
     # h start2 "you are told a maiden from your village has been kidnapped, and is likely being held captive at the nearby demon overlord's castle."
-    h start2 "あなたの村の娘が誘拐され、近くの魔王の城に監禁されているようだと言われました。"
+    h start2 "あなたの村の少女が誘拐され、近くの魔王の城に監禁されているようだと言われました。"
 
 # game/script-hero.rpy:30
 translate jp herostart_369047a3:
@@ -28,7 +28,7 @@ translate jp herostart_369047a3:
 translate jp herostart_416dfce5:
 
     # h start4 "you're happy to protect the townspeople though. you were born to play this role!"
-    h start4 "でも、あなたは町の人たちを守るのは嬉しいです。"
+    h start4 "でも、あなたは村の人たちを守るのは嬉しいです。"
 
 # game/script-hero.rpy:32
 translate jp herostart_b82bc997:
@@ -64,7 +64,7 @@ translate jp herostart_43f78a51:
 translate jp herostart_7192b336:
 
     # h coward2 "but you can't return home now. your reputation will be ruined!"
-    h coward2 "でもそのまま帰ってはいけません。あなたの評判が落ちてしまいますから！"
+    h coward2 "でもそのまま村に帰ってはいけません。評判が落ちますから！"
 
 # game/script-hero.rpy:49
 translate jp herostart_ff02a9a3:
@@ -76,7 +76,7 @@ translate jp herostart_ff02a9a3:
 translate jp herostart_b9389ac0:
 
     # h start5 "you'll take your chances at the castle. you're a hero after all! this is your job."
-    h start5 "あなたは城でチャンスをつかみます。自分は勇者ですから、これはあなたの仕事です。"
+    h start5 "あなたは今回のチャンスをつかみ城で表現。自分は勇者ですから、これはあなたの仕事です。"
 
 # game/script-hero.rpy:57
 translate jp heroandmaiden_168d9021:
@@ -106,13 +106,13 @@ translate jp heroandmaiden_ae66e42a:
 translate jp heroandmaiden_08f86894:
 
     # h scary2 "not wanting to look like you're a crazy person chasing after her or anything, you nonchalantly walk back to town."
-    h scary2 "狂ったように彼女を追いかけている男と思われたくないので、淡々と街に戻っていく。"
+    h scary2 "彼女を追いかけて狂った男に思われたくないので、淡々と街に戻っていく。"
 
 # game/script-hero.rpy:65
 translate jp heroandmaiden_9b1b81e6:
 
     # h hm2 "you ask the maiden what she's doing. doesn't she know the overlord's castle is like, right there? it's dangerous!"
-    h hm2 "少女に何をしているのか聞いてみましょう。彼女は魔王の城があそこにあることを知らないのか？"
+    h hm2 "少女に何をしているのか聞いてみよう。彼女は魔王の城があそこにあることを知らないのか？"
 
 # game/script-hero.rpy:67
 translate jp heroandmaiden_7acf3827:
@@ -136,19 +136,19 @@ translate jp heroandmaiden_f943005d:
 translate jp heroandmaiden_8b72f6ca:
 
     # h "the townspeople must be informed of this immediately!"
-    h "このことをすぐに町の人々に教えなければなりません！"
+    h "このことをすぐに村の人々に教えなければなりません！"
 
 # game/script-hero.rpy:78
 translate jp heroandmaiden_e04b7deb:
 
     # h distrust "you aren't sure you should listen to this maiden. you've been taught your whole life that demons are evil!"
-    h distrust "あなたはこの乙女の話を聞いていいのかどうかわからない。あなたはずっと悪魔は悪だと教えられてきたのだから。"
+    h distrust "あなたはこの少女の話を聞いていいのかどうかわからない。あなたはずっと悪魔は悪だと教えられてきたのだから。"
 
 # game/script-hero.rpy:79
 translate jp heroandmaiden_1727edd5:
 
     # h "you ask if she's sure about all this... but she gets very upset that you think she would lie to you."
-    h "あなたは、これが本当のことかを聞くと、彼女は「自分が嘘をつくと思っているのか」と憤慨していた。"
+    h "あなたは、これが本当のことかを聞くと、彼女は「私はが嘘をつくと思っているのか」と憤慨していた。"
 
 # game/script-hero.rpy:80
 translate jp heroandmaiden_03d3304a:
@@ -184,7 +184,7 @@ translate jp spectatorhero_acc4867e:
 translate jp spectatorhero_a69b5e1d:
 
     # h spectator3 "smoke begins to rise, and you stand idly by as flames consume the maiden."
-    h spectator3 "煙が立ち上り、炎が乙女を焼き尽くすのを、あなたは黙って見ている。"
+    h spectator3 "煙が立ち上り、炎が少女を焼き尽くすのを、あなたは黙って見ている。"
 
 # game/script-hero.rpy:91
 translate jp spectatorhero_6f69e75c:
@@ -196,7 +196,7 @@ translate jp spectatorhero_6f69e75c:
 translate jp spectatorhero_60bdabf1:
 
     # h spectator5 "she seemed nice though, you think."
-    h spectator5 "でも、彼女はいい人だったと思う。"
+    h spectator5 "でも、あなたは彼女はいい人だったと思う。"
 
 # game/script-hero.rpy:94
 translate jp spectatorhero_34768d42:
@@ -220,13 +220,13 @@ translate jp spectatorhero_95cf273a:
 translate jp spectatorhero_088e2036:
 
     # "SPECTATOR HERO END A"
-    "勇者エンド：観察者"
+    "勇者エンド：観察者A"
 
 # game/script-hero.rpy:111
 translate jp spectatorhero_e8e61d75:
 
     # "SPECTATOR HERO END B"
-    "勇者エンド：観察者Bルート"
+    "勇者エンド：観察者B"
 
 # game/script-hero.rpy:115
 translate jp heroandmaiden2_bf01229a:
@@ -250,7 +250,7 @@ translate jp heroandmaiden2_312065b9:
 translate jp heroandmaiden2_833a2b33:
 
     # h "you politely inform them it isn't your story to tell. you merely ran into her on the way to the castle!"
-    h "あなたは丁寧に、ただ、お城に向かう途中で彼女に出会っただけなのです。"
+    h "あなたは丁寧に説明し、あなたはただ、お城に向かう途中で彼女に出会っただけなのです。"
 
 # game/script-hero.rpy:119
 translate jp heroandmaiden2_becb51f4:
@@ -274,19 +274,19 @@ translate jp heroandmaiden2_0688aa50:
 translate jp heroandmaiden2_b588de9f:
 
     # h return7 "the crowd breaks into hushed whispers. you're too busy thinking what a great and reliable hero you are to hear what they're saying."
-    h return7 "群衆は静かな囁き声に包まれる。あなたは、自分がいかに偉大で信頼できる勇者であるかを考えるのに忙しく、群衆が何を言っているのか聞き取れません。"
+    h return7 "村人は静かな囁き声に包まれる。あなたは、自分がいかに偉大で信頼できる勇者であるかを考えるのに忙しく、村人が何を言っているのか聞き取れません。"
 
 # game/script-hero.rpy:125
 translate jp heroandmaiden2_a828cc35:
 
     # h return8 "the town elder's voice breaks you out of your thoughts."
-    h return8 "町の長老の声で、あなたの思考が中断された。"
+    h return8 "ある村の老人の声が、あなたの思考を中断された。"
 
 # game/script-hero.rpy:126
 translate jp heroandmaiden2_b5d71791:
 
     # h "he implores you to meet with the overlord immediately, and says they'll all keep an eye on the maiden until you return."
-    h "すぐに魔王のところに行ってほしいと懇願し、あなたが帰ってくるまで少女を見守ってくれるという。"
+    h "すぐに魔王のところに行ってほしいと懇願し、あなたが帰ってくるまで彼らは少女を見守ってくれるという。"
 
 # game/script-hero.rpy:127
 translate jp heroandmaiden2_8e1d5149:
@@ -298,7 +298,7 @@ translate jp heroandmaiden2_8e1d5149:
 translate jp heroandmaiden2_cf2860bc:
 
     # h "you aren't sure what's going on, but you get the feeling it might be bad to leave the maiden on her own..."
-    h "何が起こっているのかわからないが、あなたは少女を一人にするのはまずいのではないかという気がしてきた。。。"
+    h "何が起こっているのかわからないが、あなたは少女を一人にするのはまずいのではないかどうか気がしてきた。。。"
 
 # game/script-hero.rpy:130
 translate jp heroandmaiden2_69acec2a:
@@ -310,19 +310,19 @@ translate jp heroandmaiden2_69acec2a:
 translate jp heroandmaiden2_41a6c4e9:
 
     # h resolute2 "she drags you along with her. she has much better odds with you around, so you don't object. adventure awaits!"
-    h resolute2 "彼女があなたを引っ張ってくれる。あなたがいた方が彼女にとって有利であるので、あなたは反対されない。冒険があなたたちを待っています！"
+    h resolute2 "彼女と一緒にするなら。あなたがいた方が彼女にとって有利であるので、あなたは反対されない。冒険があなたたちを待っています！"
 
 # game/script-hero.rpy:134
 translate jp heroandmaiden2_eaf80415:
 
     # h disloyal "when you make it to the castle, you spy a group of suspicious demons hanging around near the entrance and you can't help but overhear their conversation."
-    h disloyal "城に到着すると、入り口付近で怪しい悪魔たちがうろうろしていて、彼らの会話が耳に入ってきました。"
+    h disloyal "城に到着すると、入り口付近で怪しい悪魔たちがうろうろしていて、君たちは悪魔の計画を全部聞いた。"
 
 # game/script-hero.rpy:136
 translate jp heroandmaiden2_840c3b53:
 
     # h leave3 "but about halfway there, the maiden suddenly stops. something's not right."
-    h leave3 "しかし、その途中で乙女は急に立ち止まってしまった。どうしましたか。"
+    h leave3 "しかし、その途中少女は急に立ち止まってしまった。どうしましたか。"
 
 # game/script-hero.rpy:137
 translate jp heroandmaiden2_256ed24d:
@@ -346,7 +346,7 @@ translate jp heroandmaiden2_2876e165:
 translate jp heroandmaiden2_9b5a313f:
 
     # h "people are shouting for you to hunt her and her demon friends down already... but that doesn't sound like a very heroic task!"
-    h "人々は、彼女とその悪魔の友達を狩るためにあなたに要求している。。。しかし、それは勇者の仕事ではなさそうですね。"
+    h "村の人々は、彼女とその悪魔の友達を狩るためにあなたに要求している。。。しかし、それは勇者の仕事ではなさそうですね。"
 
 # game/script-hero.rpy:143
 translate jp heroandmaiden2_c5a2db11:
@@ -370,7 +370,7 @@ translate jp heroandmaiden2_fb0dedf6:
 translate jp heroandmaiden2_e271a99a:
 
     # h captor "they inform you she's being held in the dungeon at the moment."
-    h captor "現在、彼女は牢獄に収容されているとのことをあなたに伝えます。"
+    h captor "彼らは現在、彼女は牢獄に収容されているとのことをあなたに伝えます。"
 
 # game/script-hero.rpy:149
 translate jp heroandmaiden2_627c3615:
@@ -406,7 +406,7 @@ translate jp heroandmaiden2_4561a49c:
 translate jp heroandmaiden2_cdab83e9:
 
     # h late "through the unguarded gates, you spot a group of demons surrounding a body."
-    h late "無防備な門をくぐり抜けると、あなたは死体を囲む悪魔の集団を発見する。"
+    h late "無防備な門をくぐり抜けると、あなたは少女の死体を囲む悪魔の集団を発見する。"
 
 # game/script-hero.rpy:162
 translate jp heroandmaiden2_7309b73b:
@@ -442,7 +442,7 @@ translate jp heroandmaiden2_4e158925:
 translate jp heroandmaiden2_e25aaae7:
 
     # h bystander3 "you had only taken an eye off the maiden for a second but she's already disappeared."
-    h bystander3 "一瞬だけ、乙女から目を離した隙に、彼女はもう消えてしまった。"
+    h bystander3 "一瞬だけ、あなたは目を少女から離した隙に、彼女はもう消えてしまった。"
 
 # game/script-hero.rpy:172
 translate jp heroandmaiden2_d075df99:
@@ -460,7 +460,7 @@ translate jp heroandmaiden2_d5de7a74:
 translate jp heroandmaiden2_e573a783:
 
     # h "she... could have been lying to you all along."
-    h "彼女は...あなたにずっと嘘をついていたのかもしれません。"
+    h "彼女は。。。ずっと嘘をついていたのかもしれません。"
 
 # game/script-hero.rpy:175
 translate jp heroandmaiden2_de59aa23:
@@ -550,7 +550,7 @@ translate jp failedhero_834888fa:
 translate jp failedhero_82a54828:
 
     # h failed2 "you get straight to the point and ask her where the maiden is."
-    h failed2 "あなたは少女はどこにいるのか、と単刀直入に訊ねてます。"
+    h failed2 "あなたは「少女はどこにいるのか」と単刀直入に訊ねてます。"
 
 # game/script-hero.rpy:223
 translate jp failedhero_1eeda211:
@@ -574,7 +574,7 @@ translate jp failedhero_1d4d8767:
 translate jp failedhero_62e1041e:
 
     # h failed5 "thinking about that poor maiden's fate fills you with hatred. you fight the overlord with everything you've got!"
-    h failed5 "あなたは哀れの少女の運命を思うと、憎しみがこみ上げてくる。あなたは全力で魔王と戦う。"
+    h failed5 "あなたはあの哀れの少女の運命を思うと、憎しみがこみ上げてくる。あなたは全力で魔王と戦う。"
 
 # game/script-hero.rpy:227
 translate jp failedhero_ee375c08:
@@ -766,7 +766,7 @@ translate jp triumphanthero_48642cbf:
 translate jp triumphanthero_74a8caf6:
 
     # h triumphant5 "she must be too shy to speak."
-    h triumphant5 "恥ずかしくてしゃべれないのでしょうね。"
+    h triumphant5 "彼女はきっと恥ずかしくて喋れないのでしょうね。"
 
 # game/script-hero.rpy:313
 translate jp triumphanthero_4bb53903:
@@ -808,7 +808,7 @@ translate jp loyalhero_c47f4ea8:
 translate jp loyalhero_602663a6:
 
     # h "it takes you a moment to recover from the shock. the overlord wails..."
-    h "あなたはそのショックから立ち直るが時間がかかります。"
+    h "あなたはそのショックから立ち直るのが時間がかかります。"
 
 # game/script-hero.rpy:343
 translate jp loyalhero_7952434e:
@@ -826,7 +826,7 @@ translate jp loyalhero_70ba55ff:
 translate jp loyalhero_2bade013:
 
     # h loyal6 "the overlord strikes at you in a vengeful rage. you parry, and she is slain."
-    h loyal6 "復讐に燃える魔王が、あなたに襲いかかります。 あなたは彼女の攻撃を避け、そして彼女を殺される。"
+    h loyal6 "魔王が復讐心に駆られてあなたに襲いかかる。あ あなたは彼女の攻撃を避け、そして彼女を殺した。"
 
 # game/script-hero.rpy:346
 translate jp loyalhero_50c1121d:
@@ -868,7 +868,7 @@ translate jp loyalhero_fc2d1bf0:
 translate jp loyalhero_a7391ae0:
 
     # h "...and begin your long journey back to town." id loyalhero_a7391ae0
-    h "そして、村への長い旅が始まる。" id loyalhero_a7391ae0
+    h "。。。そして、あなたは村へ戻るの長い旅が始まる。" id loyalhero_a7391ae0
 
 # game/script-hero.rpy:357
 translate jp loyalhero_2b3a8bf6:
@@ -928,13 +928,13 @@ translate jp heropart5_27db00e8:
 translate jp heropart5_5e83d4f9:
 
     # h entrance8 "that was a pretty dangerous thing of her to do! but no one got hurt, so at least there's that."
-    h entrance8 "このようなことをするのはとっても危険でのことだが、誰も怪我をしなかったので、少なくともそれは良いことです。"
+    h entrance8 "このようなことをするのはとっても危険でのことだが、誰も怪我をしなかったので、少なくともこれは良いことです。"
 
 # game/script-hero.rpy:402
 translate jp heropart5_708c71bc:
 
     # h entrance9 "you ask her to return to town with you, to reassure everyone of her safety."
-    h entrance9 "あなたは、彼女の安全を確保するために、彼女に一緒に街に戻ってもらう。"
+    h entrance9 "あなたは、彼女の安全を確保するために、彼女に一緒に村に戻ってもらう。"
 
 # game/script-hero.rpy:406
 translate jp heropart5_9686dc1e:
@@ -1024,7 +1024,7 @@ translate jp heropart5_256ed24d:
 translate jp heropart5_10ea1ffb:
 
     # h leave5 "you can't help but feel relieved you got the maiden out of there when you did. but..."
-    h leave5 "あなたは少女を脱出させることができてよかったと思わずにはいられませんが。しかし。。。"
+    h leave5 "あなたは少女を脱出させることができてよかったことを思わずにはいられませんが。しかし。。。"
 
 # game/script-hero.rpy:442
 translate jp bystanderleadin_6d0ba5f8:
@@ -1042,7 +1042,7 @@ translate jp bystanderleadin_1a09cde9:
 translate jp bystanderleadin_0ca2024b:
 
     # h leave8 "what is she thinking? it's too dangerous to continue. you feel hopeless."
-    h leave8 "彼女は何を考えているのだろう。このままでは危険だ。あなたは無力を感じています。"
+    h leave8 "彼女は何を考えているのだろう。このままじゃ危険だろ。あなたは無力を感じています。"
 
 # game/script-hero.rpy:445
 translate jp bystanderleadin_49cdfef4:
@@ -1150,7 +1150,7 @@ translate jp heropart6_3a3c64c0:
 translate jp heropart6_60e28bf2:
 
     # h climax16 "you join it, vowing to slay the cowardly demons on the other side."
-    h climax16 "あなたはそれに参加して、必ず対側の臆病な悪魔たちを倒すことを誓います。"
+    h climax16 "あなたも扉を叩くのを参加して、必ず対側の臆病な悪魔たちを倒すことを誓います。"
 
 # game/script-hero.rpy:472
 translate jp heropart6_8ecb66d9:
@@ -1210,13 +1210,13 @@ translate jp heropart6_313b2f01:
 translate jp heropart6_fc3a720d:
 
     # h retribution4 "you look to the maiden. she's crying, hands clasped together in prayer. to have faith in a time like this... you envy her."
-    h retribution4 "彼女は泣いていて、手を合わせて祈っています。こんな時にも信念を持っているなんて。。。あなたは彼女が羨ましいです。"
+    h retribution4 "彼女は泣いていて、手を合わせて祈っています。こんな時にも信念を持っているなんて。。。あなたは彼女が羨ましい。"
 
 # game/script-hero.rpy:497
 translate jp heropart6_f0cad747:
 
     # h retribution5 "the two of you, the overlord, and the underling's corpse are all consumed by flames."
-    h retribution5 "あなたと少女二人と魔王も、小悪魔の死体も、すべて炎に包まれてしまいます。"
+    h retribution5 "あなたと少女と魔王、小悪魔の死体も、すべて炎に包まれてしまいます。"
 
 # game/script-hero.rpy:510
 translate jp heropart6_7897a202:
@@ -1246,13 +1246,13 @@ translate jp bystanderhero_2bf8cf69:
 translate jp bystanderhero_bfff357a:
 
     # "BYSTANDER HERO END A"
-    "勇者エンド：傍観者Aルート"
+    "勇者エンド：傍観者A"
 
 # game/script-hero.rpy:531
 translate jp bystanderhero_3fc69954:
 
     # "BYSTANDER HERO END B"
-    "勇者エンド：傍観者Bルート"
+    "勇者エンド：傍観者B"
 
 # game/script-hero.rpy:536
 translate jp unluckyhero_96f03138:
@@ -1330,7 +1330,7 @@ translate jp strings:
 
     # game/script-hero.rpy:373
     old "STAB THE OVERLORD WHILE YOU CAN"
-    new "チャンスがある今のうちに魔王を刺し倒しておこう"
+    new "チャンスがあるのうちに魔王を刺し倒しておこう"
 
     # game/script-hero.rpy:373
     old "THIS IS ALL JUST A BIG MISUNDERSTANDING"
