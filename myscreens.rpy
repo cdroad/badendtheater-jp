@@ -120,7 +120,7 @@ translate jp strings:
 
     # game/myscreens.rpy:169
     old "trusting"
-    new "疑うことなく信じる"
+    new "信頼さ"
 
     # game/myscreens.rpy:171
     old "believes the maiden's story"
@@ -144,7 +144,7 @@ translate jp strings:
 
     # game/myscreens.rpy:187
     old "doesn't scream at the sight of the underling"
-    new "小悪魔の前では叫ばない"
+    new "悪魔の前では叫ばない"
 
     # game/myscreens.rpy:189
     old "obedient"
@@ -172,7 +172,7 @@ translate jp strings:
 
     # game/myscreens.rpy:208
     old "hungry"
-    new "ハングリー"
+    new "腹減った"
 
     # game/myscreens.rpy:210
     old "eats the maiden immediately"
@@ -236,11 +236,11 @@ translate jp strings:
 
     # game/myscreens.rpy:273
     old "the human doll"
-    new "人間のドール"
+    new "人間ドール"
 
     # game/myscreens.rpy:274
     old "the demon doll"
-    new "悪魔のドール"
+    new "悪魔ドール"
 
     # game/myscreens.rpy:289
     old "WELCOME TO THE TUTORIAL! SELECT A DOLL TO BEGIN THE STORY."
@@ -268,7 +268,7 @@ translate jp strings:
 
     # game/myscreens.rpy:318
     old "DEMON DOLL"
-    new "悪魔のドール"
+    new "悪魔ドール"
 
     # game/myscreens.rpy:319
     old "wicked"
@@ -460,7 +460,7 @@ translate jp strings:
 
     # game/myscreens.rpy:858
     old "{color=#46EBFF}underling behavior:{/color} hungry"
-    new "{color=#46EBFF}悪魔の行動 :{/color} ハングリー"
+    new "{color=#46EBFF}悪魔の行動 :{/color} 腹減った"
 
     # game/myscreens.rpy:861
     old "the hero finds the maiden. the overlord is upset."
@@ -648,7 +648,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1141
     old "{color=#C20038}IMPRISONED:{/color} the maiden is captured by the underling and sent to the dungeon."
-    new "{color=#C20038}入獄:{/color} 少女は悪魔達に捕らえられ、地下牢に送られます。"
+    new "{color=#C20038}入獄:{/color} 少女は悪魔達に捕らえられ、ダンジョンに送られます。"
 
     # game/myscreens.rpy:1149
     old "{color=#C20038}DEVOUT:{/color} the maiden prays as everyone is consumed by flames."
@@ -680,7 +680,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1230
     old "the underling devours the maiden {color=#46EBFF}(hungry){/color}"
-    new "小悪魔が少女を食い尽くす {color=#46EBFF}(ハングリー){/color}"
+    new "小悪魔が少女を食い尽くす {color=#46EBFF}(腹減った){/color}"
 
     # game/myscreens.rpy:1238
     old "the underling returns to the castle"
@@ -932,11 +932,11 @@ translate jp strings:
 
     # game/myscreens.rpy:1820
     old "If you choose to enter BAD END THEATER, you will witness many scenes involving violence, murder, and death."
-    new "BAD END THEATERにプレイすると、暴力、殺人、死を伴うシーンが多く見られます。"
+    new "バッド・エンド・シアターをプレイすると、暴力、殺人、死を伴うシーンが多く見られます。"
 
     # game/myscreens.rpy:1821
     old "Despite this dark subject matter, the overall tone of my story is meant to be lighthearted. Not too graphic, and never lingering too long in any particular misery."
-    new "このゲームは暗いテーマの物語ですけど、私の物語の全体的には明るい物語で。あまり生々しくなく、特定の不幸の物語に長く留まることもしません。"
+    new "このゲームは暗いテーマの物語ですけど、私の物語の全体的には明るい物語で。あまり生々しくない、特定の不幸の物語に長く留まることもしません。"
 
     # game/myscreens.rpy:1822
     old "With that said, please exit the theater if you ever feel overwhelmed by despair. My intention is not to harm, but to entertain."
@@ -968,7 +968,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1871
     old "I'm waiting for that day."
-    new "私はその日を待っています。"
+    new "私はその日をずっと待っています。"
 
     # game/myscreens.rpy:1873
     old "I've finally fulfilled a childhood dream of mine... Yes, that's right! I opened up my very own theater!"
@@ -984,7 +984,7 @@ translate jp strings:
 
     # game/myscreens.rpy:1876
     old "Wherever you are."
-    new "あなたがどこにいようとも"
+    new "あなたがどこにいようとも。"
 
     # game/myscreens.rpy:1878
     old "I've been feeling a little depressed lately."
@@ -1020,11 +1020,11 @@ translate jp strings:
 
     # game/myscreens.rpy:1887
     old "You were so rude. You wouldn't accept any of my justifications. And yet..."
-    new "あなたはとても失礼な人ですね。あなたは当然私の弁解を認めようともしなかった。それなのに。。。"
+    new "あなたはとても失礼な人ですね。あなたは当然私の弁解を聞けようともしなかった。それなのに。。。"
 
     # game/myscreens.rpy:1888
     old "You managed to convince me. It really WOULD be better if everyone could live in harmony... however unrealistic that felt."
-    new "あなたは私を納得させることができました。みんなが仲良く暮らせればいいと思うんだけど。。。現実的は無理ですよね。"
+    new "あなたは私を納得させてくれた。でも現実のみんなが仲良く暮らせることは。。。やはり無理ですよね。"
 
     # game/myscreens.rpy:1889
     old "I look back fondly on that day, even now. I wonder if, somewhere, you're thinking of it too."

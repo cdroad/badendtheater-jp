@@ -40,7 +40,7 @@ translate jp strings:
 
     # game/screens.rpy:451
     old "START"
-    new "始める"
+    new "スタート"
 
     # game/screens.rpy:461
     old "BACKLOG"
@@ -68,7 +68,7 @@ translate jp strings:
 
     # game/screens.rpy:503
     old "ARE YOU SURE?"
-    new "よろしいですか？"
+    new "これでよろしいですか？"
 
     # game/screens.rpy:549
     old "QUIT"
@@ -92,7 +92,7 @@ translate jp strings:
 
     # game/screens.rpy:818
     old "ANIMATION"
-    new "動画"
+    new "アニメーション"
 
     # game/screens.rpy:823
     old "TRANSLATION"

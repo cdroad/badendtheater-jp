@@ -4,7 +4,7 @@ translate jp strings:
 
     # game/credits.rpy:1
     old "STORY + ART + MUSIC\n\nNomnomNami"
-    new "脚本＋美術＋音楽\n\nNomnomNami"
+    new "脚本＋美術＋音楽\n\nNomnomNami\n\n\n\n翻訳\n\nLin YuFan"
 
     # game/credits.rpy:2
     old "ANIMATION\n\nchunderfins"
@@ -56,15 +56,15 @@ translate jp strings:
 
     # game/credits.rpy:16
     old "as himself"
-    new "本人の出演"
+    new "本人出演"
 
     # game/credits.rpy:17
     old "as herself"
-    new "本人の出演"
+    new "本人出演"
 
     # game/credits.rpy:18
     old "as themself"
-    new "本人の出演"
+    new "本人出演"
 
     # game/credits.rpy:20
     old "WRITTEN AND PRODUCED BY"
