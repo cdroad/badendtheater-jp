@@ -64,7 +64,7 @@ translate jp firsttrueend_9231fbb4:
 translate jp firsttrueend_2eeb4cff:
 
     # y "you must've forgotten where you were..."
-    y "自分がどこにいるのか忘れたのか。"
+    y "自分がどこにいるのか忘れたのか。。。"
 
 # game/script.rpy:226
 translate jp firsttrueend_d962558c:
@@ -88,7 +88,7 @@ translate jp firsttrueend_4e1333de:
 translate jp firsttrueend_ead766e0:
 
     # y "at some point, you grew attached to my little cast. you started to relate to their flaws, their plights..."
-    y "いつの間にか自分がこれら愛しドールに好きになって、そして彼らの欠点や窮状を理解し始めた。。。"
+    y "いつの間にか自分がこれらの愛しドールに好きになって、そして彼らの欠点や窮状を理解し始め。。。"
 
 # game/script.rpy:230
 translate jp firsttrueend_043c4503:
@@ -100,7 +100,7 @@ translate jp firsttrueend_043c4503:
 translate jp firsttrueend_b8a494f1:
 
     # y "but you aren't going to find that here in MY theater! my lovingly crafted labyrinth of suffering!"
-    y "だが、私のシアターにはこんなことにこのような結局はない！このシアターっは私が愛情を込めて作られた苦しみの迷宮だ"
+    y "だが、私のシアターにはこんな幸せような結局はない！このシアターは私が愛情を込めて作られた苦しみの迷宮だ"
 
 # game/script.rpy:234
 translate jp firsttrueend_39ae1a87:
@@ -148,7 +148,7 @@ translate jp firsttrueend_37ed6854:
 translate jp secondtrueend_321417e9:
 
     # y "no matter the perspective... the true ending remains the same. that's what makes it true!"
-    y "誰の視点か見ても、本物の結末はいつも同じ、それこそが本当の結末と呼ばれる。"
+    y "誰の視点か見ても、本物のエンドはいつも同じ、それこそが本当のエンドと呼ばれる。"
 
 # game/script.rpy:255
 translate jp secondtrueend_8fd0f97d:
@@ -166,7 +166,7 @@ translate jp secondtrueend_20da1c3f:
 translate jp secondtrueend_5d829787:
 
     # y "will you give in to despair? or...?"
-    y "絶望に負けていませんか？ または。。。"
+    y "あなたは絶望に負てしますか？ または。。。"
 
 # game/script.rpy:272
 translate jp burninghero_373cea22:
@@ -184,19 +184,19 @@ translate jp burningmaiden_0ce65af3:
 translate jp burningunderling_be50fd15:
 
     # y "the underling is burning."
-    y "ちんぴらは燃焼している。"
+    y "小悪魔は燃焼している。"
 
 # game/script.rpy:311
 translate jp burningoverlord_630d242a:
 
     # y "the overlord is burning."
-    y "まおうは燃焼している。"
+    y "魔王は燃焼している。"
 
 # game/script.rpy:334
 translate jp yourturn_f658de45:
 
     # t "\"SO YOU'RE BACK... ARE YOU READY TO CHALLENGE ME ONCE MORE?\""
-    t "\"戻っったですね。。。また私に挑戦する気があるのか？\""
+    t "\"戻ったですね。。。また私に挑戦する気があるのかい？\""
 
 # game/script.rpy:343
 translate jp yourturn_79eec88a:
@@ -208,7 +208,7 @@ translate jp yourturn_79eec88a:
 translate jp yourturn_7512bf9e:
 
     # y "you want to answer the maiden's prayers. you've decided to find a way to save everyone!"
-    y "君は少女の祈りに応えて、みんなを救う方法を見つけたいと決めた。"
+    y "君は少女の祈りに応えて、みんなを救う方法を見つけると決めた。"
 
 # game/script.rpy:350
 translate jp yourturn_6f0c2d8b:
@@ -220,7 +220,7 @@ translate jp yourturn_6f0c2d8b:
 translate jp yourturn_c20cc1c1:
 
     # y "is there really nothing you can do to keep them all from getting killed in the end?"
-    y "本当に悲劇の結末を阻止できないのか？"
+    y "本当に悲劇のエンド阻止できないのか？"
 
 # game/script.rpy:352
 translate jp yourturn_b5d3c39c:
@@ -262,25 +262,25 @@ translate jp youstart_3b6d78ab:
 translate jp youstart_3887ec62:
 
     # y "you are... you. but why are you pitch-black? you feel that this body doesn't accurately represent you, but you move past it."
-    y "どうして？この体は自分のものではないと感じた、それに自分が真っ暗になったことを気にせず。"
+    y "どうして？この体は自分のものではないと感じた、それに自分が真っ暗になったことも気にせず。"
 
 # game/script.rpy:392
 translate jp youstart_d818d3d1:
 
     # y start4 "the hero, maiden, underling, and overlord have been staring at you too."
-    y start4 "勇者、少女、悪魔、魔王もあなたに見ています。"
+    y start4 "勇者、少女、悪魔、魔王もあなたに見つめています。"
 
 # game/script.rpy:393
 translate jp youstart_d590fe11:
 
     # y start5 "they look like they don't really know what they're supposed to do right now. you guess that's because you're usually the one guiding them."
-    y start5 "彼らは今、何をすべきなのか、よくわかっていないようだ。それは、普段から彼らを導いているのは、たいていあなただからです。"
+    y start5 "彼らは今、何をすべきなのか、よくわかっていないようだ。それは、普段彼らを導いているのは、たいていあなただからです。"
 
 # game/script.rpy:394
 translate jp youstart_984103fd:
 
     # y start4 "what will you say to them?"
-    y start4 "彼らに何と言いますか"
+    y start4 "彼らに何と言いますか？"
 
 # game/script.rpy:397
 translate jp youstart_a151774e:
@@ -292,7 +292,7 @@ translate jp youstart_a151774e:
 translate jp youstart_411e06f9:
 
     # y explain "you explain to the group that you've witnessed their many terrible intertwining fates, and now you're searching for a good ending!"
-    y explain "彼らの数多くの恐ろしい運命の絡み合いを目の当たりにしたことを説明し、あなたは彼らを救いたいことを求めています。"
+    y explain "彼らの数多くの恐ろしい運命の絡み合いを目の当たりにしたことを説明し、あなたは今彼らを救いたいことを求めています。"
 
 # game/script.rpy:400
 translate jp youstart_e3d07814:
@@ -304,7 +304,7 @@ translate jp youstart_e3d07814:
 translate jp youstart_3edf62f3:
 
     # m "\"my prayers have been answered...! you must be...\""
-    m "私の祈りが通じた...！あなたはきっと...。"
+    m "\"私の祈りが通じた。。。！あなたはきっと。。。\""
 
 # game/script.rpy:404
 translate jp youstart_39486987:
@@ -316,25 +316,25 @@ translate jp youstart_39486987:
 translate jp youstart_2c8896ea:
 
     # y start8 "if there was any god here, they'd be the final boss. that's just how these role-playing games go..."
-    y start8 "ものここが神があるなら、彼女はきっとラストボスになる。これがRPGゲームのルーティーン。"
+    y start8 "もしもここが神があるなら、彼女はきっとラストBOSSになる。これこそがRPGゲームのルーティーン。"
 
 # game/script.rpy:407
 translate jp youstart_b5635c1a:
 
     # y start9 "now you realize what the REAL true ending must be!"
-    y start9 "これで、本当の意味でのトゥルー・エンディングがわかったでしょうか。"
+    y start9 "これで、あなたはトゥルー・エンディングの意味がわかったでしょうか！"
 
 # game/script.rpy:411
 translate jp youstart_87307103:
 
     # t "\"NOW, NOW, NOW. ENOUGH OF THIS.\""
-    t "\"やれやれ、もううんざりだ。\""
+    t "\"やれやれ、私はもううんざりだ。\""
 
 # game/script.rpy:412
 translate jp youstart_8f231906:
 
     # t "\"I ADMIT I'VE BEEN ENCOURAGING YOU ALL ALONG, BUT A SELF-INSERT STORY? HOW PASSE...\""
-    t "あなたをずっと励ましてきたことは認めますが、自分がゲームに入ること？古すぎる。。。"
+    t "\"私はあなたをずっと励ましすことは認めますが、自分がゲームに入ること？古すぎる。。。\""
 
 # game/script.rpy:413
 translate jp youstart_f78a9281:
@@ -352,7 +352,7 @@ translate jp youstart_6ca761ea:
 translate jp youstart_8a4e740b:
 
     # t "\"I AM THE NARRATOR, STORYTELLER, GOD OF THIS WORLD! CALL ME TRAGEDY, IF YOU'D LIKE.\""
-    t "\"私はナレーター、ストーリーテラー、この世界の神だ！もしよければ、悲劇で呼んでください。\""
+    t "\"私はナレーター、ストーリーテラー、この世界の神だ！もしよければ、悲劇で呼んでくれ。\""
 
 # game/script.rpy:417
 translate jp youstart_31dfa88c:
@@ -370,7 +370,7 @@ translate jp youstart_a3271b21:
 translate jp youstart_b749f7db:
 
     # t "\"I SINCERELY HOPE YOU'VE BEEN ENJOYING YOUR TIME IN MY THEATER!\""
-    t "\"私の劇場であなたの時間を楽しんでいることを心から願っています！だが\""
+    t "\"私の劇場であなたを時間を楽しんでいることを心から願っています！だが\""
 
 # game/script.rpy:420
 translate jp youstart_61391063:
@@ -394,7 +394,7 @@ translate jp youstart_101cafe3:
 translate jp youstart_47e5ff13:
 
     # y tragedy6 "you think defeating me might just be the only way to see a better ending..."
-    y tragedy6 "あなたはベター・エンディングを見るには「悲劇」を倒すしかないと思っている。。。"
+    y tragedy6 "あなたはよりいいエンドを見るには「悲劇」を倒すしかないと思っている。。。"
 
 # game/script.rpy:431
 translate jp youstart_4b84599a:
@@ -424,7 +424,7 @@ translate jp finalbattlestart_21a0d318:
 translate jp yourmove_8cda8f2b:
 
     # y "you try your best to tear me down, but you can't seem to do any damage. you don't truly exist in this world, after all."
-    y "あなたは全力で尽くしたが、何の損傷も与えることはない。あなたはこの世に存在していないのですから。"
+    y "あなたは全力で尽くしたが、悲劇には何の損傷も与えない。あなたがこの世に存在していないのですから。"
 
 # game/script.rpy:471
 translate jp yourmove_f93cd3ca:
@@ -436,19 +436,19 @@ translate jp yourmove_f93cd3ca:
 translate jp yourmove_545ef0d1:
 
     # t "\"OH, IS THAT ALL? YOU'LL NEVER DEFEAT ME LIKE THAT.\""
-    t "\"ああ、それだけですか。そんなんじゃ私に勝てないよ。\""
+    t "\"それだけですか。そんなんじゃ私に勝てないよ。\""
 
 # game/script.rpy:486
 translate jp yourmove_5ac0cc14:
 
     # t "\"PERHAPS YOU DON'T UNDERSTAND JUST HOW OUTCLASSED YOU ARE HERE...\""
-    t "私との実力の差がわかっていないみたいですね。"
+    t "\"私との実力の差がわかっていないみたいですね。。。\""
 
 # game/script.rpy:499
 translate jp mymove_f7e0a27d:
 
     # t "\"BEHOLD, MY BEAUTIFULLY TRAGIC TALES!\""
-    t "ほら、美しい悲劇ではないじゃないか！"
+    t "\"ほら、これは美しい悲劇ではないじゃないか！\""
 
 # game/script.rpy:501
 translate jp mymove_097d7b2a:
@@ -472,13 +472,13 @@ translate jp mymove_e35dbfa7:
 translate jp mymove_6e8b8dc4:
 
     # y "you've witnessed [persistent.endings_seen] of my painstakingly crafted endings. your heart does indeed ache for these characters..."
-    y "あなたはもう私が丁寧に作られた[persistent.endings_seen]個悲劇を見た。確かに君はこれらのドールを気に入った。"
+    y "あなたはもう私が丁寧に作られた[persistent.endings_seen]個悲劇を見た。確かにあなたはこれらのドールを気に入った。"
 
 # game/script.rpy:507
 translate jp mymove_45159723:
 
     # t "\"HOW COULD YOU WANT TO PUT AN END TO ALL THIS? DO YOU TRULY CARE FOR THEM THAT MUCH?\""
-    t "どうしたら全てを終わらせようと思うのか、そんなにドールたちが気になるもんですか？"
+    t "\"どうしたら全てを終わらせようと思うのか、そんなにドールたちが気になるもんですか？\""
 
 # game/script.rpy:508
 translate jp mymove_13558c37:
@@ -514,7 +514,7 @@ translate jp savehero_c1f2467d:
 translate jp savehero_847687fc:
 
     # h "\"a-are you some kind of demon?!\""
-    h "\"君は何かの悪魔ですか？\""
+    h "\"あなたは何かの悪魔ですか？\""
 
 # game/script.rpy:550
 translate jp savehero_d37d36d0:
@@ -538,13 +538,13 @@ translate jp savehero_e7ce68f3:
 translate jp savehero_225064e6:
 
     # y "you sense his pride in his hobby. you wonder if the costumes are what attracted him to the role of \"hero\"..."
-    y "彼の趣味に対する誇りを感じることを気ついた。まさか、衣装のおかげで勇者になりたいと思ったのかなとあなたはそう思う。"
+    y "彼の趣味に対する誇りを感じることを気ついた。まさか、衣装のおかげで\"勇者\"になりたいと思ったのかなとあなたはそう思う。"
 
 # game/script.rpy:556
 translate jp savehero_cd04e6ff:
 
     # h "\"would you like some clothes? you don't seem to be wearing any...\""
-    h "服を希望ですか？あなたは何も着ていないようですが。。。"
+    h "\"あなたは服が欲しいですか？何も着ていないようですが。。。\""
 
 # game/script.rpy:557
 translate jp savehero_a9029503:
@@ -556,7 +556,7 @@ translate jp savehero_a9029503:
 translate jp savehero_52e0c86f:
 
     # y "he is overjoyed by your answer. apparently his outfits are too gaudy for the other townsfolk, so no one else wants them."
-    y "彼はとても喜んでいました。なぜなら、彼が作った衣装は町の人にとって派手すぎて、誰も欲しくないからのです。"
+    y "彼はとても喜んでいました。なぜなら、彼が作った衣装は村の人にとって派手すぎて、誰も欲しくないからのです。"
 
 # game/script.rpy:560
 translate jp savehero_e054fe94:
@@ -574,7 +574,7 @@ translate jp savehero_ffa1f6d3:
 translate jp savehero_9cd3d8fb:
 
     # h "\"i could make a living as a tailor, rather than a hero...? please, tell me what i can do to reach that dream!\""
-    h "勇者ではなく、仕立て屋として生計を立てることができるのか? その夢を叶える方法を教えてください。"
+    h "\"勇者ではなく、仕立て屋として生計を立てることができるのか? その夢を叶える方法を教えてください。\""
 
 # game/script.rpy:566
 translate jp savehero_6e630763:
@@ -586,7 +586,7 @@ translate jp savehero_6e630763:
 translate jp savehero_f407d661:
 
     # h "\"i agreed to follow you, but... i didn't expect to face something like this!\""
-    h "\"ついて行くとを約束しましたが、こんなものと相手をするなんて思わなかった！\""
+    h "\"ついて行くとを約束しましたが、こんなものと相手をするなんて思わなかったよ！\""
 
 # game/script.rpy:575
 translate jp savehero_fe03e2d5:
@@ -598,7 +598,7 @@ translate jp savehero_fe03e2d5:
 translate jp savehero_61ce132c:
 
     # h "\"you're the one who's been killing us... murderer! i can't truly call myself a hero until i see you defeated!\""
-    h "\"今まで私たちを殺していたのはあなたですね...殺人者！あなたが倒れる前に、私は勇者と名乗るのはいけません。\""
+    h "\"今まで私たちを殺していたのはあなたですね...殺人屋！あなたが倒れる前に、私は勇者と名乗るのはいけません。\""
 
 # game/script.rpy:577
 translate jp savehero_11df1f4c:
@@ -640,13 +640,13 @@ translate jp savemaiden_06836861:
 translate jp savemaiden_e69927e7:
 
     # y "the maiden regards you with excited curiosity."
-    y "乙女は興奮した好奇心であなたを見つめている。"
+    y "少女は興奮した好奇心であなたを見つめている。"
 
 # game/script.rpy:598
 translate jp savemaiden_d0824d52:
 
     # m "\"then perhaps you might be a demon? i was hoping i would meet one today!\""
-    m "もしかしたら、あなたは悪魔ですか？今日は会えると思っていたんだ～"
+    m "\"もしかしたら、あなたは悪魔ですか？なんが今日は悪魔に会えると思っていたんだ～\""
 
 # game/script.rpy:599
 translate jp savemaiden_669075ea:
@@ -676,7 +676,7 @@ translate jp savemaiden_572722f8:
 translate jp savemaiden_4487a056:
 
     # y "the maiden is confused by your question. perhaps it was as simple as wanting to reach the place she felt like she belonged."
-    y "少女はあなたの質問に混乱されています。それは、「自分の居場所がある場所に行きたい」というシンプルな答えかもしれません。"
+    y "少女はあなたの質問に混乱されています。実の答えは「自分の居場所がある場所に行きたい」というシンプルな答えかもしれません。"
 
 # game/script.rpy:606
 translate jp savemaiden_70878cfe:
@@ -712,7 +712,7 @@ translate jp savemaiden_0cd75b55:
 translate jp savemaiden_0dd44f3d:
 
     # t "\"YOU WOUND ME, DEAR MAIDEN! IS TRAGEDY REALLY SUCH A TERRIBLE THING TO BEHOLD?\""
-    t "どうして私を傷つける、少女よ！私の悲劇はそんなに恐ろしいものなのか？"
+    t "\"どうして私を傷つける、少女よ！私の悲劇はそんなに恐ろしいものなのか？\""
 
 # game/script.rpy:622
 translate jp savemaiden_1ebf5591:
@@ -742,7 +742,7 @@ translate jp saveunderling_2706b4ff:
 translate jp saveunderling_94455a01:
 
     # y "they call out to you. the other demon guard is sound asleep."
-    y "悪魔が声をかけてくれた。もう一人の魔物の番人は熟睡している。"
+    y "悪魔が声をかけてくれた。もう一つの魔物の番人は熟睡している。"
 
 # game/script.rpy:640
 translate jp saveunderling_dab1f87d:
@@ -754,7 +754,7 @@ translate jp saveunderling_dab1f87d:
 translate jp saveunderling_39c5ab9a:
 
     # y "you explain that no, you're not an intruder. although you're definitely intruding into their story right now..."
-    y "あなたは自分が侵入者ではないと説明したが、今の行為は間違いなく侵入しています..."
+    y "あなたは自分が侵入者ではないと説明したが、今の行為は間違いなく侵入行為です。。。"
 
 # game/script.rpy:642
 translate jp saveunderling_df46cc36:
@@ -784,7 +784,7 @@ translate jp saveunderling_76a986d2:
 translate jp saveunderling_f7ff70fd:
 
     # y "you think of the underling's friends, who had bullied them into an assassination plot only to betray them in the end."
-    y "悪魔を暗殺計画に参加させ、最後には裏切れた悪魔の仲間たちしたことを思い出した。"
+    y "あなたは小悪魔を暗殺計画に参加させ、最後には裏切れた悪魔の仲間たちしたことを思い出した。"
 
 # game/script.rpy:649
 translate jp saveunderling_b2d2e3a9:
@@ -808,7 +808,7 @@ translate jp saveunderling_b1539427:
 translate jp saveunderling_5acce490:
 
     # u "\"so there's a way that even work can be fun...? sounds fake, but i'll tag along with you just in case!\""
-    u "仕事だって楽しくなる方法がある。。。？嘘みたいだけど、ちょっと見に行く！"
+    u "\"仕事だって楽しくなる方法がある。。。？嘘みたいだけど、ちょっと見に行く！\""
 
 # game/script.rpy:656
 translate jp saveunderling_d54f0008:
@@ -850,7 +850,7 @@ translate jp saveunderling_193b8187:
 translate jp saveoverlord_e72c4653:
 
     # y saveoverlord "you enter the overlord's room, relieved to see the fire contained to the torches on the walls."
-    y saveoverlord "あなたは魔王の部屋に入り、壁の松明に込められた炎を見て、ほっとしました。"
+    y saveoverlord "あなたは魔王の部屋に入り、壁の明るい炎を見て、ほっとしました。"
 
 # game/script.rpy:683
 translate jp saveoverlord_8b786e7f:
@@ -862,7 +862,7 @@ translate jp saveoverlord_8b786e7f:
 translate jp saveoverlord_41211d69:
 
     # o "\"who are you? have you come to reside in my castle and serve me?\""
-    o "誰？新し下僕ですか？"
+    o "あなたは誰？新し下僕ですか？"
 
 # game/script.rpy:686
 translate jp saveoverlord_c11711f2:
@@ -886,7 +886,7 @@ translate jp saveoverlord_af738241:
 translate jp saveoverlord_4a1c160b:
 
     # o "\"his quest for revenge was endless and self-perpetuating. there's a reason i had to destroy him...\""
-    o "彼の復讐心は果てしなく、決して終わることはありません。私は違う。。。"
+    o "\"彼の復讐心は果てしなく、これは決して終わることはありません。私は違う。。。\""
 
 # game/script.rpy:692
 translate jp saveoverlord_e3346cf9:
@@ -904,13 +904,13 @@ translate jp saveoverlord_034f4154:
 translate jp saveoverlord_d6caf842:
 
     # y "you realize she must actually be very lonely, only surrounded by soldiers instead of friends."
-    y "彼女の周りが友達ではなく、戦士ばかりに囲まれていた彼女がどれほど孤独だったことが気ついた。"
+    y "あなたは彼女の周りが友達ではなく、戦士ばかりに囲まれていた彼女がどれほど孤独だったことが気ついた。"
 
 # game/script.rpy:696
 translate jp saveoverlord_2eda0424:
 
     # y "no wonder she gets so attached to the maiden."
-    y "少女に対する親しい態度不思議ではありません。"
+    y "ならば少女に対する親しいの態度不思議ではありません。"
 
 # game/script.rpy:697
 translate jp saveoverlord_c6b209ef:
@@ -946,19 +946,19 @@ translate jp saveoverlord_c9b7747f:
 translate jp saveoverlord_44bfded3:
 
     # t "\"AHH, YOU'VE BROUGHT THE OVERLORD! I DON'T STAND A CHANCE NOW!\""
-    t "\"魔王を連れてきたのか！？もう勝ち目はありません!\""
+    t "\"魔王を連れてきたのか！？私はもう勝ち目はない!\""
 
 # game/script.rpy:713
 translate jp saveoverlord_acd2bcf9:
 
     # o "\"you've prevented me from attaining peace for long enough. prepare to die!\""
-    o "私の平和を長い間に妨げてきた奴はあなたですね。死の覚悟はもうできているか？"
+    o "\"私の平和を長い間に妨げてきた奴はあなたですね。死の覚悟はもうできているか？\""
 
 # game/script.rpy:714
 translate jp saveoverlord_9a8d2ca7:
 
     # t "\"HA HA HA... I HOPE YOU'RE PREPARED TO FACE YOUR DEATHS AS WELL.\""
-    t "はぁはぁはぁ。。。。君もね。"
+    t "\"はぁはぁはぁ。。。そのことを言ったら、君もね。\""
 
 # game/script.rpy:715
 translate jp saveoverlord_193b8187:
@@ -988,7 +988,7 @@ translate jp heroturn_25b54963:
 translate jp heroturn_65d6fc2d:
 
     # y "the hero uses his willpower to overcome TRAGEDY!"
-    y "勇者は気力で悲劇を勝った！"
+    y "勇者は根気で悲劇を勝った！"
 
 # game/script.rpy:767
 translate jp maidenturn_c34ddc40:
@@ -1018,7 +1018,7 @@ translate jp maidenturn_66e373d7:
 translate jp underlingturn_4b80d190:
 
     # y "the underling tries to evade TRAGEDY through mischievous means!"
-    y "悪魔は悪戯で悲劇を逃れようとする！"
+    y "悪魔はいたずらで悲劇を逃れようとする！"
 
 # game/script.rpy:786
 translate jp underlingturn_1b987e87:
@@ -1030,7 +1030,7 @@ translate jp underlingturn_1b987e87:
 translate jp underlingturn_3f859475:
 
     # u "\"knock me down and i'll just come back stronger!\""
-    u "私は倒されても、より強くなって戻ってくる!"
+    u "\"私は倒されても、より強くなって戻ってくる!\""
 
 # game/script.rpy:794
 translate jp underlingturn_94d2ea3a:
@@ -1048,13 +1048,13 @@ translate jp overlordturn_96d22115:
 translate jp overlordturn_d11996a5:
 
     # t "\"OH, HAS VIOLENCE REALLY BEEN WORKING OUT FOR YOU SO FAR? I'LL SHOW YOU MY OWN BRUTALITY!\""
-    t "\"ほう？暴力は本当にうまくいっているのだろうか？私のの残忍さを見せてやる!\""
+    t "\"ほう？暴力は本当にうまくいっているのだろうか？私の残忍さを見せてやる!\""
 
 # game/script.rpy:810
 translate jp overlordturn_c1032e5f:
 
     # o "\"i'll reach my TRUE ending with my own power!\""
-    o "\"必ず自分の力でトゥルーエンドに到達します\""
+    o "\"必ず自分の力でトゥルーエンドまで到達します\""
 
 # game/script.rpy:813
 translate jp overlordturn_16c4b9b9:
@@ -1066,7 +1066,7 @@ translate jp overlordturn_16c4b9b9:
 translate jp tragedydamage_b6f876f3:
 
     # y "TRAGEDY is reeling!"
-    y "悲劇は巻き上がっています！"
+    y "悲劇の足どりがしっかりせず！"
 
 # game/script.rpy:1011
 translate jp takedamage_e9f4acad:
@@ -1084,13 +1084,13 @@ translate jp takedamage_da57bda7:
 translate jp yourbadend_aa530b5a:
 
     # y "your HP has run out..."
-    y "HPが切れてしまった。。。"
+    y "あなたのHPが切れてしまった。。。"
 
 # game/script.rpy:1031
 translate jp yourbadend_b6c885cf:
 
     # y "you are overcome by TRAGEDY."
-    y "悲劇に倒された。"
+    y "あなたは悲劇に倒された。"
 
 # game/script.rpy:1035
 translate jp yourbadend_84779109:
@@ -1126,19 +1126,19 @@ translate jp tragedydefeat_cec1d6f2:
 translate jp tragedydefeat_adc19c60:
 
     # y "you all unleash one final attack to destroy TRAGEDY once and for all!"
-    y "最後の攻撃で悲劇を完全に破壊した。"
+    y "あなたの最後の攻撃で悲劇を完全に破壊した。"
 
 # game/script.rpy:1117
 translate jp tragedydefeated_31cd78e4:
 
     # t "\"HA...HA HA HA! YOU'VE DONE IT! YOU'VE MANAGED TO DEFEAT ME!\""
-    t "はぁはぁはぁ！やるじゃないか、私の負けだ。"
+    t "\"はぁはぁはぁ！やるじゃないか、私の負けだ。\""
 
 # game/script.rpy:1118
 translate jp tragedydefeated_82e09ec0:
 
     # t "\"A TRAGIC ENDING FOR TRAGEDY ITSELF! I LOVE IT...! I MUST THANK YOU ALL FOR FULFILLING YOUR ROLES PERFECTLY!\""
-    t "悲劇への悲劇の結末！。。。気に入った！全員自分の役割をしっかりと果たしています。"
+    t "\"悲劇のための悲劇！。。。気に入った！あなた達が自分の役割をしっかりと果たしていることを感謝します。\""
 
 # game/script.rpy:1123
 translate jp tragedydefeated_ec0618bd:
@@ -1180,13 +1180,13 @@ translate jp tragedydefeated_b8a53e40:
 translate jp tragedydefeated_9d38c543:
 
     # t "\"FINALLY, THANK YOU MOST OF ALL! WE COULDN'T HAVE MADE IT HERE WITHOUT YOU!\""
-    t "\"最後に、何よりもあなたを感謝します。あなたのおかげでここまで来ることができました！\""
+    t "\"最後に、何よりもあなたを感謝するべきすす。あなたのお陰でここまで来ることができました！\""
 
 # game/script.rpy:1148
 translate jp tragedydefeated_6666752b:
 
     # t "\"YES, MY 'BAD END' THEATER DID CONTAIN A TRULY GOOD ENDING AFTER ALL... I APOLOGIZE FOR ANTAGONIZING YOU FOR SO LONG.\""
-    t "\"はい、私の「バッドエンディング」シアターには、本当は良いエンディングが含まれています。。。ずっとに逆らっていて、本当に申し訳ありませんでした。\""
+    t "\"はい、私の「バッドエンディング」シアターには、本当は良いエンディングが含まれています。。。ずっとにあなたに逆らっていて、本当に申し訳ありませんでした。\""
 
 # game/script.rpy:1149
 translate jp tragedydefeated_33b2a748:
@@ -1198,7 +1198,7 @@ translate jp tragedydefeated_33b2a748:
 translate jp tragedydefeated_c627bb70:
 
     # t "\"...THANK YOU. I REALLY APPRECIATE THAT.\""
-    t "\"ありがとう。感謝します。\""
+    t "\"。。。ありがとう。感謝します。\""
 
 # game/script.rpy:1158
 translate jp tragedydefeated_8a3a030c:
@@ -1210,13 +1210,13 @@ translate jp tragedydefeated_8a3a030c:
 translate jp tragedydefeated_b0757252:
 
     # t "\"WELL, I DID MY BEST.\""
-    t "\"私は頑張った。\""
+    t "\"少なくとも、私は頑張った。\""
 
 # game/script.rpy:1163
 translate jp tragedydefeated_9a6e1618:
 
     # t "\"HAPPY ENDINGS SHOULDN'T ALWAYS COME EASILY. REALITY... IS NOT SO KIND.\""
-    t "\"ハッピーエンドはそんなに簡単で訪れるものではありません。でも、現実は。。。そんなに優しいではないみたいね。\""
+    t "\"ハッピーエンドはそんなに簡単で訪れるものではありません。でも、現実は。。。そんなに優しくないみたいですよね。\""
 
 # game/script.rpy:1164
 translate jp tragedydefeated_b96b7114:
@@ -1246,7 +1246,7 @@ translate jp tragedysend_566dde7c:
 translate jp tragedysend_712a187d:
 
     # t "\"THERE ARE NO MORE TRAGEDIES LEFT FOR ME TO TELL, AFTER ALL.\""
-    t "\"私にはもう伝えるべき悲劇はない。\""
+    t "\"私にはもうあなたに伝えべきの悲劇はいない。\""
 
 # game/script.rpy:1215
 translate jp tragedysend_a2aa0b05:
@@ -1264,7 +1264,7 @@ translate jp tragedysend_6bc7cead:
 translate jp tragedysend_e135d064:
 
     # y "you gently raise your fingers to the cracks in my mask."
-    y "あなたは、ゆっくりと指を立てて、私のマスクの割れ目を指す。"
+    y "あなたは、ゆっくりと指を立てて、悲劇のマスクの割れ目を指す。"
 
 # game/script.rpy:1225
 translate jp tragedysend_fddf1e19:
@@ -1282,19 +1282,19 @@ translate jp tragedysend_2a1cf51c:
 translate jp tragedysend_34b955d8:
 
     # y "you can't help but compare my face to the maiden's."
-    y "あなたはつい少女と私の顔と比較してしまうの。"
+    y "あなたはつい少女と私の顔と比較してし始める。"
 
 # game/script.rpy:1234
 translate jp tragedysend_b4dbfdcb:
 
     # m "\"i'm not her. but it's not like she isn't me, necessarily... that's how it is with fiction.\""
-    m "\"私は彼女ではない、でも彼女が私ではないとは言えない、フィクションの作品は全部そんなことです。\""
+    m "\"私は彼女ではない、でも彼女が私ではないとは言えない、フィクションの作品は全部そんなんものです。\""
 
 # game/script.rpy:1235
 translate jp tragedysend_38f40da4:
 
     # m "\"would you like to hear... not another ending, but...\""
-    m "\"別のエンディングのことではありませんが。。。別のことを聞きたいですか。。。\""
+    m "\"別のエンディングのことではない。。。別のことを聞いてもいいですか。。。\""
 
 # game/script.rpy:1236
 translate jp tragedysend_d9acf9a7:
@@ -1318,7 +1318,7 @@ translate jp tragedysend_0233b1c9:
 translate jp tragedysend_6906077a:
 
     # m "\"it doesn't have a happy ending.\""
-    m "\"実は、完全無欠の結末はない。\""
+    m "\"実は、完全無欠のエンドはない。\""
 
 # game/script.rpy:1246
 translate jp tragedysend_76e52f5a:
@@ -1330,7 +1330,7 @@ translate jp tragedysend_76e52f5a:
 translate jp tragedysend_afa30c7b:
 
     # y "in this world... there are no such things as demons. or even heroes, really."
-    y "この世には。。。悪魔もヒーローも存在しません、本当です。"
+    y "この世には。。。悪魔も勇者も存在しません、本当です。"
 
 # game/script.rpy:1248
 translate jp tragedysend_1943283c:
@@ -1342,7 +1342,7 @@ translate jp tragedysend_1943283c:
 translate jp tragedysend_a6c3ff4e:
 
     # y "she met someone. another girl."
-    y "彼女は、誰かに会えった。もう一人の女の子。"
+    y "彼女は、もう一人の女の子に会えった。"
 
 # game/script.rpy:1250
 translate jp tragedysend_8b8861e7:
@@ -1354,7 +1354,7 @@ translate jp tragedysend_8b8861e7:
 translate jp tragedysend_9fdc4223:
 
     # y "the two were inseparable. and for a time... everything was just wonderful."
-    y "2人は切っても切れない関係だった。。。短いでしたが、すべてが美しかった。"
+    y "2人は切っても切れない関係だった。。。短い時間でしたが、すべては美しかった。"
 
 # game/script.rpy:1252
 translate jp tragedysend_10703b50:
@@ -1366,7 +1366,7 @@ translate jp tragedysend_10703b50:
 translate jp tragedysend_683ac1bc:
 
     # y "that is the reality for many. this pair was no different..."
-    y "多くのペアにとってこれが現実なのです。このペアもそうでした。。。"
+    y "多分世の中の多くのペアにとってこれこそが現実。彼女達もそうでした。。。"
 
 # game/script.rpy:1254
 translate jp tragedysend_beebd0a1:
@@ -1378,7 +1378,7 @@ translate jp tragedysend_beebd0a1:
 translate jp tragedysend_f29217b4:
 
     # y "she... no, we..."
-    y "彼女は。。。いいえ、私たち。。。"
+    y "彼女達は。。。いいえ、私たち。。。"
 
 # game/script.rpy:1257
 translate jp tragedysend_3ba441ce:
@@ -1414,7 +1414,7 @@ translate jp tragedysend_2609a49b:
 translate jp tragedysend_1e67d764:
 
     # m "\"huh...?\""
-    m "\"なに。。。？\""
+    m "\"ええど。。。？\""
 
 # game/script.rpy:1274
 translate jp tragedysend_38844f1d:
@@ -1456,7 +1456,7 @@ translate jp tragedysend_d4320eac:
 translate jp tragedysend_1da2cfb8:
 
     # m "\"why didn't you reveal yourself sooner? i feel like such a fool...\""
-    m "\"なぜもっと早く正体を明かさせくれなかったのか、自分が馬鹿みたい。。。\""
+    m "\"なぜもっと早く正体を教えてくれなかったのか、自分の方が馬鹿みたい。。。\""
 
 # game/script.rpy:1282
 translate jp tragedysend_d314442b:
@@ -1528,7 +1528,7 @@ translate jp tragedysend_1789cd36:
 translate jp reset_d1f2e2b9:
 
     # y "there's nothing more to see, my love. but if you'd like to reset..."
-    y "もう見るものはありません、ダーリン。どうしても見たいなら。リセットしかない。。。"
+    y "もう見るものはありません、ダーリン。"
 
 # game/script.rpy:1412
 translate jp reset_741be00a:
@@ -1540,13 +1540,13 @@ translate jp reset_741be00a:
 translate jp reset_552f3f55:
 
     # y "oh, so you weren't done with my bad endings, and now you're back for more!"
-    y "私が作ったバッドエンディングに飽き足らず、また戻ってきてくれたんですか！"
+    y "私が作ったバッドエンディングに飽き足らずに、また戻ってきてくれたんですか！"
 
 # game/script.rpy:1415
 translate jp reset_1f6d5e02:
 
     # y "you'll have to cancel out your true ending if you want to go back to the way things were before our final battle."
-    y "最後の戦い前の状態に戻るためには、トゥルー・エンディングを諦めなければなりません。"
+    y "最後の戦いの前の状態に戻るためには、トゥルー・エンディングを諦めなければなりません。"
 
 # game/script.rpy:1417
 translate jp reset_b83acac6:
@@ -1564,7 +1564,7 @@ translate jp reset_5888113c:
 translate jp reset_97c59158:
 
     # y "you don't want to play after all...? well, alright..."
-    y "結局はやりたくないのか。。。？まぁ、いいか。。。"
+    y "結局やりたくないのか。。。？まぁ、いいか。。。"
 
 # game/script.rpy:1426
 translate jp reset_e99fb906:
